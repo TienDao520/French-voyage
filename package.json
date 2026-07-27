@@ -1,0 +1,28 @@
+{
+  "name": "french-voyage",
+  "version": "0.2.0",
+  "private": true,
+  "description": "French Voyage — a French A1–A2 learning platform. React + Vite front end, optional Express + SQLite sync API.",
+  "license": "MIT",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace client",
+    "dev:server": "npm run dev --workspace server",
+    "build": "npm run build --workspace client",
+    "test": "npm run test --workspace client",
+    "lint": "eslint client/src server/src --ext .js,.jsx",
+    "format": "prettier --write \"**/*.{js,jsx,json,scss,md}\""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
