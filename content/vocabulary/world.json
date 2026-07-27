@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "voc-cit-001",
+    "fr": "la ville",
+    "en": "town, city",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "J'habite dans une petite ville.",
+        "en": "I live in a small town."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-002",
+    "fr": "le centre-ville",
+    "en": "town centre",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Le centre-ville est très animé.",
+        "en": "The town centre is very lively."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-003",
+    "fr": "la rue",
+    "en": "street",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Ma rue est calme le soir.",
+        "en": "My street is quiet in the evening."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-004",
+    "fr": "l'avenue",
+    "en": "avenue",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "L'avenue est bordée d'arbres.",
+        "en": "The avenue is lined with trees."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-005",
+    "fr": "la place",
+    "en": "square, seat, space",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "On se retrouve sur la place.",
+        "en": "We'll meet on the square."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-006",
+    "fr": "le quartier",
+    "en": "neighbourhood, district",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "C'est un quartier tranquille.",
+        "en": "It's a quiet neighbourhood."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-007",
+    "fr": "le pont",
+    "en": "bridge",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Traversez le pont et tournez à droite.",
+        "en": "Cross the bridge and turn right."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-008",
+    "fr": "le parc",
+    "en": "park",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Je cours dans le parc le matin.",
+        "en": "I run in the park in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-009",
+    "fr": "l'église",
+    "en": "church",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "L'église est en face de la mairie.",
+        "en": "The church is opposite the town hall."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-010",
+    "fr": "la mairie",
+    "en": "town hall",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Le mariage a lieu à la mairie.",
+        "en": "The wedding takes place at the town hall."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-011",
+    "fr": "la poste",
+    "en": "post office",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Je vais à la poste envoyer un colis.",
+        "en": "I'm going to the post office to send a parcel."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-012",
+    "fr": "la gare",
+    "en": "railway station",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "La gare est à dix minutes à pied.",
+        "en": "The station is a ten-minute walk away."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-013",
+    "fr": "l'hôtel",
+    "en": "hotel",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Notre hôtel est près de la plage.",
+        "en": "Our hotel is near the beach."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-014",
+    "fr": "le musée",
+    "en": "museum",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Le musée est fermé le mardi.",
+        "en": "The museum is closed on Tuesdays."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-015",
+    "fr": "la bibliothèque",
+    "en": "library",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "J'étudie à la bibliothèque.",
+        "en": "I study at the library."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-016",
+    "fr": "le cinéma",
+    "en": "cinema",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "On va au cinéma ce soir ?",
+        "en": "Shall we go to the cinema tonight?"
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-017",
+    "fr": "le café (lieu)",
+    "en": "café",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Le café du coin est sympa.",
+        "en": "The café on the corner is nice."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-018",
+    "fr": "à droite",
+    "en": "on the right",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Tournez à droite après la banque.",
+        "en": "Turn right after the bank."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-019",
+    "fr": "à gauche",
+    "en": "on the left",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "La pharmacie est à gauche.",
+        "en": "The pharmacy is on the left."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-020",
+    "fr": "tout droit",
+    "en": "straight ahead",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Continuez tout droit jusqu'au feu.",
+        "en": "Keep going straight ahead to the traffic light."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-021",
+    "fr": "en face de",
+    "en": "opposite",
+    "pos": "prep",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "La boulangerie est en face de l'école.",
+        "en": "The bakery is opposite the school."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-022",
+    "fr": "à côté de",
+    "en": "next to",
+    "pos": "prep",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Le cinéma est à côté du parc.",
+        "en": "The cinema is next to the park."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-023",
+    "fr": "près de",
+    "en": "near",
+    "pos": "prep",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "J'habite près de la gare.",
+        "en": "I live near the station."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-024",
+    "fr": "loin de",
+    "en": "far from",
+    "pos": "prep",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "C'est loin d'ici ?",
+        "en": "Is it far from here?"
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-025",
+    "fr": "entre",
+    "en": "between",
+    "pos": "prep",
+    "gender": null,
+    "level": "A1",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "La poste est entre la banque et le café.",
+        "en": "The post office is between the bank and the café."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-026",
+    "fr": "au coin de",
+    "en": "on the corner of",
+    "pos": "prep",
+    "gender": null,
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Au coin de la rue, il y a un kiosque.",
+        "en": "On the corner of the street there's a newsstand."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-027",
+    "fr": "le plan",
+    "en": "map (of a town)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Vous avez un plan de la ville ?",
+        "en": "Do you have a map of the town?"
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-028",
+    "fr": "le carrefour",
+    "en": "crossroads",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Tournez à droite au carrefour.",
+        "en": "Turn right at the crossroads."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-029",
+    "fr": "le feu rouge",
+    "en": "traffic light",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Arrêtez-vous au feu rouge.",
+        "en": "Stop at the traffic light."
+      }
+    ]
+  },
+  {
+    "id": "voc-cit-030",
+    "fr": "le trottoir",
+    "en": "pavement, sidewalk",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "city and directions",
+    "examples": [
+      {
+        "fr": "Marchez sur le trottoir.",
+        "en": "Walk on the pavement."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-001",
+    "fr": "le voyage",
+    "en": "journey, trip",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Bon voyage !",
+        "en": "Have a good trip!"
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-002",
+    "fr": "les vacances",
+    "en": "holidays, vacation",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je pars en vacances en juillet.",
+        "en": "I'm going on holiday in July."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-003",
+    "fr": "la voiture",
+    "en": "car",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je vais au travail en voiture.",
+        "en": "I go to work by car."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-004",
+    "fr": "le train",
+    "en": "train",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Le train part à huit heures dix.",
+        "en": "The train leaves at ten past eight."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-005",
+    "fr": "l'avion",
+    "en": "plane",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "L'avion atterrit à midi.",
+        "en": "The plane lands at noon."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-006",
+    "fr": "le bus",
+    "en": "bus",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je prends le bus tous les matins.",
+        "en": "I take the bus every morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-007",
+    "fr": "le métro",
+    "en": "underground, subway",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Le métro est plus rapide que le bus.",
+        "en": "The underground is faster than the bus."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-008",
+    "fr": "le vélo",
+    "en": "bicycle",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je fais du vélo le week-end.",
+        "en": "I cycle at the weekend."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-009",
+    "fr": "le taxi",
+    "en": "taxi",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "On prend un taxi, c'est plus simple.",
+        "en": "Let's take a taxi, it's simpler."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-010",
+    "fr": "le billet",
+    "en": "ticket",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Un billet aller-retour, s'il vous plaît.",
+        "en": "A return ticket, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-011",
+    "fr": "l'aller simple",
+    "en": "one-way ticket",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je voudrais un aller simple pour Lyon.",
+        "en": "I'd like a one-way ticket to Lyon."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-012",
+    "fr": "l'aéroport",
+    "en": "airport",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "L'aéroport est à trente kilomètres.",
+        "en": "The airport is thirty kilometres away."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-013",
+    "fr": "la valise",
+    "en": "suitcase",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Ma valise est trop lourde.",
+        "en": "My suitcase is too heavy."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-014",
+    "fr": "le départ",
+    "en": "departure",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Le départ est prévu à seize heures.",
+        "en": "Departure is scheduled for four p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-015",
+    "fr": "l'arrivée",
+    "en": "arrival",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "L'arrivée est à vingt heures.",
+        "en": "Arrival is at eight p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-016",
+    "fr": "le retard",
+    "en": "delay",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Le train a vingt minutes de retard.",
+        "en": "The train is twenty minutes late."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-017",
+    "fr": "la route",
+    "en": "road",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "La route est fermée à cause de la neige.",
+        "en": "The road is closed because of the snow."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-018",
+    "fr": "conduire",
+    "en": "to drive",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je conduis depuis dix ans.",
+        "en": "I have been driving for ten years."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-019",
+    "fr": "le permis de conduire",
+    "en": "driving licence",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "J'ai passé mon permis de conduire l'an dernier.",
+        "en": "I took my driving test last year."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-020",
+    "fr": "la frontière",
+    "en": "border",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Nous avons traversé la frontière à midi.",
+        "en": "We crossed the border at noon."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-021",
+    "fr": "le pays",
+    "en": "country",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Le Canada est un grand pays.",
+        "en": "Canada is a big country."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-022",
+    "fr": "l'étranger",
+    "en": "abroad, foreigner",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Je voudrais travailler à l'étranger.",
+        "en": "I would like to work abroad."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-023",
+    "fr": "la plage",
+    "en": "beach",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Nous passons la journée à la plage.",
+        "en": "We're spending the day at the beach."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-024",
+    "fr": "la montagne",
+    "en": "mountain",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "En hiver, on va à la montagne.",
+        "en": "In winter we go to the mountains."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-025",
+    "fr": "la campagne",
+    "en": "countryside",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Mes grands-parents vivent à la campagne.",
+        "en": "My grandparents live in the countryside."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-026",
+    "fr": "visiter",
+    "en": "to visit (a place)",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Nous avons visité le musée du Louvre.",
+        "en": "We visited the Louvre museum."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-027",
+    "fr": "la carte d'embarquement",
+    "en": "boarding pass",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Présentez votre carte d'embarquement à la porte.",
+        "en": "Show your boarding pass at the gate."
+      }
+    ]
+  },
+  {
+    "id": "voc-tra-028",
+    "fr": "la douane",
+    "en": "customs",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "travel and transport",
+    "examples": [
+      {
+        "fr": "Nous sommes passés à la douane rapidement.",
+        "en": "We got through customs quickly."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-001",
+    "fr": "la nature",
+    "en": "nature",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "J'aime marcher dans la nature.",
+        "en": "I like walking in nature."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-002",
+    "fr": "l'arbre",
+    "en": "tree",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Il y a un grand arbre devant la maison.",
+        "en": "There's a big tree in front of the house."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-003",
+    "fr": "la fleur",
+    "en": "flower",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Elle achète des fleurs chaque semaine.",
+        "en": "She buys flowers every week."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-004",
+    "fr": "la mer",
+    "en": "sea",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "La mer est calme aujourd'hui.",
+        "en": "The sea is calm today."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-005",
+    "fr": "le lac",
+    "en": "lake",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Le lac est gelé en hiver.",
+        "en": "The lake is frozen in winter."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-006",
+    "fr": "la rivière",
+    "en": "river",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "La rivière traverse la ville.",
+        "en": "The river runs through the town."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-007",
+    "fr": "la forêt",
+    "en": "forest",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Nous marchons dans la forêt le dimanche.",
+        "en": "We walk in the forest on Sundays."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-008",
+    "fr": "le ciel",
+    "en": "sky",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Le ciel est bleu et clair.",
+        "en": "The sky is blue and clear."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-009",
+    "fr": "le soleil",
+    "en": "sun",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Le soleil se lève à six heures.",
+        "en": "The sun rises at six."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-010",
+    "fr": "la lune",
+    "en": "moon",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "La lune est pleine ce soir.",
+        "en": "The moon is full tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-011",
+    "fr": "l'animal",
+    "en": "animal",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Les animaux sauvages vivent dans la forêt.",
+        "en": "Wild animals live in the forest."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-012",
+    "fr": "le chien",
+    "en": "dog",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Mon chien s'appelle Max.",
+        "en": "My dog is called Max."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-013",
+    "fr": "le chat",
+    "en": "cat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Le chat dort sur le canapé.",
+        "en": "The cat is sleeping on the sofa."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-014",
+    "fr": "l'oiseau",
+    "en": "bird",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Les oiseaux chantent le matin.",
+        "en": "The birds sing in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-015",
+    "fr": "le cheval",
+    "en": "horse",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Elle monte à cheval le samedi.",
+        "en": "She rides a horse on Saturdays."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-016",
+    "fr": "l'environnement",
+    "en": "environment",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Il faut protéger l'environnement.",
+        "en": "We must protect the environment."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-017",
+    "fr": "la pollution",
+    "en": "pollution",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "La pollution augmente dans les grandes villes.",
+        "en": "Pollution is increasing in big cities."
+      }
+    ]
+  },
+  {
+    "id": "voc-nat-018",
+    "fr": "recycler",
+    "en": "to recycle",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "nature and animals",
+    "examples": [
+      {
+        "fr": "Nous recyclons le papier et le verre.",
+        "en": "We recycle paper and glass."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-001",
+    "fr": "le temps (météo)",
+    "en": "weather",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Quel temps fait-il aujourd'hui ?",
+        "en": "What's the weather like today?"
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-002",
+    "fr": "il fait beau",
+    "en": "the weather is nice",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il fait beau, on va au parc.",
+        "en": "The weather is nice, let's go to the park."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-003",
+    "fr": "il fait mauvais",
+    "en": "the weather is bad",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il fait mauvais, restons à la maison.",
+        "en": "The weather is bad, let's stay home."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-004",
+    "fr": "il fait chaud",
+    "en": "it's hot",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "En août, il fait très chaud.",
+        "en": "In August it's very hot."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-005",
+    "fr": "il fait froid",
+    "en": "it's cold",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il fait froid, prends un manteau.",
+        "en": "It's cold, take a coat."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-006",
+    "fr": "il pleut",
+    "en": "it's raining",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il pleut depuis ce matin.",
+        "en": "It has been raining since this morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-007",
+    "fr": "il neige",
+    "en": "it's snowing",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il neige souvent en janvier.",
+        "en": "It often snows in January."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-008",
+    "fr": "le vent",
+    "en": "wind",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il y a beaucoup de vent aujourd'hui.",
+        "en": "It's very windy today."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-009",
+    "fr": "la pluie",
+    "en": "rain",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "La pluie a duré toute la nuit.",
+        "en": "The rain lasted all night."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-010",
+    "fr": "la neige",
+    "en": "snow",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "La neige couvre les rues.",
+        "en": "The snow covers the streets."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-011",
+    "fr": "le nuage",
+    "en": "cloud",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il y a des nuages mais pas de pluie.",
+        "en": "There are clouds but no rain."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-012",
+    "fr": "l'orage",
+    "en": "storm",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Un orage est prévu ce soir.",
+        "en": "A storm is forecast for tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-013",
+    "fr": "la température",
+    "en": "temperature",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "La température descend à moins dix.",
+        "en": "The temperature drops to minus ten."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-014",
+    "fr": "le degré",
+    "en": "degree",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Il fait vingt degrés dehors.",
+        "en": "It's twenty degrees outside."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-015",
+    "fr": "la météo",
+    "en": "weather forecast",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "J'écoute la météo avant de sortir.",
+        "en": "I listen to the forecast before going out."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-016",
+    "fr": "ensoleillé(e)",
+    "en": "sunny",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "La journée sera ensoleillée.",
+        "en": "The day will be sunny."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-017",
+    "fr": "nuageux / nuageuse",
+    "en": "cloudy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "Le ciel est nuageux ce matin.",
+        "en": "The sky is cloudy this morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-wea-018",
+    "fr": "humide",
+    "en": "damp, humid",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "weather",
+    "examples": [
+      {
+        "fr": "L'air est humide près du lac.",
+        "en": "The air is humid near the lake."
+      }
+    ]
+  }
+]

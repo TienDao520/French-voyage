@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "voc-foo-001",
+    "fr": "la nourriture",
+    "en": "food",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "La nourriture est excellente dans ce restaurant.",
+        "en": "The food is excellent in this restaurant."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-002",
+    "fr": "le pain",
+    "en": "bread",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je mange du pain le matin.",
+        "en": "I eat bread in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-003",
+    "fr": "le fromage",
+    "en": "cheese",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Le fromage français est célèbre.",
+        "en": "French cheese is famous."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-004",
+    "fr": "le beurre",
+    "en": "butter",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Il y a du beurre dans le frigo.",
+        "en": "There's butter in the fridge."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-005",
+    "fr": "l'œuf",
+    "en": "egg",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je prends deux œufs au petit-déjeuner.",
+        "en": "I have two eggs for breakfast."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-006",
+    "fr": "la viande",
+    "en": "meat",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je ne mange pas de viande.",
+        "en": "I don't eat meat."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-007",
+    "fr": "le poulet",
+    "en": "chicken",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Le poulet rôti est délicieux.",
+        "en": "The roast chicken is delicious."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-008",
+    "fr": "le poisson",
+    "en": "fish",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "On mange du poisson le vendredi.",
+        "en": "We eat fish on Fridays."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-009",
+    "fr": "le riz",
+    "en": "rice",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Au Vietnam, on mange du riz tous les jours.",
+        "en": "In Vietnam we eat rice every day."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-010",
+    "fr": "les pâtes",
+    "en": "pasta",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Les pâtes sont prêtes en dix minutes.",
+        "en": "The pasta is ready in ten minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-011",
+    "fr": "la pomme de terre",
+    "en": "potato",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "J'achète des pommes de terre au marché.",
+        "en": "I buy potatoes at the market."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-012",
+    "fr": "le légume",
+    "en": "vegetable",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Il faut manger des légumes chaque jour.",
+        "en": "You should eat vegetables every day."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-013",
+    "fr": "le fruit",
+    "en": "fruit",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Les fruits sont chers en hiver.",
+        "en": "Fruit is expensive in winter."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-014",
+    "fr": "la pomme",
+    "en": "apple",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je mange une pomme après le déjeuner.",
+        "en": "I eat an apple after lunch."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-015",
+    "fr": "la banane",
+    "en": "banana",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Les bananes sont mûres.",
+        "en": "The bananas are ripe."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-016",
+    "fr": "l'orange",
+    "en": "orange",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je bois du jus d'orange le matin.",
+        "en": "I drink orange juice in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-017",
+    "fr": "la tomate",
+    "en": "tomato",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "La salade de tomates est fraîche.",
+        "en": "The tomato salad is fresh."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-018",
+    "fr": "la salade",
+    "en": "salad, lettuce",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je prends une salade en entrée.",
+        "en": "I'll have a salad as a starter."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-019",
+    "fr": "la soupe",
+    "en": "soup",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Une soupe chaude en hiver, c'est parfait.",
+        "en": "Hot soup in winter is perfect."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-020",
+    "fr": "le sucre",
+    "en": "sugar",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Sans sucre, merci.",
+        "en": "No sugar, thanks."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-021",
+    "fr": "le sel",
+    "en": "salt",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Passe-moi le sel, s'il te plaît.",
+        "en": "Pass me the salt, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-022",
+    "fr": "le poivre",
+    "en": "pepper",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je mets du poivre dans la sauce.",
+        "en": "I put pepper in the sauce."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-023",
+    "fr": "le gâteau",
+    "en": "cake",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Ma mère fait un gâteau au chocolat.",
+        "en": "My mother makes a chocolate cake."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-024",
+    "fr": "le chocolat",
+    "en": "chocolate",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "J'adore le chocolat noir.",
+        "en": "I love dark chocolate."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-025",
+    "fr": "le dessert",
+    "en": "dessert",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Qu'est-ce que vous avez comme dessert ?",
+        "en": "What do you have for dessert?"
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-026",
+    "fr": "l'eau",
+    "en": "water",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Une carafe d'eau, s'il vous plaît.",
+        "en": "A jug of water, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-027",
+    "fr": "le café",
+    "en": "coffee, café",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Je prends un café tous les matins.",
+        "en": "I have a coffee every morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-028",
+    "fr": "le thé",
+    "en": "tea",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Elle boit du thé vert.",
+        "en": "She drinks green tea."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-029",
+    "fr": "le lait",
+    "en": "milk",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Il n'y a plus de lait.",
+        "en": "There's no milk left."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-030",
+    "fr": "le jus",
+    "en": "juice",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Un jus de pomme, s'il vous plaît.",
+        "en": "An apple juice, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-031",
+    "fr": "le vin",
+    "en": "wine",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Un verre de vin rouge, s'il vous plaît.",
+        "en": "A glass of red wine, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-032",
+    "fr": "la bière",
+    "en": "beer",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Deux bières, s'il vous plaît.",
+        "en": "Two beers, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-033",
+    "fr": "le repas",
+    "en": "meal",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Le repas était excellent.",
+        "en": "The meal was excellent."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-034",
+    "fr": "avoir faim",
+    "en": "to be hungry",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "J'ai faim, on mange ?",
+        "en": "I'm hungry, shall we eat?"
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-035",
+    "fr": "avoir soif",
+    "en": "to be thirsty",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "J'ai soif après la course.",
+        "en": "I'm thirsty after the run."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-036",
+    "fr": "délicieux / délicieuse",
+    "en": "delicious",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Ce gâteau est délicieux !",
+        "en": "This cake is delicious!"
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-037",
+    "fr": "sucré(e)",
+    "en": "sweet",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Ce dessert est trop sucré pour moi.",
+        "en": "This dessert is too sweet for me."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-038",
+    "fr": "salé(e)",
+    "en": "salty",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "La soupe est un peu salée.",
+        "en": "The soup is a bit salty."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-039",
+    "fr": "épicé(e)",
+    "en": "spicy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "J'aime la cuisine épicée.",
+        "en": "I like spicy food."
+      }
+    ]
+  },
+  {
+    "id": "voc-foo-040",
+    "fr": "frais / fraîche",
+    "en": "fresh",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "food and drink",
+    "examples": [
+      {
+        "fr": "Le poisson est très frais aujourd'hui.",
+        "en": "The fish is very fresh today."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-001",
+    "fr": "le restaurant",
+    "en": "restaurant",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "On dîne au restaurant ce soir.",
+        "en": "We're eating out tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-002",
+    "fr": "la carte",
+    "en": "menu, card",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "La carte, s'il vous plaît.",
+        "en": "The menu, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-003",
+    "fr": "le menu",
+    "en": "set menu",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Je prends le menu à vingt euros.",
+        "en": "I'll take the twenty-euro set menu."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-004",
+    "fr": "le serveur / la serveuse",
+    "en": "waiter / waitress",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Le serveur arrive tout de suite.",
+        "en": "The waiter is coming right away."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-005",
+    "fr": "l'entrée",
+    "en": "starter",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Comme entrée, je prends la soupe.",
+        "en": "As a starter I'll have the soup."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-006",
+    "fr": "le plat principal",
+    "en": "main course",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Le plat principal arrive dans dix minutes.",
+        "en": "The main course is coming in ten minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-007",
+    "fr": "l'addition",
+    "en": "the bill",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "L'addition, s'il vous plaît.",
+        "en": "The bill, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-008",
+    "fr": "le pourboire",
+    "en": "tip",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Au Canada, on laisse un pourboire.",
+        "en": "In Canada we leave a tip."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-009",
+    "fr": "réserver",
+    "en": "to book, to reserve",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Je voudrais réserver une table pour deux.",
+        "en": "I'd like to book a table for two."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-010",
+    "fr": "commander",
+    "en": "to order",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Vous avez choisi ? Je peux commander ?",
+        "en": "Have you chosen? Can I order?"
+      }
+    ]
+  },
+  {
+    "id": "voc-res-011",
+    "fr": "l'assiette",
+    "en": "plate",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "L'assiette est encore chaude.",
+        "en": "The plate is still hot."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-012",
+    "fr": "le verre",
+    "en": "glass",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Un verre d'eau, s'il vous plaît.",
+        "en": "A glass of water, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-013",
+    "fr": "la fourchette",
+    "en": "fork",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Il manque une fourchette.",
+        "en": "There's a fork missing."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-014",
+    "fr": "le couteau",
+    "en": "knife",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Ce couteau ne coupe pas bien.",
+        "en": "This knife doesn't cut well."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-015",
+    "fr": "la cuillère",
+    "en": "spoon",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Je mange la soupe avec une cuillère.",
+        "en": "I eat the soup with a spoon."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-016",
+    "fr": "la terrasse",
+    "en": "terrace",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "On peut s'asseoir en terrasse ?",
+        "en": "Can we sit on the terrace?"
+      }
+    ]
+  },
+  {
+    "id": "voc-res-017",
+    "fr": "à emporter",
+    "en": "takeaway",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "Un sandwich à emporter, s'il vous plaît.",
+        "en": "A sandwich to take away, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-res-018",
+    "fr": "sur place",
+    "en": "eat in",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "restaurant",
+    "examples": [
+      {
+        "fr": "C'est sur place ou à emporter ?",
+        "en": "Is it eat in or takeaway?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-001",
+    "fr": "le magasin",
+    "en": "shop",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Le magasin ouvre à neuf heures.",
+        "en": "The shop opens at nine."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-002",
+    "fr": "le supermarché",
+    "en": "supermarket",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Je vais au supermarché le samedi.",
+        "en": "I go to the supermarket on Saturdays."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-003",
+    "fr": "la boulangerie",
+    "en": "bakery",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "J'achète du pain à la boulangerie.",
+        "en": "I buy bread at the bakery."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-004",
+    "fr": "le marché",
+    "en": "market",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Le marché a lieu le mercredi matin.",
+        "en": "The market takes place on Wednesday morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-005",
+    "fr": "la boucherie",
+    "en": "butcher's shop",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "La boucherie est fermée le lundi.",
+        "en": "The butcher's is closed on Mondays."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-006",
+    "fr": "faire les courses",
+    "en": "to do the shopping",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Je fais les courses le vendredi soir.",
+        "en": "I do the shopping on Friday evening."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-007",
+    "fr": "acheter",
+    "en": "to buy",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "J'achète un cadeau pour ma sœur.",
+        "en": "I'm buying a present for my sister."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-008",
+    "fr": "vendre",
+    "en": "to sell",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Ils vendent des fruits frais.",
+        "en": "They sell fresh fruit."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-009",
+    "fr": "payer",
+    "en": "to pay",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Je paie par carte.",
+        "en": "I'm paying by card."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-010",
+    "fr": "coûter",
+    "en": "to cost",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Combien ça coûte ?",
+        "en": "How much does that cost?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-011",
+    "fr": "le prix",
+    "en": "price",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Le prix est affiché sur l'étiquette.",
+        "en": "The price is shown on the label."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-012",
+    "fr": "l'argent",
+    "en": "money",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Je n'ai pas assez d'argent sur moi.",
+        "en": "I don't have enough money on me."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-013",
+    "fr": "la monnaie",
+    "en": "change, currency",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Gardez la monnaie.",
+        "en": "Keep the change."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-014",
+    "fr": "la carte bancaire",
+    "en": "bank card",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Vous acceptez la carte bancaire ?",
+        "en": "Do you accept bank cards?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-015",
+    "fr": "les espèces",
+    "en": "cash",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Je préfère payer en espèces.",
+        "en": "I prefer to pay in cash."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-016",
+    "fr": "cher / chère",
+    "en": "expensive",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Cette veste est trop chère.",
+        "en": "This jacket is too expensive."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-017",
+    "fr": "bon marché",
+    "en": "cheap",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Ce restaurant est bon marché.",
+        "en": "This restaurant is cheap."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-018",
+    "fr": "gratuit(e)",
+    "en": "free (of charge)",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "L'entrée est gratuite le premier dimanche.",
+        "en": "Entry is free on the first Sunday."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-019",
+    "fr": "les soldes",
+    "en": "the sales",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Les soldes commencent en janvier.",
+        "en": "The sales start in January."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-020",
+    "fr": "la caisse",
+    "en": "checkout, till",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Il y a la queue à la caisse.",
+        "en": "There's a queue at the checkout."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-021",
+    "fr": "le sac",
+    "en": "bag",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Vous voulez un sac ?",
+        "en": "Would you like a bag?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-022",
+    "fr": "le client / la cliente",
+    "en": "customer",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Le client a raison, dit-on.",
+        "en": "The customer is always right, they say."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-023",
+    "fr": "la banque",
+    "en": "bank",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "La banque ferme à seize heures.",
+        "en": "The bank closes at four p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-024",
+    "fr": "le reçu",
+    "en": "receipt",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Gardez le reçu pour l'échange.",
+        "en": "Keep the receipt for the exchange."
+      }
+    ]
+  },
+  {
+    "id": "voc-sho-025",
+    "fr": "rembourser",
+    "en": "to refund",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "shopping",
+    "examples": [
+      {
+        "fr": "Ils m'ont remboursé sans problème.",
+        "en": "They refunded me without any trouble."
+      }
+    ]
+  }
+]

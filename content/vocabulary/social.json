@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "voc-sch-001",
+    "fr": "l'école",
+    "en": "school",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "L'école commence à huit heures.",
+        "en": "School starts at eight."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-002",
+    "fr": "l'université",
+    "en": "university",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'ai étudié à l'université de Hanoï.",
+        "en": "I studied at the university of Hanoi."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-003",
+    "fr": "l'étudiant / l'étudiante",
+    "en": "student",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Ma sœur est étudiante en droit.",
+        "en": "My sister is a law student."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-004",
+    "fr": "le professeur",
+    "en": "teacher",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Le professeur explique la leçon.",
+        "en": "The teacher explains the lesson."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-005",
+    "fr": "le cours",
+    "en": "class, course",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Je viens m'inscrire à un cours de français.",
+        "en": "I'm here to register for a French course."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-006",
+    "fr": "la leçon",
+    "en": "lesson",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "La leçon d'aujourd'hui est difficile.",
+        "en": "Today's lesson is difficult."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-007",
+    "fr": "le livre",
+    "en": "book",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Ce livre est très intéressant.",
+        "en": "This book is very interesting."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-008",
+    "fr": "le cahier",
+    "en": "notebook",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'écris mes notes dans un cahier.",
+        "en": "I write my notes in a notebook."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-009",
+    "fr": "le stylo",
+    "en": "pen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Tu as un stylo à me prêter ?",
+        "en": "Do you have a pen to lend me?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-010",
+    "fr": "le crayon",
+    "en": "pencil",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Dessine au crayon d'abord.",
+        "en": "Draw in pencil first."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-011",
+    "fr": "la question",
+    "en": "question",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'ai une question, s'il vous plaît.",
+        "en": "I have a question, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-012",
+    "fr": "la réponse",
+    "en": "answer",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Ta réponse est correcte.",
+        "en": "Your answer is correct."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-013",
+    "fr": "l'exercice",
+    "en": "exercise",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Faites l'exercice numéro trois.",
+        "en": "Do exercise number three."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-014",
+    "fr": "l'examen",
+    "en": "exam",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'ai réussi mon examen de français.",
+        "en": "I passed my French exam."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-015",
+    "fr": "la note",
+    "en": "mark, grade",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'ai eu une bonne note.",
+        "en": "I got a good mark."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-016",
+    "fr": "les devoirs",
+    "en": "homework",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Je fais mes devoirs après le dîner.",
+        "en": "I do my homework after dinner."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-017",
+    "fr": "apprendre",
+    "en": "to learn",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'apprends le français depuis deux ans.",
+        "en": "I have been learning French for two years."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-018",
+    "fr": "enseigner",
+    "en": "to teach",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Elle enseigne les mathématiques.",
+        "en": "She teaches mathematics."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-019",
+    "fr": "expliquer",
+    "en": "to explain",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Pouvez-vous expliquer encore une fois ?",
+        "en": "Can you explain again?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-020",
+    "fr": "la langue",
+    "en": "language, tongue",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Je parle trois langues.",
+        "en": "I speak three languages."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-021",
+    "fr": "le mot",
+    "en": "word",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Comment on dit ce mot en français ?",
+        "en": "How do you say this word in French?"
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-022",
+    "fr": "la phrase",
+    "en": "sentence",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Écrivez une phrase complète.",
+        "en": "Write a complete sentence."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-023",
+    "fr": "le dictionnaire",
+    "en": "dictionary",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Je cherche le mot dans le dictionnaire.",
+        "en": "I'm looking up the word in the dictionary."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-024",
+    "fr": "le diplôme",
+    "en": "degree, diploma",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "J'ai un diplôme en informatique.",
+        "en": "I have a degree in computer science."
+      }
+    ]
+  },
+  {
+    "id": "voc-sch-025",
+    "fr": "la formation",
+    "en": "training",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "school and study",
+    "examples": [
+      {
+        "fr": "Je suis une formation en ligne.",
+        "en": "I'm taking an online training course."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-001",
+    "fr": "le travail",
+    "en": "work, job",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mon travail est intéressant mais stressant.",
+        "en": "My work is interesting but stressful."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-002",
+    "fr": "le métier",
+    "en": "occupation, trade",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Quel est votre métier ?",
+        "en": "What is your occupation?"
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-003",
+    "fr": "l'entreprise",
+    "en": "company",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Je travaille pour une entreprise d'imprimerie.",
+        "en": "I work for a printing company."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-004",
+    "fr": "le bureau",
+    "en": "office, desk",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mon bureau est au deuxième étage.",
+        "en": "My office is on the second floor."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-005",
+    "fr": "le collègue / la collègue",
+    "en": "colleague",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mes collègues sont sympathiques.",
+        "en": "My colleagues are friendly."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-006",
+    "fr": "le patron / la patronne",
+    "en": "boss",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mon patron arrive à sept heures.",
+        "en": "My boss arrives at seven."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-007",
+    "fr": "la réunion",
+    "en": "meeting",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "La réunion dure une heure.",
+        "en": "The meeting lasts an hour."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-008",
+    "fr": "le salaire",
+    "en": "salary",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Le salaire est correct pour ce poste.",
+        "en": "The salary is fair for this position."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-009",
+    "fr": "le contrat",
+    "en": "contract",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "J'ai signé un contrat d'un an.",
+        "en": "I signed a one-year contract."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-010",
+    "fr": "le chômage",
+    "en": "unemployment",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Il est au chômage depuis mars.",
+        "en": "He has been unemployed since March."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-011",
+    "fr": "l'entretien",
+    "en": "interview",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "J'ai un entretien d'embauche demain.",
+        "en": "I have a job interview tomorrow."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-012",
+    "fr": "le CV",
+    "en": "CV, résumé",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Envoyez votre CV par courriel.",
+        "en": "Send your CV by email."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-013",
+    "fr": "le développeur / la développeuse",
+    "en": "developer",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Je travaille comme développeur logiciel.",
+        "en": "I work as a software developer."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-014",
+    "fr": "l'ingénieur",
+    "en": "engineer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mon frère est ingénieur civil.",
+        "en": "My brother is a civil engineer."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-015",
+    "fr": "le vendeur / la vendeuse",
+    "en": "shop assistant",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "La vendeuse est très aimable.",
+        "en": "The shop assistant is very pleasant."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-016",
+    "fr": "le cuisinier / la cuisinière",
+    "en": "cook, chef",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Le cuisinier prépare le plat du jour.",
+        "en": "The chef is preparing the dish of the day."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-017",
+    "fr": "l'avocat / l'avocate",
+    "en": "lawyer",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Mon avocate m'a conseillé d'attendre.",
+        "en": "My lawyer advised me to wait."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-018",
+    "fr": "le/la fonctionnaire",
+    "en": "civil servant",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Elle est fonctionnaire à la mairie.",
+        "en": "She is a civil servant at the town hall."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-019",
+    "fr": "gagner",
+    "en": "to earn, to win",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Il gagne bien sa vie.",
+        "en": "He earns a good living."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-020",
+    "fr": "embaucher",
+    "en": "to hire",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "L'entreprise embauche cinq personnes.",
+        "en": "The company is hiring five people."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-021",
+    "fr": "le stage",
+    "en": "internship, placement",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "J'ai fait un stage de six mois.",
+        "en": "I did a six-month internship."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-022",
+    "fr": "le projet",
+    "en": "project",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Ce projet finit à la fin du mois.",
+        "en": "This project finishes at the end of the month."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-023",
+    "fr": "la tâche",
+    "en": "task",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "J'ai plusieurs tâches à finir aujourd'hui.",
+        "en": "I have several tasks to finish today."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-024",
+    "fr": "le délai",
+    "en": "deadline",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Le délai est très court.",
+        "en": "The deadline is very tight."
+      }
+    ]
+  },
+  {
+    "id": "voc-wor-025",
+    "fr": "le congé",
+    "en": "leave, time off",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "work",
+    "examples": [
+      {
+        "fr": "Je prends trois jours de congé.",
+        "en": "I'm taking three days off."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-001",
+    "fr": "l'ordinateur",
+    "en": "computer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Mon ordinateur est trop lent.",
+        "en": "My computer is too slow."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-002",
+    "fr": "le téléphone",
+    "en": "telephone",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Mon téléphone n'a plus de batterie.",
+        "en": "My phone is out of battery."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-003",
+    "fr": "le portable",
+    "en": "mobile phone, laptop",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "J'ai laissé mon portable au bureau.",
+        "en": "I left my mobile at the office."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-004",
+    "fr": "Internet",
+    "en": "the internet",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je cherche l'information sur Internet.",
+        "en": "I'm looking for the information on the internet."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-005",
+    "fr": "le site web",
+    "en": "website",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Le site web est facile à utiliser.",
+        "en": "The website is easy to use."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-006",
+    "fr": "le courriel",
+    "en": "email",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je vous envoie un courriel ce soir.",
+        "en": "I'll send you an email tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-007",
+    "fr": "le mot de passe",
+    "en": "password",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "J'ai oublié mon mot de passe.",
+        "en": "I have forgotten my password."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-008",
+    "fr": "le fichier",
+    "en": "file",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Le fichier est trop lourd pour l'envoyer.",
+        "en": "The file is too big to send."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-009",
+    "fr": "le logiciel",
+    "en": "software",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Ce logiciel gère les impressions.",
+        "en": "This software manages the printing."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-010",
+    "fr": "l'écran",
+    "en": "screen",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "L'écran est trop petit pour travailler.",
+        "en": "The screen is too small to work on."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-011",
+    "fr": "le clavier",
+    "en": "keyboard",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Le clavier français est différent.",
+        "en": "The French keyboard is different."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-012",
+    "fr": "télécharger",
+    "en": "to download",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je télécharge l'application maintenant.",
+        "en": "I'm downloading the app now."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-013",
+    "fr": "l'application",
+    "en": "app",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Cette application est gratuite.",
+        "en": "This app is free."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-014",
+    "fr": "les réseaux sociaux",
+    "en": "social media",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Les réseaux sociaux ont changé notre façon de communiquer.",
+        "en": "Social media has changed the way we communicate."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-015",
+    "fr": "envoyer",
+    "en": "to send",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je t'envoie un message ce soir.",
+        "en": "I'll send you a message tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-016",
+    "fr": "le message",
+    "en": "message",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "J'ai reçu ton message hier.",
+        "en": "I got your message yesterday."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-017",
+    "fr": "la télévision",
+    "en": "television",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je regarde la télévision le soir.",
+        "en": "I watch television in the evening."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-018",
+    "fr": "la radio",
+    "en": "radio",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "J'écoute la radio en voiture.",
+        "en": "I listen to the radio in the car."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-019",
+    "fr": "le journal",
+    "en": "newspaper",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Je lis le journal le matin.",
+        "en": "I read the newspaper in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-tec-020",
+    "fr": "la publicité",
+    "en": "advertisement",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "technology",
+    "examples": [
+      {
+        "fr": "Les publicités ciblées sont partout.",
+        "en": "Targeted adverts are everywhere."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-001",
+    "fr": "le loisir",
+    "en": "leisure activity",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Quels sont vos loisirs ?",
+        "en": "What do you do in your free time?"
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-002",
+    "fr": "le temps libre",
+    "en": "free time",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Dans mon temps libre, j'aime nager.",
+        "en": "In my free time I like swimming."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-003",
+    "fr": "le sport",
+    "en": "sport",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Je fais du sport trois fois par semaine.",
+        "en": "I do sport three times a week."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-004",
+    "fr": "le football",
+    "en": "football",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Il joue au football le dimanche.",
+        "en": "He plays football on Sundays."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-005",
+    "fr": "le basket-ball",
+    "en": "basketball",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Je joue au basket avec des amis.",
+        "en": "I play basketball with friends."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-006",
+    "fr": "la natation",
+    "en": "swimming",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "La natation est bonne pour le dos.",
+        "en": "Swimming is good for the back."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-007",
+    "fr": "nager",
+    "en": "to swim",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Je nage pour me détendre.",
+        "en": "I swim to relax."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-008",
+    "fr": "courir",
+    "en": "to run",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Je cours dix kilomètres le samedi.",
+        "en": "I run ten kilometres on Saturdays."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-009",
+    "fr": "la musique",
+    "en": "music",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "J'écoute de la musique en travaillant.",
+        "en": "I listen to music while working."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-010",
+    "fr": "la chanson",
+    "en": "song",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Cette chanson est très connue.",
+        "en": "This song is very well known."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-011",
+    "fr": "le film",
+    "en": "film",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Le film commence à vingt heures.",
+        "en": "The film starts at eight p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-012",
+    "fr": "la lecture",
+    "en": "reading",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "La lecture est mon loisir préféré.",
+        "en": "Reading is my favourite pastime."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-013",
+    "fr": "le jeu",
+    "en": "game",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "C'est un jeu de cartes très simple.",
+        "en": "It's a very simple card game."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-014",
+    "fr": "la carte (à jouer)",
+    "en": "playing card",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "On joue aux cartes tous les jeudis.",
+        "en": "We play cards every Thursday."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-015",
+    "fr": "la fête",
+    "en": "party, festival",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Il y a une fête chez Marc samedi.",
+        "en": "There's a party at Marc's on Saturday."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-016",
+    "fr": "danser",
+    "en": "to dance",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Elle danse très bien.",
+        "en": "She dances very well."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-017",
+    "fr": "chanter",
+    "en": "to sing",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Il chante sous la douche.",
+        "en": "He sings in the shower."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-018",
+    "fr": "se promener",
+    "en": "to go for a walk",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Nous nous promenons au bord du lac.",
+        "en": "We go for walks by the lake."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-019",
+    "fr": "la randonnée",
+    "en": "hike, hiking",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Nous avons fait une randonnée en montagne.",
+        "en": "We went on a hike in the mountains."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-020",
+    "fr": "le théâtre",
+    "en": "theatre",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Nous allons au théâtre une fois par mois.",
+        "en": "We go to the theatre once a month."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-021",
+    "fr": "l'exposition",
+    "en": "exhibition",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "L'exposition dure jusqu'en septembre.",
+        "en": "The exhibition runs until September."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-022",
+    "fr": "l'équipe",
+    "en": "team",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Mon équipe a gagné le match.",
+        "en": "My team won the match."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-023",
+    "fr": "le match",
+    "en": "match, game",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Le match commence à quinze heures.",
+        "en": "The match starts at three p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-024",
+    "fr": "gagner (un match)",
+    "en": "to win",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Nous avons gagné deux à zéro.",
+        "en": "We won two-nil."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-025",
+    "fr": "perdre (un match)",
+    "en": "to lose",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Ils ont perdu le dernier match.",
+        "en": "They lost the last match."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-026",
+    "fr": "s'amuser",
+    "en": "to have fun",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "On s'est bien amusés hier soir.",
+        "en": "We had a good time last night."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-027",
+    "fr": "la piscine",
+    "en": "swimming pool",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "La piscine ouvre à sept heures.",
+        "en": "The swimming pool opens at seven."
+      }
+    ]
+  },
+  {
+    "id": "voc-lei-028",
+    "fr": "la salle de sport",
+    "en": "gym",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "leisure and sport",
+    "examples": [
+      {
+        "fr": "Je vais à la salle de sport après le travail.",
+        "en": "I go to the gym after work."
+      }
+    ]
+  }
+]

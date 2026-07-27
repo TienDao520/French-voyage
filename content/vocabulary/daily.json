@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "voc-hom-001",
+    "fr": "la maison",
+    "en": "house",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Notre maison a un petit jardin.",
+        "en": "Our house has a small garden."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-002",
+    "fr": "l'appartement",
+    "en": "flat, apartment",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "J'habite dans un appartement au centre-ville.",
+        "en": "I live in a flat downtown."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-003",
+    "fr": "la chambre",
+    "en": "bedroom",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Ma chambre est au premier étage.",
+        "en": "My bedroom is on the first floor."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-004",
+    "fr": "la cuisine",
+    "en": "kitchen, cooking",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "La cuisine est petite mais pratique.",
+        "en": "The kitchen is small but practical."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-005",
+    "fr": "le salon",
+    "en": "living room",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Nous regardons la télé dans le salon.",
+        "en": "We watch TV in the living room."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-006",
+    "fr": "la salle de bains",
+    "en": "bathroom",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "La salle de bains est à côté de la chambre.",
+        "en": "The bathroom is next to the bedroom."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-007",
+    "fr": "les toilettes",
+    "en": "toilet",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Où sont les toilettes, s'il vous plaît ?",
+        "en": "Where is the toilet, please?"
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-008",
+    "fr": "la porte",
+    "en": "door",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Ferme la porte, il fait froid.",
+        "en": "Close the door, it's cold."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-009",
+    "fr": "la fenêtre",
+    "en": "window",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Ouvre la fenêtre, s'il te plaît.",
+        "en": "Open the window, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-010",
+    "fr": "le mur",
+    "en": "wall",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Il y a un tableau sur le mur.",
+        "en": "There's a painting on the wall."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-011",
+    "fr": "le sol",
+    "en": "floor, ground",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le sol est très propre.",
+        "en": "The floor is very clean."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-012",
+    "fr": "le toit",
+    "en": "roof",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le toit rouge se voit de loin.",
+        "en": "The red roof can be seen from far away."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-013",
+    "fr": "l'escalier",
+    "en": "staircase",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Je monte l'escalier chaque matin.",
+        "en": "I climb the stairs every morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-014",
+    "fr": "l'ascenseur",
+    "en": "lift, elevator",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "L'ascenseur est en panne.",
+        "en": "The lift is out of order."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-015",
+    "fr": "l'étage",
+    "en": "floor, storey",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "J'habite au troisième étage.",
+        "en": "I live on the third floor."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-016",
+    "fr": "le jardin",
+    "en": "garden",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Les enfants jouent dans le jardin.",
+        "en": "The children play in the garden."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-017",
+    "fr": "le balcon",
+    "en": "balcony",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "On prend le café sur le balcon.",
+        "en": "We have coffee on the balcony."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-018",
+    "fr": "la table",
+    "en": "table",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Les clés sont sur la table.",
+        "en": "The keys are on the table."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-019",
+    "fr": "la chaise",
+    "en": "chair",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Prends une chaise et assieds-toi.",
+        "en": "Take a chair and sit down."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-020",
+    "fr": "le lit",
+    "en": "bed",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Je fais mon lit tous les matins.",
+        "en": "I make my bed every morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-021",
+    "fr": "le canapé",
+    "en": "sofa",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le chat dort sur le canapé.",
+        "en": "The cat is sleeping on the sofa."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-022",
+    "fr": "l'armoire",
+    "en": "wardrobe",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Mes vêtements sont dans l'armoire.",
+        "en": "My clothes are in the wardrobe."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-023",
+    "fr": "le frigo",
+    "en": "fridge",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le lait est dans le frigo.",
+        "en": "The milk is in the fridge."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-024",
+    "fr": "le four",
+    "en": "oven",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le gâteau est dans le four.",
+        "en": "The cake is in the oven."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-025",
+    "fr": "la clé",
+    "en": "key",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "J'ai oublié mes clés à la maison.",
+        "en": "I forgot my keys at home."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-026",
+    "fr": "la lampe",
+    "en": "lamp",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Allume la lampe, il fait sombre.",
+        "en": "Turn on the lamp, it's dark."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-027",
+    "fr": "le miroir",
+    "en": "mirror",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Il y a un grand miroir dans l'entrée.",
+        "en": "There's a big mirror in the hallway."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-028",
+    "fr": "le loyer",
+    "en": "rent",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Je paie le loyer le premier du mois.",
+        "en": "I pay the rent on the first of the month."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-029",
+    "fr": "le voisinage",
+    "en": "neighbourhood",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Le voisinage est calme et agréable.",
+        "en": "The neighbourhood is quiet and pleasant."
+      }
+    ]
+  },
+  {
+    "id": "voc-hom-030",
+    "fr": "déménager",
+    "en": "to move house",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "home",
+    "examples": [
+      {
+        "fr": "Nous déménageons le mois prochain.",
+        "en": "We're moving house next month."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-001",
+    "fr": "se réveiller",
+    "en": "to wake up",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je me réveille à six heures et demie.",
+        "en": "I wake up at half past six."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-002",
+    "fr": "se lever",
+    "en": "to get up",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Il se lève tôt tous les jours.",
+        "en": "He gets up early every day."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-003",
+    "fr": "se doucher",
+    "en": "to shower",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je me douche avant le petit-déjeuner.",
+        "en": "I shower before breakfast."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-004",
+    "fr": "s'habiller",
+    "en": "to get dressed",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Elle s'habille rapidement le matin.",
+        "en": "She gets dressed quickly in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-005",
+    "fr": "se brosser les dents",
+    "en": "to brush one's teeth",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je me brosse les dents après le repas.",
+        "en": "I brush my teeth after the meal."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-006",
+    "fr": "se coucher",
+    "en": "to go to bed",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je me couche vers onze heures.",
+        "en": "I go to bed around eleven."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-007",
+    "fr": "se reposer",
+    "en": "to rest",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Le dimanche, je me repose à la maison.",
+        "en": "On Sundays I rest at home."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-008",
+    "fr": "se dépêcher",
+    "en": "to hurry",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Dépêche-toi, le bus arrive !",
+        "en": "Hurry up, the bus is coming!"
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-009",
+    "fr": "le petit-déjeuner",
+    "en": "breakfast",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je prends mon petit-déjeuner à sept heures.",
+        "en": "I have breakfast at seven."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-010",
+    "fr": "le déjeuner",
+    "en": "lunch",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Le déjeuner est à midi et demi.",
+        "en": "Lunch is at half past twelve."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-011",
+    "fr": "le dîner",
+    "en": "dinner",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Nous préparons le dîner ensemble.",
+        "en": "We prepare dinner together."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-012",
+    "fr": "faire le ménage",
+    "en": "to do the housework",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je fais le ménage le samedi matin.",
+        "en": "I do the housework on Saturday morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-013",
+    "fr": "faire la vaisselle",
+    "en": "to do the washing-up",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Qui fait la vaisselle ce soir ?",
+        "en": "Who's doing the washing-up tonight?"
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-014",
+    "fr": "faire la lessive",
+    "en": "to do the laundry",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je fais la lessive deux fois par semaine.",
+        "en": "I do the laundry twice a week."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-015",
+    "fr": "ranger",
+    "en": "to tidy up",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Range ta chambre avant de sortir.",
+        "en": "Tidy your room before going out."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-016",
+    "fr": "le réveil",
+    "en": "alarm clock",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Mon réveil sonne à six heures.",
+        "en": "My alarm goes off at six."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-017",
+    "fr": "la douche",
+    "en": "shower",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "Je prends une douche chaude.",
+        "en": "I'm taking a hot shower."
+      }
+    ]
+  },
+  {
+    "id": "voc-rou-018",
+    "fr": "l'habitude",
+    "en": "habit",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "daily routine",
+    "examples": [
+      {
+        "fr": "J'ai l'habitude de lire avant de dormir.",
+        "en": "I'm in the habit of reading before sleeping."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-001",
+    "fr": "les vêtements",
+    "en": "clothes",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "J'achète des vêtements en solde.",
+        "en": "I buy clothes on sale."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-002",
+    "fr": "la chemise",
+    "en": "shirt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Il porte une chemise blanche au bureau.",
+        "en": "He wears a white shirt at the office."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-003",
+    "fr": "le pantalon",
+    "en": "trousers",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Ce pantalon est trop long.",
+        "en": "These trousers are too long."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-004",
+    "fr": "la robe",
+    "en": "dress",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Elle porte une robe bleue.",
+        "en": "She's wearing a blue dress."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-005",
+    "fr": "la jupe",
+    "en": "skirt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Cette jupe va bien avec ce pull.",
+        "en": "This skirt goes well with this jumper."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-006",
+    "fr": "le pull",
+    "en": "jumper, sweater",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Mets un pull, il fait froid.",
+        "en": "Put on a jumper, it's cold."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-007",
+    "fr": "le manteau",
+    "en": "coat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "En hiver, je porte un manteau épais.",
+        "en": "In winter I wear a thick coat."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-008",
+    "fr": "la veste",
+    "en": "jacket",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Ta veste est sur la chaise.",
+        "en": "Your jacket is on the chair."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-009",
+    "fr": "les chaussures",
+    "en": "shoes",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Ces chaussures sont très confortables.",
+        "en": "These shoes are very comfortable."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-010",
+    "fr": "les chaussettes",
+    "en": "socks",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "J'ai besoin de chaussettes chaudes.",
+        "en": "I need warm socks."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-011",
+    "fr": "le chapeau",
+    "en": "hat",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Il met un chapeau quand il fait soleil.",
+        "en": "He puts on a hat when it's sunny."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-012",
+    "fr": "l'écharpe",
+    "en": "scarf",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Mon écharpe est en laine.",
+        "en": "My scarf is made of wool."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-013",
+    "fr": "les gants",
+    "en": "gloves",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "N'oublie pas tes gants, il gèle.",
+        "en": "Don't forget your gloves, it's freezing."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-014",
+    "fr": "le jean",
+    "en": "jeans",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Je porte un jean le week-end.",
+        "en": "I wear jeans at the weekend."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-015",
+    "fr": "le tee-shirt",
+    "en": "T-shirt",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Ce tee-shirt est trop petit pour moi.",
+        "en": "This T-shirt is too small for me."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-016",
+    "fr": "la taille",
+    "en": "size, waist",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Vous avez la taille au-dessus ?",
+        "en": "Do you have the next size up?"
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-017",
+    "fr": "porter",
+    "en": "to wear, to carry",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Elle porte des lunettes pour lire.",
+        "en": "She wears glasses for reading."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-018",
+    "fr": "essayer",
+    "en": "to try on",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "Je peux essayer cette veste ?",
+        "en": "Can I try on this jacket?"
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-019",
+    "fr": "la cabine d'essayage",
+    "en": "fitting room",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "La cabine d'essayage est au fond.",
+        "en": "The fitting room is at the back."
+      }
+    ]
+  },
+  {
+    "id": "voc-clo-020",
+    "fr": "les lunettes",
+    "en": "glasses",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "clothing",
+    "examples": [
+      {
+        "fr": "J'ai cassé mes lunettes hier.",
+        "en": "I broke my glasses yesterday."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-001",
+    "fr": "le corps",
+    "en": "body",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Le sport est bon pour le corps.",
+        "en": "Sport is good for the body."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-002",
+    "fr": "la tête",
+    "en": "head",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai mal à la tête.",
+        "en": "I have a headache."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-003",
+    "fr": "les yeux",
+    "en": "eyes",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Elle a les yeux verts.",
+        "en": "She has green eyes."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-004",
+    "fr": "le nez",
+    "en": "nose",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai le nez bouché.",
+        "en": "My nose is blocked."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-005",
+    "fr": "la bouche",
+    "en": "mouth",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Ouvrez la bouche, s'il vous plaît.",
+        "en": "Open your mouth, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-006",
+    "fr": "l'oreille",
+    "en": "ear",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai mal à l'oreille droite.",
+        "en": "My right ear hurts."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-007",
+    "fr": "la main",
+    "en": "hand",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Lave-toi les mains avant de manger.",
+        "en": "Wash your hands before eating."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-008",
+    "fr": "le bras",
+    "en": "arm",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Il s'est cassé le bras.",
+        "en": "He broke his arm."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-009",
+    "fr": "la jambe",
+    "en": "leg",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Mes jambes sont fatiguées après la course.",
+        "en": "My legs are tired after the run."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-010",
+    "fr": "le pied",
+    "en": "foot",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je vais au travail à pied.",
+        "en": "I walk to work."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-011",
+    "fr": "le dos",
+    "en": "back",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai mal au dos depuis lundi.",
+        "en": "My back has hurt since Monday."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-012",
+    "fr": "le ventre",
+    "en": "stomach, belly",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Il a mal au ventre.",
+        "en": "He has a stomach ache."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-013",
+    "fr": "le cœur",
+    "en": "heart",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Le sport est bon pour le cœur.",
+        "en": "Sport is good for the heart."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-014",
+    "fr": "les cheveux",
+    "en": "hair",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Elle a les cheveux longs et bruns.",
+        "en": "She has long brown hair."
+      }
+    ]
+  },
+  {
+    "id": "voc-bod-015",
+    "fr": "la dent",
+    "en": "tooth",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai mal aux dents.",
+        "en": "I have toothache."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-001",
+    "fr": "la santé",
+    "en": "health",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "La santé est plus importante que l'argent.",
+        "en": "Health is more important than money."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-002",
+    "fr": "le médecin",
+    "en": "doctor",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je vais chez le médecin cet après-midi.",
+        "en": "I'm going to the doctor this afternoon."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-003",
+    "fr": "l'hôpital",
+    "en": "hospital",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "L'hôpital est près de la gare.",
+        "en": "The hospital is near the station."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-004",
+    "fr": "la pharmacie",
+    "en": "pharmacy",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "La pharmacie ferme à dix-neuf heures.",
+        "en": "The pharmacy closes at seven p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-005",
+    "fr": "le médicament",
+    "en": "medicine",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Prenez ce médicament deux fois par jour.",
+        "en": "Take this medicine twice a day."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-006",
+    "fr": "malade",
+    "en": "ill, sick",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je suis malade depuis deux jours.",
+        "en": "I have been ill for two days."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-007",
+    "fr": "la fièvre",
+    "en": "fever",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Il a de la fièvre ce matin.",
+        "en": "He has a fever this morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-008",
+    "fr": "le rhume",
+    "en": "cold (illness)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai attrapé un rhume.",
+        "en": "I've caught a cold."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-009",
+    "fr": "la douleur",
+    "en": "pain",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "La douleur est plus forte le soir.",
+        "en": "The pain is worse in the evening."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-010",
+    "fr": "avoir mal à",
+    "en": "to have pain in",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai mal à la gorge.",
+        "en": "I have a sore throat."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-011",
+    "fr": "fatigué(e)",
+    "en": "tired",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je suis très fatigué ce soir.",
+        "en": "I'm very tired tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-012",
+    "fr": "en forme",
+    "en": "in good shape",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je suis en forme grâce au sport.",
+        "en": "I'm in good shape thanks to sport."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-013",
+    "fr": "l'ordonnance",
+    "en": "prescription",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Le médecin m'a donné une ordonnance.",
+        "en": "The doctor gave me a prescription."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-014",
+    "fr": "guérir",
+    "en": "to heal, to get better",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Il faut du repos pour guérir.",
+        "en": "You need rest to get better."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-015",
+    "fr": "l'urgence",
+    "en": "emergency",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "En cas d'urgence, appelez ce numéro.",
+        "en": "In an emergency, call this number."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-016",
+    "fr": "le dentiste",
+    "en": "dentist",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "J'ai rendez-vous chez le dentiste jeudi.",
+        "en": "I have a dentist appointment on Thursday."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-017",
+    "fr": "l'infirmier / l'infirmière",
+    "en": "nurse",
+    "pos": "noun",
+    "gender": "mf",
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "L'infirmière est très gentille.",
+        "en": "The nurse is very kind."
+      }
+    ]
+  },
+  {
+    "id": "voc-hea-018",
+    "fr": "se sentir",
+    "en": "to feel",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "body and health",
+    "examples": [
+      {
+        "fr": "Je me sens mieux aujourd'hui.",
+        "en": "I feel better today."
+      }
+    ]
+  }
+]

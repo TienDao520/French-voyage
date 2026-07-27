@@ -1,0 +1,1712 @@
+[
+  {
+    "id": "voc-emo-001",
+    "fr": "content(e)",
+    "en": "happy, pleased",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Je suis content de te voir.",
+        "en": "I'm happy to see you."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-002",
+    "fr": "heureux / heureuse",
+    "en": "happy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Elle est heureuse dans son nouveau travail.",
+        "en": "She is happy in her new job."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-003",
+    "fr": "triste",
+    "en": "sad",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Il est triste depuis son départ.",
+        "en": "He has been sad since she left."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-004",
+    "fr": "en colère",
+    "en": "angry",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Elle est en colère contre son frère.",
+        "en": "She is angry with her brother."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-005",
+    "fr": "inquiet / inquiète",
+    "en": "worried",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Je suis inquiet pour l'examen.",
+        "en": "I'm worried about the exam."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-006",
+    "fr": "stressé(e)",
+    "en": "stressed",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Je suis stressé avec les délais.",
+        "en": "I'm stressed with the deadlines."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-007",
+    "fr": "surpris(e)",
+    "en": "surprised",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'ai été surpris par la nouvelle.",
+        "en": "I was surprised by the news."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-008",
+    "fr": "avoir peur",
+    "en": "to be afraid",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'ai peur de parler en public.",
+        "en": "I'm afraid of speaking in public."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-009",
+    "fr": "avoir envie de",
+    "en": "to feel like, to want",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'ai envie d'un café.",
+        "en": "I feel like a coffee."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-010",
+    "fr": "avoir besoin de",
+    "en": "to need",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'ai besoin d'aide, s'il vous plaît.",
+        "en": "I need help, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-011",
+    "fr": "aimer",
+    "en": "to like, to love",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'aime beaucoup la cuisine française.",
+        "en": "I really like French cooking."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-012",
+    "fr": "adorer",
+    "en": "to love, to adore",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'adore découvrir de nouvelles cultures.",
+        "en": "I love discovering new cultures."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-013",
+    "fr": "détester",
+    "en": "to hate",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Je déteste attendre.",
+        "en": "I hate waiting."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-014",
+    "fr": "préférer",
+    "en": "to prefer",
+    "pos": "verb",
+    "gender": null,
+    "level": "A1",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Je préfère le thé au café.",
+        "en": "I prefer tea to coffee."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-015",
+    "fr": "espérer",
+    "en": "to hope",
+    "pos": "verb",
+    "gender": null,
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "J'espère réussir cet examen.",
+        "en": "I hope to pass this exam."
+      }
+    ]
+  },
+  {
+    "id": "voc-emo-016",
+    "fr": "le rêve",
+    "en": "dream",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "emotions",
+    "examples": [
+      {
+        "fr": "Mon rêve est de visiter le Québec.",
+        "en": "My dream is to visit Quebec."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-020",
+    "fr": "gentil / gentille",
+    "en": "kind, nice",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "C'est très gentil de votre part.",
+        "en": "That's very kind of you."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-021",
+    "fr": "sympathique",
+    "en": "friendly, likeable",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Mes voisins sont très sympathiques.",
+        "en": "My neighbours are very friendly."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-022",
+    "fr": "sérieux / sérieuse",
+    "en": "serious, reliable",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "C'est un étudiant sérieux.",
+        "en": "He's a hard-working student."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-023",
+    "fr": "timide",
+    "en": "shy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Elle est timide avec les inconnus.",
+        "en": "She is shy with strangers."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-024",
+    "fr": "patient(e)",
+    "en": "patient",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Il faut être patient pour apprendre une langue.",
+        "en": "You have to be patient to learn a language."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-025",
+    "fr": "drôle",
+    "en": "funny",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Ton frère est vraiment drôle.",
+        "en": "Your brother is really funny."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-026",
+    "fr": "intelligent(e)",
+    "en": "clever, intelligent",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "C'est une réponse intelligente.",
+        "en": "That's a clever answer."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-027",
+    "fr": "paresseux / paresseuse",
+    "en": "lazy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Je suis un peu paresseux le dimanche.",
+        "en": "I'm a bit lazy on Sundays."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-028",
+    "fr": "travailleur / travailleuse",
+    "en": "hard-working",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "C'est une équipe travailleuse.",
+        "en": "It's a hard-working team."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-029",
+    "fr": "poli(e)",
+    "en": "polite",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personality",
+    "examples": [
+      {
+        "fr": "Soyez poli avec les clients.",
+        "en": "Be polite with customers."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-001",
+    "fr": "grand(e)",
+    "en": "big, tall",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Mon père est grand.",
+        "en": "My father is tall."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-002",
+    "fr": "petit(e)",
+    "en": "small, short",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "J'habite dans un petit appartement.",
+        "en": "I live in a small flat."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-003",
+    "fr": "bon / bonne",
+    "en": "good",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "C'est un bon restaurant.",
+        "en": "It's a good restaurant."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-004",
+    "fr": "mauvais(e)",
+    "en": "bad",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "C'est une mauvaise idée.",
+        "en": "That's a bad idea."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-005",
+    "fr": "beau / belle",
+    "en": "beautiful, handsome",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "C'est un beau pays.",
+        "en": "It's a beautiful country."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-006",
+    "fr": "joli(e)",
+    "en": "pretty",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Elle a une jolie voix.",
+        "en": "She has a pretty voice."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-007",
+    "fr": "nouveau / nouvelle",
+    "en": "new",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "J'ai un nouveau travail.",
+        "en": "I have a new job."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-008",
+    "fr": "vieux / vieille",
+    "en": "old",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "C'est une vieille maison.",
+        "en": "It's an old house."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-009",
+    "fr": "jeune",
+    "en": "young",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Les jeunes gens utilisent beaucoup leur téléphone.",
+        "en": "Young people use their phones a lot."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-010",
+    "fr": "long / longue",
+    "en": "long",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "L'hiver est long ici.",
+        "en": "Winter is long here."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-011",
+    "fr": "court(e)",
+    "en": "short",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "La réunion a été courte.",
+        "en": "The meeting was short."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-012",
+    "fr": "facile",
+    "en": "easy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Cet exercice est facile.",
+        "en": "This exercise is easy."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-013",
+    "fr": "difficile",
+    "en": "difficult",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "La prononciation est difficile.",
+        "en": "Pronunciation is difficult."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-014",
+    "fr": "important(e)",
+    "en": "important",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "C'est important pour moi.",
+        "en": "It's important to me."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-015",
+    "fr": "intéressant(e)",
+    "en": "interesting",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le livre est très intéressant.",
+        "en": "The book is very interesting."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-016",
+    "fr": "chaud(e)",
+    "en": "hot, warm",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le café est encore chaud.",
+        "en": "The coffee is still hot."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-017",
+    "fr": "froid(e)",
+    "en": "cold",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "L'eau est froide.",
+        "en": "The water is cold."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-018",
+    "fr": "propre",
+    "en": "clean",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "La cuisine est propre.",
+        "en": "The kitchen is clean."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-019",
+    "fr": "sale",
+    "en": "dirty",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Mes chaussures sont sales.",
+        "en": "My shoes are dirty."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-020",
+    "fr": "plein(e)",
+    "en": "full",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le bus est plein le matin.",
+        "en": "The bus is full in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-021",
+    "fr": "vide",
+    "en": "empty",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "La bouteille est vide.",
+        "en": "The bottle is empty."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-022",
+    "fr": "rapide",
+    "en": "fast",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le métro est plus rapide.",
+        "en": "The underground is faster."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-023",
+    "fr": "lent(e)",
+    "en": "slow",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Ma connexion est lente aujourd'hui.",
+        "en": "My connection is slow today."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-024",
+    "fr": "prêt(e)",
+    "en": "ready",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le dîner est prêt.",
+        "en": "Dinner is ready."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-025",
+    "fr": "ouvert(e)",
+    "en": "open",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Le magasin est ouvert jusqu'à vingt heures.",
+        "en": "The shop is open until eight p.m."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-026",
+    "fr": "fermé(e)",
+    "en": "closed",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "La banque est fermée le dimanche.",
+        "en": "The bank is closed on Sundays."
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-027",
+    "fr": "libre",
+    "en": "free, available",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Tu es libre samedi soir ?",
+        "en": "Are you free on Saturday evening?"
+      }
+    ]
+  },
+  {
+    "id": "voc-adj-028",
+    "fr": "occupé(e)",
+    "en": "busy",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "common adjectives",
+    "examples": [
+      {
+        "fr": "Je suis occupé toute la journée.",
+        "en": "I'm busy all day."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-001",
+    "fr": "très",
+    "en": "very",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "C'est très bon.",
+        "en": "It's very good."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-002",
+    "fr": "beaucoup",
+    "en": "a lot, much",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'aime beaucoup ce quartier.",
+        "en": "I like this neighbourhood a lot."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-003",
+    "fr": "un peu",
+    "en": "a little",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Je parle un peu français.",
+        "en": "I speak a little French."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-004",
+    "fr": "trop",
+    "en": "too much, too",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "C'est trop cher pour moi.",
+        "en": "It's too expensive for me."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-005",
+    "fr": "assez",
+    "en": "enough, quite",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'ai assez mangé, merci.",
+        "en": "I've eaten enough, thank you."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-006",
+    "fr": "toujours",
+    "en": "always, still",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Je prends toujours le même bus.",
+        "en": "I always take the same bus."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-007",
+    "fr": "souvent",
+    "en": "often",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Je leur téléphone souvent.",
+        "en": "I phone them often."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-008",
+    "fr": "parfois",
+    "en": "sometimes",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Parfois, je travaille le samedi.",
+        "en": "Sometimes I work on Saturdays."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-009",
+    "fr": "rarement",
+    "en": "rarely",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Je sors rarement en semaine.",
+        "en": "I rarely go out during the week."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-010",
+    "fr": "jamais",
+    "en": "never",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Je ne fume jamais.",
+        "en": "I never smoke."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-011",
+    "fr": "déjà",
+    "en": "already",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'ai déjà mangé, merci.",
+        "en": "I have already eaten, thanks."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-012",
+    "fr": "encore",
+    "en": "again, still",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Tu veux encore du café ?",
+        "en": "Would you like more coffee?"
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-013",
+    "fr": "bien",
+    "en": "well",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Elle chante bien.",
+        "en": "She sings well."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-014",
+    "fr": "mal",
+    "en": "badly",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'ai mal dormi cette nuit.",
+        "en": "I slept badly last night."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-015",
+    "fr": "vite",
+    "en": "quickly",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Vous parlez trop vite pour moi.",
+        "en": "You speak too quickly for me."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-016",
+    "fr": "lentement",
+    "en": "slowly",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Parlez lentement, s'il vous plaît.",
+        "en": "Please speak slowly."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-017",
+    "fr": "d'abord",
+    "en": "first of all",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "D'abord, je me présente.",
+        "en": "First of all, let me introduce myself."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-018",
+    "fr": "ensuite",
+    "en": "then, next",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Ensuite, nous avons visité le musée.",
+        "en": "Then we visited the museum."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-019",
+    "fr": "enfin",
+    "en": "finally",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Enfin, je voudrais vous remercier.",
+        "en": "Finally, I would like to thank you."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-020",
+    "fr": "aussi",
+    "en": "also, too",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Moi aussi, j'aime voyager.",
+        "en": "I like travelling too."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-021",
+    "fr": "mais",
+    "en": "but",
+    "pos": "conj",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "C'est passionnant, mais parfois stressant.",
+        "en": "It's exciting, but sometimes stressful."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-022",
+    "fr": "et",
+    "en": "and",
+    "pos": "conj",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'aime le sport et la lecture.",
+        "en": "I like sport and reading."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-023",
+    "fr": "ou",
+    "en": "or",
+    "pos": "conj",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Tu préfères le thé ou le café ?",
+        "en": "Do you prefer tea or coffee?"
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-024",
+    "fr": "parce que",
+    "en": "because",
+    "pos": "conj",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "J'apprends le français parce que j'aime les langues.",
+        "en": "I'm learning French because I like languages."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-025",
+    "fr": "donc",
+    "en": "so, therefore",
+    "pos": "conj",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Il pleut, donc je prends un parapluie.",
+        "en": "It's raining, so I'm taking an umbrella."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-026",
+    "fr": "cependant",
+    "en": "however",
+    "pos": "conj",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Cependant, il y a aussi des défis.",
+        "en": "However, there are also challenges."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-027",
+    "fr": "par exemple",
+    "en": "for example",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Par exemple, je joue au basket.",
+        "en": "For example, I play basketball."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-028",
+    "fr": "de plus",
+    "en": "moreover",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "De plus, ces plateformes donnent une voix aux jeunes.",
+        "en": "Moreover, these platforms give young people a voice."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-029",
+    "fr": "surtout",
+    "en": "especially, above all",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Mais surtout, j'ai un rêve.",
+        "en": "But above all, I have a dream."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-030",
+    "fr": "ici",
+    "en": "here",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Signez ici, s'il vous plaît.",
+        "en": "Sign here, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-031",
+    "fr": "là-bas",
+    "en": "over there",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "Le bureau est là-bas, au fond.",
+        "en": "The office is over there, at the back."
+      }
+    ]
+  },
+  {
+    "id": "voc-adv-032",
+    "fr": "partout",
+    "en": "everywhere",
+    "pos": "adv",
+    "gender": null,
+    "level": "A2",
+    "theme": "adverbs and connectors",
+    "examples": [
+      {
+        "fr": "On trouve du wifi partout maintenant.",
+        "en": "You find wifi everywhere now."
+      }
+    ]
+  },
+  {
+    "id": "voc-que-001",
+    "fr": "qui",
+    "en": "who",
+    "pos": "pron",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Qui est à la porte ?",
+        "en": "Who is at the door?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-002",
+    "fr": "que / qu'est-ce que",
+    "en": "what",
+    "pos": "pron",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Qu'est-ce que vous faites dans la vie ?",
+        "en": "What do you do for a living?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-003",
+    "fr": "où",
+    "en": "where",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Où habitez-vous ?",
+        "en": "Where do you live?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-004",
+    "fr": "quand",
+    "en": "when",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Quand est-ce que tu arrives ?",
+        "en": "When are you arriving?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-005",
+    "fr": "comment",
+    "en": "how",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Comment vous appelez-vous ?",
+        "en": "What is your name?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-006",
+    "fr": "pourquoi",
+    "en": "why",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Pourquoi apprenez-vous le français ?",
+        "en": "Why are you learning French?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-007",
+    "fr": "combien",
+    "en": "how much, how many",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Combien coûte ce billet ?",
+        "en": "How much does this ticket cost?"
+      }
+    ]
+  },
+  {
+    "id": "voc-que-008",
+    "fr": "quel / quelle",
+    "en": "which, what",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "question words",
+    "examples": [
+      {
+        "fr": "Quel est votre nom, s'il vous plaît ?",
+        "en": "What is your name, please?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-001",
+    "fr": "je ne comprends pas",
+    "en": "I don't understand",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Désolé, je ne comprends pas.",
+        "en": "Sorry, I don't understand."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-002",
+    "fr": "vous pouvez répéter ?",
+    "en": "can you repeat?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Pardon ? Vous pouvez répéter, s'il vous plaît ?",
+        "en": "Sorry? Can you repeat, please?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-003",
+    "fr": "parlez plus lentement",
+    "en": "speak more slowly",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Parlez plus lentement, s'il vous plaît.",
+        "en": "Please speak more slowly."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-004",
+    "fr": "comment dit-on… en français ?",
+    "en": "how do you say… in French?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Comment dit-on « printer » en français ?",
+        "en": "How do you say 'printer' in French?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-005",
+    "fr": "qu'est-ce que ça veut dire ?",
+    "en": "what does that mean?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "« Chouette », qu'est-ce que ça veut dire ?",
+        "en": "'Chouette' — what does that mean?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-006",
+    "fr": "je voudrais",
+    "en": "I would like",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Je voudrais un billet pour Paris.",
+        "en": "I would like a ticket to Paris."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-007",
+    "fr": "est-ce que je peux… ?",
+    "en": "may I… ?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Est-ce que je peux payer par carte ?",
+        "en": "May I pay by card?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-008",
+    "fr": "il y a",
+    "en": "there is, there are",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Il y a trois personnes dans la salle.",
+        "en": "There are three people in the room."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-009",
+    "fr": "c'est combien ?",
+    "en": "how much is it?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "C'est combien, ce livre ?",
+        "en": "How much is this book?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-010",
+    "fr": "je suis désolé(e), je ne sais pas",
+    "en": "I'm sorry, I don't know",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Je suis désolé, je ne sais pas où c'est.",
+        "en": "I'm sorry, I don't know where it is."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-011",
+    "fr": "enchanté(e) de faire votre connaissance",
+    "en": "pleased to meet you",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Enchanté de faire votre connaissance, Madame.",
+        "en": "Pleased to meet you, madam."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-012",
+    "fr": "ça dépend",
+    "en": "it depends",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "— Tu sors ce soir ? — Ça dépend du temps.",
+        "en": "— Are you going out tonight? — It depends on the weather."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-013",
+    "fr": "je suis d'accord",
+    "en": "I agree",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Je suis d'accord avec vous.",
+        "en": "I agree with you."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-014",
+    "fr": "à mon avis",
+    "en": "in my opinion",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "À mon avis, c'est une bonne idée.",
+        "en": "In my opinion, it's a good idea."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-015",
+    "fr": "n'est-ce pas ?",
+    "en": "isn't it? right?",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Il fait beau aujourd'hui, n'est-ce pas ?",
+        "en": "The weather is nice today, isn't it?"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-016",
+    "fr": "ça ne fait rien",
+    "en": "it doesn't matter",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Tu es en retard ? Ça ne fait rien.",
+        "en": "You're late? It doesn't matter."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-017",
+    "fr": "bien sûr",
+    "en": "of course",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Bien sûr, je peux vous aider.",
+        "en": "Of course, I can help you."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-018",
+    "fr": "tout de suite",
+    "en": "right away",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "J'arrive tout de suite.",
+        "en": "I'm coming right away."
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-019",
+    "fr": "au secours !",
+    "en": "help!",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Au secours ! Appelez une ambulance !",
+        "en": "Help! Call an ambulance!"
+      }
+    ]
+  },
+  {
+    "id": "voc-phr-020",
+    "fr": "je suis perdu(e)",
+    "en": "I'm lost",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "survival phrases",
+    "examples": [
+      {
+        "fr": "Excusez-moi, je suis perdu.",
+        "en": "Excuse me, I'm lost."
+      }
+    ]
+  }
+]

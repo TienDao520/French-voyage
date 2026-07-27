@@ -1,0 +1,97 @@
+[
+{
+  "id": "rd-01", "level": "A1", "title": "Ma journée", "titleEn": "My day", "words": 118,
+  "text": "Je m'appelle Tien et j'habite à London, au Canada. Je me lève à six heures et demie. D'abord, je prends une douche, puis je prépare un café. Je ne mange pas beaucoup le matin : un peu de pain et un fruit.\n\nJe vais au travail en voiture. Le trajet dure vingt minutes. Je suis développeur dans une entreprise d'imprimerie. Je commence à huit heures et je finis à dix-sept heures.\n\nLe soir, je fais du sport ou je regarde un film. Le mardi et le jeudi, j'ai un cours de français. C'est difficile, mais j'aime beaucoup ça. Je me couche vers onze heures.",
+  "translation": "My name is Tien and I live in London, Canada. I get up at half past six. First I take a shower, then I make a coffee. I don't eat much in the morning: a little bread and a piece of fruit.\n\nI go to work by car. The journey takes twenty minutes. I'm a developer at a printing company. I start at eight and finish at five.\n\nIn the evening I do sport or watch a film. On Tuesdays and Thursdays I have a French class. It's difficult, but I like it a lot. I go to bed around eleven.",
+  "vocabulary": [
+    { "fr": "se lever", "en": "to get up" },
+    { "fr": "le trajet", "en": "the journey, commute" },
+    { "fr": "durer", "en": "to last" },
+    { "fr": "vers", "en": "around (a time)" }
+  ],
+  "grammarNotes": [
+    "Reflexive verbs run through the whole text: je me lève, je me couche.",
+    "Le mardi with the article means 'on Tuesdays', every week — not one specific Tuesday.",
+    "Note the negation with a partitive: je ne mange pas beaucoup, and un peu de pain."
+  ],
+  "questions": [
+    { "q": "À quelle heure Tien se lève-t-il ?", "options": ["À six heures", "À six heures et demie", "À sept heures"], "answer": 1 },
+    { "q": "Comment va-t-il au travail ?", "options": ["En bus", "À pied", "En voiture"], "answer": 2 },
+    { "q": "Quand a-t-il son cours de français ?", "options": ["Lundi et mercredi", "Mardi et jeudi", "Tous les jours"], "answer": 1 },
+    { "q": "Que pense-t-il du français ?", "options": ["C'est facile", "C'est difficile mais il aime ça", "Il n'aime pas ça"], "answer": 1 }
+  ]
+},
+{
+  "id": "rd-02", "level": "A1", "title": "Une petite annonce", "titleEn": "A small ad", "words": 96,
+  "text": "APPARTEMENT À LOUER\n\nBel appartement de deux chambres au centre-ville. Cuisine équipée, salon lumineux, salle de bains rénovée. Troisième étage avec ascenseur. Balcon avec vue sur le parc.\n\nProche des transports : la station de métro est à cinq minutes à pied. Commerces et boulangerie dans la rue.\n\nLoyer : 950 $ par mois, charges comprises. Disponible à partir du premier septembre.\n\nPour visiter, téléphonez au 519 555 0182 ou envoyez un courriel. Pas d'animaux, merci.",
+  "translation": "FLAT TO RENT\n\nBeautiful two-bedroom flat in the town centre. Fitted kitchen, bright living room, renovated bathroom. Third floor with a lift. Balcony overlooking the park.\n\nClose to transport: the metro station is five minutes' walk away. Shops and a bakery on the street.\n\nRent: $950 a month, bills included. Available from 1 September.\n\nTo view, call 519 555 0182 or send an email. No pets, thank you.",
+  "vocabulary": [
+    { "fr": "à louer", "en": "to rent" },
+    { "fr": "les charges comprises", "en": "bills included" },
+    { "fr": "disponible", "en": "available" },
+    { "fr": "à partir de", "en": "from, starting" }
+  ],
+  "grammarNotes": [
+    "Adverts drop verbs and articles to save space — a register worth recognising.",
+    "Bel appears instead of beau because appartement starts with a vowel.",
+    "À partir du premier septembre: only the first of the month uses the ordinal premier."
+  ],
+  "questions": [
+    { "q": "Combien de chambres a l'appartement ?", "options": ["Une", "Deux", "Trois"], "answer": 1 },
+    { "q": "À quel étage est l'appartement ?", "options": ["Au premier", "Au deuxième", "Au troisième"], "answer": 2 },
+    { "q": "Les charges sont-elles comprises dans le loyer ?", "options": ["Oui", "Non", "Ce n'est pas précisé"], "answer": 0 },
+    { "q": "Peut-on avoir un chat dans cet appartement ?", "options": ["Oui", "Non", "Seulement un petit"], "answer": 1 }
+  ]
+},
+{
+  "id": "rd-03", "level": "A2", "title": "Le télétravail", "titleEn": "Working from home", "words": 178,
+  "text": "Il y a dix ans, presque tout le monde allait au bureau tous les jours. On prenait le métro le matin, on déjeunait avec ses collègues, et on rentrait le soir. Aujourd'hui, beaucoup de gens travaillent depuis chez eux, au moins quelques jours par semaine.\n\nLe télétravail a des avantages évidents. D'abord, on ne perd plus de temps dans les transports. Ensuite, on organise sa journée plus librement : on peut commencer tôt, faire une pause à midi, et finir plus tard. Enfin, certaines personnes se concentrent mieux à la maison.\n\nCependant, il y a aussi des inconvénients. On voit moins ses collègues, et les relations professionnelles deviennent parfois plus froides. De plus, la frontière entre le travail et la vie privée disparaît : quand le bureau est dans le salon, il est difficile de s'arrêter.\n\nLa solution la plus populaire est le modèle hybride : deux ou trois jours au bureau, le reste à la maison. Est-ce que ce modèle durera ? Personne ne le sait vraiment.",
+  "translation": "Ten years ago, almost everyone went to the office every day. People took the metro in the morning, had lunch with colleagues, and went home in the evening. Today many people work from home, at least a few days a week.\n\nWorking from home has obvious advantages. First, you no longer waste time commuting. Second, you organise your day more freely: you can start early, take a break at noon, and finish later. Finally, some people concentrate better at home.\n\nHowever, there are drawbacks too. You see your colleagues less, and professional relationships sometimes become colder. Moreover, the line between work and private life disappears: when the office is in the living room, it is hard to stop.\n\nThe most popular solution is the hybrid model: two or three days in the office, the rest at home. Will this model last? Nobody really knows.",
+  "vocabulary": [
+    { "fr": "le télétravail", "en": "working from home" },
+    { "fr": "les transports", "en": "commuting, transport" },
+    { "fr": "un inconvénient", "en": "a drawback" },
+    { "fr": "la vie privée", "en": "private life" },
+    { "fr": "la frontière", "en": "the boundary, border" },
+    { "fr": "durer", "en": "to last" }
+  ],
+  "grammarNotes": [
+    "The first paragraph is entirely in the imparfait: it describes how things used to be.",
+    "The connectors d'abord, ensuite, enfin, cependant, de plus carry the argument — copy this skeleton for your own writing.",
+    "Le modèle le plus populaire shows the superlative with a following adjective, repeating the article.",
+    "Personne ne le sait: personne as a subject comes first, and ne stays before the verb."
+  ],
+  "questions": [
+    { "q": "Comment était la situation il y a dix ans ?", "options": ["Tout le monde travaillait chez soi", "Presque tout le monde allait au bureau", "Le modèle hybride existait déjà"], "answer": 1 },
+    { "q": "Quel avantage n'est PAS mentionné ?", "options": ["Gagner du temps", "Mieux se concentrer", "Gagner plus d'argent"], "answer": 2 },
+    { "q": "Quel problème le texte décrit-il ?", "options": ["Le travail coûte plus cher", "La frontière entre travail et vie privée disparaît", "Les ordinateurs sont trop lents"], "answer": 1 },
+    { "q": "Quelle est la solution la plus populaire ?", "options": ["Le bureau tous les jours", "Le télétravail complet", "Le modèle hybride"], "answer": 2 }
+  ]
+},
+{
+  "id": "rd-04", "level": "A2", "title": "L'impact des réseaux sociaux", "titleEn": "The impact of social media", "words": 201,
+  "text": "Les réseaux sociaux ont changé notre façon de communiquer et de partager des informations. Il y a vingt ans, pour rester en contact avec des amis, on utilisait le téléphone ou on envoyait des lettres. Aujourd'hui, tout le monde peut partager des moments de sa vie en temps réel. Mais quels sont les effets de ces outils sur notre société ?\n\nD'abord, les réseaux sociaux permettent une connexion rapide et facile. On peut discuter avec des amis à l'autre bout du monde en quelques secondes. De plus, ces plateformes donnent une voix à ceux qui n'en avaient pas avant : les jeunes, les artistes ou même les citoyens ordinaires peuvent s'exprimer librement.\n\nCependant, il y a aussi des défis. Par exemple, la désinformation se propage rapidement, et beaucoup de gens partagent des nouvelles sans vérifier leur véracité. Les publicités ciblées, basées sur nos goûts et nos recherches, nous incitent à acheter des produits.\n\nEnfin, ces plateformes ont un impact sur notre santé mentale. Passer trop de temps en ligne peut augmenter le stress, surtout chez les jeunes. Les réseaux sociaux sont donc une révolution, mais ils apportent à la fois des opportunités et des défis.",
+  "translation": "Social media has changed the way we communicate and share information. Twenty years ago, to stay in touch with friends, we used the telephone or sent letters. Today everyone can share moments of their life in real time. But what effects do these tools have on our society?\n\nFirst, social media allows quick and easy connection. You can chat with friends on the other side of the world in a few seconds. Moreover, these platforms give a voice to those who did not have one before: young people, artists, or even ordinary citizens can express themselves freely.\n\nHowever, there are challenges too. For example, misinformation spreads quickly, and many people share news without checking whether it is true. Targeted advertising, based on our tastes and our searches, pushes us to buy products.\n\nFinally, these platforms have an impact on our mental health. Spending too much time online can increase stress, especially among young people. Social media is therefore a revolution, but it brings both opportunities and challenges.",
+  "vocabulary": [
+    { "fr": "les réseaux sociaux", "en": "social media" },
+    { "fr": "en temps réel", "en": "in real time" },
+    { "fr": "la désinformation", "en": "misinformation" },
+    { "fr": "se propager", "en": "to spread" },
+    { "fr": "ciblé(e)", "en": "targeted" },
+    { "fr": "inciter à", "en": "to encourage, to push" },
+    { "fr": "un défi", "en": "a challenge" }
+  ],
+  "grammarNotes": [
+    "On utilisait, on envoyait: imparfait for what people used to do.",
+    "Ceux qui n'en avaient pas: the demonstrative pronoun ceux plus the relative qui, with en replacing de + noun.",
+    "Publicités ciblées shows adjective agreement — feminine plural to match publicités.",
+    "Sans vérifier: after a preposition other than en, French uses the infinitive, never the -ant form."
+  ],
+  "questions": [
+    { "q": "Comment communiquait-on il y a vingt ans ?", "options": ["Par les réseaux sociaux", "Par téléphone ou par lettre", "En temps réel"], "answer": 1 },
+    { "q": "Quel avantage le texte mentionne-t-il ?", "options": ["Les plateformes donnent une voix à tout le monde", "Les produits sont moins chers", "On lit plus de livres"], "answer": 0 },
+    { "q": "Pourquoi la désinformation est-elle un problème ?", "options": ["Elle coûte cher", "Les gens partagent sans vérifier", "Elle est interdite"], "answer": 1 },
+    { "q": "Quelle est la conclusion de l'auteur ?", "options": ["Les réseaux sociaux sont mauvais", "Les réseaux sociaux sont parfaits", "Ils apportent des opportunités et des défis"], "answer": 2 }
+  ]
+}
+]

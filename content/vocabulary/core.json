@@ -1,0 +1,2687 @@
+[
+  {
+    "id": "voc-gre-001",
+    "fr": "bonjour",
+    "en": "hello, good morning",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bonjour, je m'appelle Marie.",
+        "en": "Hello, my name is Marie."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-002",
+    "fr": "bonsoir",
+    "en": "good evening",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bonsoir, vous avez une table pour deux ?",
+        "en": "Good evening, do you have a table for two?"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-003",
+    "fr": "salut",
+    "en": "hi, bye (informal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Salut, ça va ?",
+        "en": "Hi, how's it going?"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-004",
+    "fr": "au revoir",
+    "en": "goodbye",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Au revoir, à demain !",
+        "en": "Goodbye, see you tomorrow!"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-005",
+    "fr": "à bientôt",
+    "en": "see you soon",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Merci pour tout, à bientôt.",
+        "en": "Thanks for everything, see you soon."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-006",
+    "fr": "à demain",
+    "en": "see you tomorrow",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bonne soirée, à demain au bureau.",
+        "en": "Have a good evening, see you tomorrow at the office."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-007",
+    "fr": "à tout à l'heure",
+    "en": "see you later (today)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Je sors dix minutes, à tout à l'heure.",
+        "en": "I'm going out for ten minutes, see you later."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-008",
+    "fr": "bonne nuit",
+    "en": "good night",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bonne nuit, dors bien.",
+        "en": "Good night, sleep well."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-009",
+    "fr": "enchanté(e)",
+    "en": "pleased to meet you",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Enchanté, je suis Tien.",
+        "en": "Pleased to meet you, I'm Tien."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-010",
+    "fr": "comment ça va ?",
+    "en": "how are you? (informal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Comment ça va aujourd'hui ?",
+        "en": "How are you today?"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-011",
+    "fr": "comment allez-vous ?",
+    "en": "how are you? (formal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bonjour Madame, comment allez-vous ?",
+        "en": "Good morning Madam, how are you?"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-012",
+    "fr": "ça va bien",
+    "en": "I'm fine",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Ça va bien, merci, et vous ?",
+        "en": "I'm fine, thank you, and you?"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-013",
+    "fr": "pas mal",
+    "en": "not bad",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Pas mal, un peu fatigué.",
+        "en": "Not bad, a bit tired."
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-014",
+    "fr": "bienvenue",
+    "en": "welcome",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Bienvenue à Montréal !",
+        "en": "Welcome to Montreal!"
+      }
+    ]
+  },
+  {
+    "id": "voc-gre-015",
+    "fr": "bonne journée",
+    "en": "have a good day",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "greetings",
+    "examples": [
+      {
+        "fr": "Merci, bonne journée à vous aussi.",
+        "en": "Thanks, have a good day as well."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-001",
+    "fr": "merci",
+    "en": "thank you",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Merci pour votre aide.",
+        "en": "Thank you for your help."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-002",
+    "fr": "merci beaucoup",
+    "en": "thank you very much",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Merci beaucoup, c'est très gentil.",
+        "en": "Thank you very much, that's very kind."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-003",
+    "fr": "de rien",
+    "en": "you're welcome",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "— Merci ! — De rien.",
+        "en": "— Thanks! — You're welcome."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-004",
+    "fr": "je vous en prie",
+    "en": "you're welcome (formal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Je vous en prie, asseyez-vous.",
+        "en": "Please, do sit down."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-005",
+    "fr": "s'il vous plaît",
+    "en": "please (formal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Un café, s'il vous plaît.",
+        "en": "A coffee, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-006",
+    "fr": "s'il te plaît",
+    "en": "please (informal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Passe-moi le sel, s'il te plaît.",
+        "en": "Pass me the salt, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-007",
+    "fr": "pardon",
+    "en": "sorry, excuse me",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Pardon ? Vous pouvez répéter ?",
+        "en": "Sorry? Could you repeat that?"
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-008",
+    "fr": "excusez-moi",
+    "en": "excuse me (formal)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Excusez-moi, où est la gare ?",
+        "en": "Excuse me, where is the station?"
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-009",
+    "fr": "désolé(e)",
+    "en": "sorry",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Je suis désolé, je suis en retard.",
+        "en": "I'm sorry, I'm late."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-010",
+    "fr": "monsieur",
+    "en": "sir, Mr",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Bonjour Monsieur, je peux vous aider ?",
+        "en": "Good morning sir, can I help you?"
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-011",
+    "fr": "madame",
+    "en": "madam, Mrs",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Madame, votre table est prête.",
+        "en": "Madam, your table is ready."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-012",
+    "fr": "mademoiselle",
+    "en": "miss",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Mademoiselle, vous avez oublié votre sac.",
+        "en": "Miss, you have forgotten your bag."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-013",
+    "fr": "oui",
+    "en": "yes",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Oui, avec plaisir.",
+        "en": "Yes, with pleasure."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-014",
+    "fr": "non",
+    "en": "no",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Non merci, ça va.",
+        "en": "No thank you, I'm fine."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-015",
+    "fr": "peut-être",
+    "en": "maybe",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Peut-être demain, je ne sais pas encore.",
+        "en": "Maybe tomorrow, I don't know yet."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-016",
+    "fr": "d'accord",
+    "en": "okay, agreed",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "D'accord, on se retrouve à midi.",
+        "en": "Okay, we'll meet at noon."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-017",
+    "fr": "avec plaisir",
+    "en": "with pleasure",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "— Tu viens ? — Avec plaisir !",
+        "en": "— Are you coming? — With pleasure!"
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-018",
+    "fr": "bonne chance",
+    "en": "good luck",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Bonne chance pour ton examen.",
+        "en": "Good luck with your exam."
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-019",
+    "fr": "félicitations",
+    "en": "congratulations",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Félicitations pour ton nouveau travail !",
+        "en": "Congratulations on your new job!"
+      }
+    ]
+  },
+  {
+    "id": "voc-pol-020",
+    "fr": "santé",
+    "en": "cheers (a toast)",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "politeness",
+    "examples": [
+      {
+        "fr": "Santé ! À notre amitié.",
+        "en": "Cheers! To our friendship."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-001",
+    "fr": "le nom",
+    "en": "name, surname",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Quel est votre nom, s'il vous plaît ?",
+        "en": "What is your name, please?"
+      }
+    ]
+  },
+  {
+    "id": "voc-per-002",
+    "fr": "le prénom",
+    "en": "first name",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Mon prénom est Tien.",
+        "en": "My first name is Tien."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-003",
+    "fr": "l'âge",
+    "en": "age",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Quel âge avez-vous ? J'ai trente ans.",
+        "en": "How old are you? I'm thirty."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-004",
+    "fr": "l'adresse",
+    "en": "address",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Mon adresse est 12, rue Victor Hugo.",
+        "en": "My address is 12 Victor Hugo Street."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-005",
+    "fr": "le numéro de téléphone",
+    "en": "phone number",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Vous pouvez me donner votre numéro de téléphone ?",
+        "en": "Can you give me your phone number?"
+      }
+    ]
+  },
+  {
+    "id": "voc-per-006",
+    "fr": "la nationalité",
+    "en": "nationality",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Ma nationalité est canadienne.",
+        "en": "My nationality is Canadian."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-007",
+    "fr": "la date de naissance",
+    "en": "date of birth",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Ma date de naissance est le 3 mai 1995.",
+        "en": "My date of birth is 3 May 1995."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-008",
+    "fr": "célibataire",
+    "en": "single (unmarried)",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Je suis célibataire et je vis seul.",
+        "en": "I'm single and I live alone."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-009",
+    "fr": "marié(e)",
+    "en": "married",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Elle est mariée depuis cinq ans.",
+        "en": "She has been married for five years."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-010",
+    "fr": "le passeport",
+    "en": "passport",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Votre passeport, s'il vous plaît.",
+        "en": "Your passport, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-011",
+    "fr": "la carte d'identité",
+    "en": "identity card",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "J'ai perdu ma carte d'identité.",
+        "en": "I have lost my identity card."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-012",
+    "fr": "la signature",
+    "en": "signature",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Mettez votre signature en bas du formulaire.",
+        "en": "Put your signature at the bottom of the form."
+      }
+    ]
+  },
+  {
+    "id": "voc-per-013",
+    "fr": "le formulaire",
+    "en": "form",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "personal information",
+    "examples": [
+      {
+        "fr": "Il faut remplir ce formulaire en deux exemplaires.",
+        "en": "You must fill in this form in duplicate."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-001",
+    "fr": "la famille",
+    "en": "family",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma famille compte trois membres.",
+        "en": "My family has three members."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-002",
+    "fr": "le père",
+    "en": "father",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Mon père est grand.",
+        "en": "My father is tall."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-003",
+    "fr": "la mère",
+    "en": "mother",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma mère cuisine très bien.",
+        "en": "My mother cooks very well."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-004",
+    "fr": "les parents",
+    "en": "parents",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Mes parents habitent au Vietnam.",
+        "en": "My parents live in Vietnam."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-005",
+    "fr": "le frère",
+    "en": "brother",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "J'ai un frère et une sœur.",
+        "en": "I have a brother and a sister."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-006",
+    "fr": "la sœur",
+    "en": "sister",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma sœur est étudiante à Lyon.",
+        "en": "My sister is a student in Lyon."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-007",
+    "fr": "le fils",
+    "en": "son",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Leur fils a huit ans.",
+        "en": "Their son is eight years old."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-008",
+    "fr": "la fille",
+    "en": "daughter, girl",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Sa fille apprend le piano.",
+        "en": "His daughter is learning the piano."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-009",
+    "fr": "le mari",
+    "en": "husband",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Son mari travaille à l'hôpital.",
+        "en": "Her husband works at the hospital."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-010",
+    "fr": "la femme",
+    "en": "wife, woman",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Sa femme est architecte.",
+        "en": "His wife is an architect."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-011",
+    "fr": "le grand-père",
+    "en": "grandfather",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Mon grand-père a quatre-vingts ans.",
+        "en": "My grandfather is eighty."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-012",
+    "fr": "la grand-mère",
+    "en": "grandmother",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma grand-mère raconte de belles histoires.",
+        "en": "My grandmother tells lovely stories."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-013",
+    "fr": "l'oncle",
+    "en": "uncle",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Mon oncle habite à Québec.",
+        "en": "My uncle lives in Quebec City."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-014",
+    "fr": "la tante",
+    "en": "aunt",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma tante vient dîner ce soir.",
+        "en": "My aunt is coming for dinner tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-015",
+    "fr": "le cousin",
+    "en": "cousin (male)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Mon cousin étudie la médecine.",
+        "en": "My cousin is studying medicine."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-016",
+    "fr": "la cousine",
+    "en": "cousin (female)",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Ma cousine parle trois langues.",
+        "en": "My cousin speaks three languages."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-017",
+    "fr": "les enfants",
+    "en": "children",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Les enfants jouent dans le jardin.",
+        "en": "The children are playing in the garden."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-018",
+    "fr": "le bébé",
+    "en": "baby",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Le bébé dort encore.",
+        "en": "The baby is still sleeping."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-019",
+    "fr": "les grands-parents",
+    "en": "grandparents",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Je rends visite à mes grands-parents le dimanche.",
+        "en": "I visit my grandparents on Sundays."
+      }
+    ]
+  },
+  {
+    "id": "voc-fam-020",
+    "fr": "les petits-enfants",
+    "en": "grandchildren",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "family",
+    "examples": [
+      {
+        "fr": "Elle a six petits-enfants.",
+        "en": "She has six grandchildren."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-001",
+    "fr": "l'ami",
+    "en": "friend (male)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Mon ami habite à Paris.",
+        "en": "My friend lives in Paris."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-002",
+    "fr": "l'amie",
+    "en": "friend (female)",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Mon amie aime lire des romans.",
+        "en": "My friend likes reading novels."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-003",
+    "fr": "l'homme",
+    "en": "man",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "L'homme là-bas est mon voisin.",
+        "en": "The man over there is my neighbour."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-004",
+    "fr": "la personne",
+    "en": "person",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Il y a trois personnes dans la salle.",
+        "en": "There are three people in the room."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-005",
+    "fr": "les gens",
+    "en": "people",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Les gens sont gentils dans ce quartier.",
+        "en": "People are kind in this neighbourhood."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-006",
+    "fr": "le garçon",
+    "en": "boy",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Le garçon fait ses devoirs.",
+        "en": "The boy is doing his homework."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-007",
+    "fr": "le voisin",
+    "en": "neighbour",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Mon voisin a un grand chien.",
+        "en": "My neighbour has a big dog."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-008",
+    "fr": "le collègue",
+    "en": "colleague",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Je déjeune souvent avec mes collègues.",
+        "en": "I often have lunch with my colleagues."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-009",
+    "fr": "le copain",
+    "en": "friend, boyfriend (informal)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Je sors avec des copains ce soir.",
+        "en": "I'm going out with friends tonight."
+      }
+    ]
+  },
+  {
+    "id": "voc-peo-010",
+    "fr": "l'adulte",
+    "en": "adult",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "people",
+    "examples": [
+      {
+        "fr": "Le billet coûte dix euros pour les adultes.",
+        "en": "The ticket costs ten euros for adults."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-001",
+    "fr": "zéro",
+    "en": "zero",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il fait zéro degré ce matin.",
+        "en": "It's zero degrees this morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-002",
+    "fr": "un",
+    "en": "one",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'ai un chat.",
+        "en": "I have one cat."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-003",
+    "fr": "deux",
+    "en": "two",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Deux livres, s'il vous plaît.",
+        "en": "Two books, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-004",
+    "fr": "trois",
+    "en": "three",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'ai trois frères.",
+        "en": "I have three brothers."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-005",
+    "fr": "quatre",
+    "en": "four",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Quatre pommes sont sur la table.",
+        "en": "Four apples are on the table."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-006",
+    "fr": "cinq",
+    "en": "five",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Cinq euros pour le billet.",
+        "en": "Five euros for the ticket."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-007",
+    "fr": "six",
+    "en": "six",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le train part à six heures.",
+        "en": "The train leaves at six o'clock."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-008",
+    "fr": "sept",
+    "en": "seven",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il y a sept jours dans une semaine.",
+        "en": "There are seven days in a week."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-009",
+    "fr": "huit",
+    "en": "eight",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le magasin ouvre à huit heures.",
+        "en": "The shop opens at eight."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-010",
+    "fr": "neuf",
+    "en": "nine",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Ma réunion commence à neuf heures.",
+        "en": "My meeting starts at nine."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-011",
+    "fr": "dix",
+    "en": "ten",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'ai dix minutes de pause.",
+        "en": "I have a ten-minute break."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-012",
+    "fr": "onze",
+    "en": "eleven",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il est onze heures du matin.",
+        "en": "It's eleven in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-013",
+    "fr": "douze",
+    "en": "twelve",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Une douzaine, c'est douze.",
+        "en": "A dozen is twelve."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-014",
+    "fr": "treize",
+    "en": "thirteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Nous sommes le treize octobre.",
+        "en": "It is the thirteenth of October."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-015",
+    "fr": "quatorze",
+    "en": "fourteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le quatorze juillet est la fête nationale.",
+        "en": "The fourteenth of July is the national holiday."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-016",
+    "fr": "quinze",
+    "en": "fifteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'attends depuis quinze minutes.",
+        "en": "I have been waiting for fifteen minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-017",
+    "fr": "seize",
+    "en": "sixteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Elle a seize ans.",
+        "en": "She is sixteen."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-018",
+    "fr": "dix-sept",
+    "en": "seventeen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il y a dix-sept étudiants.",
+        "en": "There are seventeen students."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-019",
+    "fr": "dix-huit",
+    "en": "eighteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "On est majeur à dix-huit ans.",
+        "en": "You come of age at eighteen."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-020",
+    "fr": "dix-neuf",
+    "en": "nineteen",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le bus dix-neuf va au centre-ville.",
+        "en": "The number nineteen bus goes downtown."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-021",
+    "fr": "vingt",
+    "en": "twenty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Ça coûte vingt dollars.",
+        "en": "That costs twenty dollars."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-022",
+    "fr": "trente",
+    "en": "thirty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'ai trente ans.",
+        "en": "I am thirty years old."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-023",
+    "fr": "quarante",
+    "en": "forty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le trajet dure quarante minutes.",
+        "en": "The journey takes forty minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-024",
+    "fr": "cinquante",
+    "en": "fifty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il y a cinquante places dans la salle.",
+        "en": "There are fifty seats in the room."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-025",
+    "fr": "soixante",
+    "en": "sixty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Une heure fait soixante minutes.",
+        "en": "An hour is sixty minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-026",
+    "fr": "soixante-dix",
+    "en": "seventy",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Mon grand-père a soixante-dix ans.",
+        "en": "My grandfather is seventy."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-027",
+    "fr": "quatre-vingts",
+    "en": "eighty",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le livre coûte quatre-vingts euros.",
+        "en": "The book costs eighty euros."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-028",
+    "fr": "quatre-vingt-dix",
+    "en": "ninety",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le film dure quatre-vingt-dix minutes.",
+        "en": "The film lasts ninety minutes."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-029",
+    "fr": "cent",
+    "en": "hundred",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il y a cent pages dans ce livre.",
+        "en": "There are a hundred pages in this book."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-030",
+    "fr": "mille",
+    "en": "thousand",
+    "pos": "num",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Le loyer est mille dollars par mois.",
+        "en": "The rent is a thousand dollars a month."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-031",
+    "fr": "premier / première",
+    "en": "first",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "C'est mon premier jour de travail.",
+        "en": "It's my first day at work."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-032",
+    "fr": "deuxième",
+    "en": "second",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Prenez la deuxième rue à gauche.",
+        "en": "Take the second street on the left."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-033",
+    "fr": "troisième",
+    "en": "third",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'habite au troisième étage.",
+        "en": "I live on the third floor."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-034",
+    "fr": "dernier / dernière",
+    "en": "last",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "C'est le dernier train.",
+        "en": "It's the last train."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-035",
+    "fr": "la moitié",
+    "en": "half",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'ai mangé la moitié du gâteau.",
+        "en": "I ate half the cake."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-036",
+    "fr": "le quart",
+    "en": "quarter",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "Il est six heures et quart.",
+        "en": "It's a quarter past six."
+      }
+    ]
+  },
+  {
+    "id": "voc-num-037",
+    "fr": "le numéro",
+    "en": "number (of a thing)",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "numbers",
+    "examples": [
+      {
+        "fr": "J'habite au numéro douze.",
+        "en": "I live at number twelve."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-001",
+    "fr": "le temps",
+    "en": "time, weather",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Je n'ai pas le temps aujourd'hui.",
+        "en": "I don't have time today."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-002",
+    "fr": "l'heure",
+    "en": "hour, time (o'clock)",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Quelle heure est-il ?",
+        "en": "What time is it?"
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-003",
+    "fr": "la minute",
+    "en": "minute",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Attends une minute, s'il te plaît.",
+        "en": "Wait a minute, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-004",
+    "fr": "la seconde",
+    "en": "second",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Une minute fait soixante secondes.",
+        "en": "A minute is sixty seconds."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-005",
+    "fr": "le jour",
+    "en": "day",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Je travaille cinq jours par semaine.",
+        "en": "I work five days a week."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-006",
+    "fr": "la journée",
+    "en": "day (as a duration)",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A2",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "J'ai passé la journée à étudier.",
+        "en": "I spent the day studying."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-007",
+    "fr": "la semaine",
+    "en": "week",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "La semaine prochaine, je pars en vacances.",
+        "en": "Next week I'm going on holiday."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-008",
+    "fr": "le mois",
+    "en": "month",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le mois de mai est agréable ici.",
+        "en": "The month of May is pleasant here."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-009",
+    "fr": "l'année",
+    "en": "year",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Cette année, j'apprends le français.",
+        "en": "This year I'm learning French."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-010",
+    "fr": "le matin",
+    "en": "morning",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Je bois un café le matin.",
+        "en": "I drink a coffee in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-011",
+    "fr": "l'après-midi",
+    "en": "afternoon",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "L'après-midi, je fais du sport.",
+        "en": "In the afternoon I do sport."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-012",
+    "fr": "le soir",
+    "en": "evening",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le soir, je regarde un film.",
+        "en": "In the evening I watch a film."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-013",
+    "fr": "la nuit",
+    "en": "night",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "La nuit, la ville est calme.",
+        "en": "At night the city is quiet."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-014",
+    "fr": "aujourd'hui",
+    "en": "today",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Aujourd'hui, il fait beau.",
+        "en": "Today the weather is nice."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-015",
+    "fr": "demain",
+    "en": "tomorrow",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Demain, j'ai un rendez-vous.",
+        "en": "Tomorrow I have an appointment."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-016",
+    "fr": "hier",
+    "en": "yesterday",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Hier, je suis allé au cinéma.",
+        "en": "Yesterday I went to the cinema."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-017",
+    "fr": "maintenant",
+    "en": "now",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Maintenant, je comprends mieux.",
+        "en": "Now I understand better."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-018",
+    "fr": "tôt",
+    "en": "early",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Je me lève tôt le matin.",
+        "en": "I get up early in the morning."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-019",
+    "fr": "tard",
+    "en": "late",
+    "pos": "adv",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Il est rentré tard hier soir.",
+        "en": "He came home late last night."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-020",
+    "fr": "en retard",
+    "en": "late (behind schedule)",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Désolé, je suis en retard.",
+        "en": "Sorry, I'm late."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-021",
+    "fr": "à l'heure",
+    "en": "on time",
+    "pos": "phrase",
+    "gender": null,
+    "level": "A2",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le train est arrivé à l'heure.",
+        "en": "The train arrived on time."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-022",
+    "fr": "lundi",
+    "en": "Monday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Lundi, je commence à huit heures.",
+        "en": "On Monday I start at eight."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-023",
+    "fr": "mardi",
+    "en": "Tuesday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Mardi prochain, il y a une réunion.",
+        "en": "Next Tuesday there's a meeting."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-024",
+    "fr": "mercredi",
+    "en": "Wednesday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le mercredi, je fais du basket.",
+        "en": "On Wednesdays I play basketball."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-025",
+    "fr": "jeudi",
+    "en": "Thursday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Jeudi, c'est mon jour de congé.",
+        "en": "Thursday is my day off."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-026",
+    "fr": "vendredi",
+    "en": "Friday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Vendredi soir, on sort ensemble.",
+        "en": "On Friday evening we go out together."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-027",
+    "fr": "samedi",
+    "en": "Saturday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Samedi, je fais les courses.",
+        "en": "On Saturday I do the shopping."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-028",
+    "fr": "dimanche",
+    "en": "Sunday",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Dimanche, je me repose.",
+        "en": "On Sunday I rest."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-029",
+    "fr": "janvier",
+    "en": "January",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En janvier, il neige beaucoup.",
+        "en": "In January it snows a lot."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-030",
+    "fr": "février",
+    "en": "February",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Février est le mois le plus court.",
+        "en": "February is the shortest month."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-031",
+    "fr": "mars",
+    "en": "March",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le printemps commence en mars.",
+        "en": "Spring begins in March."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-032",
+    "fr": "avril",
+    "en": "April",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En avril, il pleut souvent.",
+        "en": "In April it often rains."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-033",
+    "fr": "mai",
+    "en": "May",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Je suis né en mai.",
+        "en": "I was born in May."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-034",
+    "fr": "juin",
+    "en": "June",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Les cours finissent en juin.",
+        "en": "Classes finish in June."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-035",
+    "fr": "juillet",
+    "en": "July",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En juillet, nous partons en vacances.",
+        "en": "In July we go on holiday."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-036",
+    "fr": "août",
+    "en": "August",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Beaucoup de magasins ferment en août.",
+        "en": "Many shops close in August."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-037",
+    "fr": "septembre",
+    "en": "September",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "L'école recommence en septembre.",
+        "en": "School starts again in September."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-038",
+    "fr": "octobre",
+    "en": "October",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En octobre, les feuilles tombent.",
+        "en": "In October the leaves fall."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-039",
+    "fr": "novembre",
+    "en": "November",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Novembre est un mois gris.",
+        "en": "November is a grey month."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-040",
+    "fr": "décembre",
+    "en": "December",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En décembre, on fête Noël.",
+        "en": "In December we celebrate Christmas."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-041",
+    "fr": "le printemps",
+    "en": "spring",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Au printemps, les fleurs poussent.",
+        "en": "In spring the flowers grow."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-042",
+    "fr": "l'été",
+    "en": "summer",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En été, il fait très chaud.",
+        "en": "In summer it's very hot."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-043",
+    "fr": "l'automne",
+    "en": "autumn, fall",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "En automne, j'aime marcher dans le parc.",
+        "en": "In autumn I like walking in the park."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-044",
+    "fr": "l'hiver",
+    "en": "winter",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "L'hiver canadien est très long.",
+        "en": "The Canadian winter is very long."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-045",
+    "fr": "le week-end",
+    "en": "weekend",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Ce week-end, je reste à la maison.",
+        "en": "This weekend I'm staying home."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-046",
+    "fr": "le rendez-vous",
+    "en": "appointment, meeting",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "J'ai un rendez-vous chez le médecin.",
+        "en": "I have a doctor's appointment."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-047",
+    "fr": "le calendrier",
+    "en": "calendar",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A2",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Note la date dans ton calendrier.",
+        "en": "Write the date in your calendar."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-048",
+    "fr": "la date",
+    "en": "date",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Quelle est la date aujourd'hui ?",
+        "en": "What's the date today?"
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-049",
+    "fr": "midi",
+    "en": "noon",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "On déjeune à midi.",
+        "en": "We have lunch at noon."
+      }
+    ]
+  },
+  {
+    "id": "voc-tim-050",
+    "fr": "minuit",
+    "en": "midnight",
+    "pos": "noun",
+    "gender": "m",
+    "level": "A1",
+    "theme": "time",
+    "examples": [
+      {
+        "fr": "Le film finit à minuit.",
+        "en": "The film finishes at midnight."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-001",
+    "fr": "rouge",
+    "en": "red",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "La voiture rouge est belle.",
+        "en": "The red car is beautiful."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-002",
+    "fr": "bleu(e)",
+    "en": "blue",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Le ciel bleu est clair.",
+        "en": "The blue sky is clear."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-003",
+    "fr": "vert(e)",
+    "en": "green",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "J'ai un stylo vert.",
+        "en": "I have a green pen."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-004",
+    "fr": "jaune",
+    "en": "yellow",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Le soleil est jaune.",
+        "en": "The sun is yellow."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-005",
+    "fr": "noir(e)",
+    "en": "black",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Je porte une veste noire.",
+        "en": "I'm wearing a black jacket."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-006",
+    "fr": "blanc / blanche",
+    "en": "white",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Elle a une chemise blanche.",
+        "en": "She has a white shirt."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-007",
+    "fr": "gris(e)",
+    "en": "grey",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Le ciel est gris aujourd'hui.",
+        "en": "The sky is grey today."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-008",
+    "fr": "orange",
+    "en": "orange",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "J'aime les murs orange.",
+        "en": "I like orange walls."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-009",
+    "fr": "rose",
+    "en": "pink",
+    "pos": "adj",
+    "gender": null,
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Sa robe rose est jolie.",
+        "en": "Her pink dress is pretty."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-010",
+    "fr": "violet / violette",
+    "en": "purple",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Les fleurs violettes sentent bon.",
+        "en": "The purple flowers smell good."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-011",
+    "fr": "marron",
+    "en": "brown",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Il a les yeux marron.",
+        "en": "He has brown eyes."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-012",
+    "fr": "clair(e)",
+    "en": "light (colour)",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Je préfère le bleu clair.",
+        "en": "I prefer light blue."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-013",
+    "fr": "foncé(e)",
+    "en": "dark (colour)",
+    "pos": "adj",
+    "gender": null,
+    "level": "A2",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Un pantalon bleu foncé, s'il vous plaît.",
+        "en": "Dark blue trousers, please."
+      }
+    ]
+  },
+  {
+    "id": "voc-col-014",
+    "fr": "la couleur",
+    "en": "colour",
+    "pos": "noun",
+    "gender": "f",
+    "level": "A1",
+    "theme": "colours",
+    "examples": [
+      {
+        "fr": "Quelle est ta couleur préférée ?",
+        "en": "What's your favourite colour?"
+      }
+    ]
+  }
+]

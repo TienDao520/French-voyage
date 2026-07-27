@@ -1,0 +1,3738 @@
+[
+  {
+    "id": "g-a2-01",
+    "level": "A2",
+    "order": 1,
+    "category": "Past tenses",
+    "title": "L'imparfait",
+    "titleEn": "The imperfect",
+    "summary": "One stem, one set of endings, one exception in the whole language.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "The imparfait is the most regular tense in French. Take the nous form of the present, remove -ons, and add the endings. This works for every single verb except être."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Person",
+          "Ending",
+          "parler (nous parlons)",
+          "finir (nous finissons)",
+          "faire (nous faisons)"
+        ],
+        "rows": [
+          [
+            "je",
+            "-ais",
+            "je parlais",
+            "je finissais",
+            "je faisais"
+          ],
+          [
+            "tu",
+            "-ais",
+            "tu parlais",
+            "tu finissais",
+            "tu faisais"
+          ],
+          [
+            "il/elle/on",
+            "-ait",
+            "il parlait",
+            "il finissait",
+            "il faisait"
+          ],
+          [
+            "nous",
+            "-ions",
+            "nous parlions",
+            "nous finissions",
+            "nous faisions"
+          ],
+          [
+            "vous",
+            "-iez",
+            "vous parliez",
+            "vous finissiez",
+            "vous faisiez"
+          ],
+          [
+            "ils/elles",
+            "-aient",
+            "ils parlaient",
+            "ils finissaient",
+            "ils faisaient"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The only irregular verb is être, whose stem is ét-: j'étais, tu étais, il était, nous étions, vous étiez, ils étaient."
+      },
+      {
+        "type": "prose",
+        "text": "Spelling adjustments carry over from the present. -ger verbs keep the e before endings starting with a: je mangeais, but nous mangions. -cer verbs keep the cedilla the same way: je commençais, nous commencions."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Habits in the past",
+            "Quand j'étais petit, je jouais au foot."
+          ],
+          [
+            "Descriptions and background",
+            "Il faisait froid et la rue était vide."
+          ],
+          [
+            "Ongoing action interrupted",
+            "Je dormais quand le téléphone a sonné."
+          ],
+          [
+            "Age, time, weather in the past",
+            "Il avait vingt ans. Il était midi."
+          ],
+          [
+            "Polite suggestions",
+            "Si on allait au cinéma ?"
+          ]
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Verbs whose stem already ends in i produce a double i in nous and vous: nous étudiions, vous voyiez, nous riions. It looks like a typo. It is not."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Quand j'étais enfant, je ___ (jouer) au foot.",
+        "answer": "jouais",
+        "why": "A repeated past habit takes the imparfait."
+      },
+      {
+        "type": "fill",
+        "q": "Nous ___ (manger) souvent au restaurant.",
+        "answer": "mangions",
+        "why": "The e is dropped before -ions."
+      },
+      {
+        "type": "mcq",
+        "q": "The imparfait stem of être is:",
+        "options": [
+          "somm-",
+          "ét-",
+          "êt-"
+        ],
+        "answer": 1,
+        "why": "être is the only verb that ignores the nous-form rule."
+      },
+      {
+        "type": "fill",
+        "q": "Il ___ (faire) beau ce jour-là.",
+        "answer": "faisait",
+        "why": "Weather in the past is background description."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-02",
+    "level": "A2",
+    "order": 2,
+    "category": "Past tenses",
+    "title": "Imparfait ou passé composé ?",
+    "titleEn": "Imperfect vs perfect",
+    "summary": "The single hardest choice at A2 — decided by whether the action has edges.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Both tenses talk about the past. The passé composé reports an event that happened and finished — it has a beginning and an end. The imparfait paints the situation around events — no edges, no end point in view."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Passé composé",
+          "Imparfait"
+        ],
+        "rows": [
+          [
+            "A single completed event",
+            "A repeated habit"
+          ],
+          [
+            "A sequence of actions",
+            "A background description"
+          ],
+          [
+            "An interruption",
+            "The action being interrupted"
+          ],
+          [
+            "A change of state",
+            "A state that simply was"
+          ],
+          [
+            "Answers: what happened?",
+            "Answers: what was it like?"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je dormais quand le téléphone a sonné.",
+            "en": "I was sleeping when the phone rang.",
+            "note": "imparfait = the ongoing scene; passé composé = the interruption"
+          },
+          {
+            "fr": "Tous les étés, nous allions à la mer. L'été dernier, nous sommes allés en montagne.",
+            "en": "Every summer we used to go to the sea. Last summer we went to the mountains.",
+            "note": "habit vs one specific occasion"
+          },
+          {
+            "fr": "Il faisait froid, il n'y avait personne, et soudain quelqu'un a crié.",
+            "en": "It was cold, there was nobody around, and suddenly someone shouted.",
+            "note": "two background clauses, then the event"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Signal words for imparfait",
+          "Signal words for passé composé"
+        ],
+        "rows": [
+          [
+            "tous les jours, chaque semaine",
+            "hier, ce matin, ce jour-là"
+          ],
+          [
+            "souvent, toujours, d'habitude",
+            "soudain, tout à coup"
+          ],
+          [
+            "quand j'étais…",
+            "une fois, deux fois"
+          ],
+          [
+            "pendant que",
+            "en 2019, lundi dernier"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Some verbs change meaning between the two tenses. Je savais = I knew (state). J'ai su = I found out (moment). Je voulais = I wanted (ongoing). J'ai voulu = I decided to try. Je connaissais = I knew someone. J'ai connu = I met someone."
+      },
+      {
+        "type": "tip",
+        "text": "A practical test: could you replace it with 'used to' or 'was …-ing' in English? Then it is imparfait. Could you replace it with a simple past that answers 'and then what happened?' Then it is passé composé."
+      }
+    ],
+    "practice": [
+      {
+        "type": "mcq",
+        "q": "Je ___ la télé quand tu es arrivé.",
+        "options": [
+          "ai regardé",
+          "regardais"
+        ],
+        "answer": 1,
+        "why": "The ongoing action interrupted by another takes the imparfait."
+      },
+      {
+        "type": "fill",
+        "q": "Hier, il ___ (pleuvoir) toute la journée — description of the background.",
+        "answer": "pleuvait",
+        "why": "An unbounded weather description over the whole day."
+      },
+      {
+        "type": "mcq",
+        "q": "'J'ai su la vérité' means:",
+        "options": [
+          "I knew the truth",
+          "I found out the truth"
+        ],
+        "answer": 1,
+        "why": "savoir in the passé composé marks the moment of learning."
+      },
+      {
+        "type": "fill",
+        "q": "Quand j'___ (être) petit, j'___ (avoir) un chien.",
+        "answer": "étais / avais",
+        "why": "Both are ongoing childhood states."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-03",
+    "level": "A2",
+    "order": 3,
+    "category": "Past tenses",
+    "title": "Le plus-que-parfait",
+    "titleEn": "The pluperfect",
+    "summary": "The past before the past: what had already happened when something else happened.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Take the passé composé and put the auxiliary into the imparfait. That is the whole recipe: j'ai mangé becomes j'avais mangé; je suis parti becomes j'étais parti."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Passé composé",
+          "Plus-que-parfait",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "j'ai fini",
+            "j'avais fini",
+            "I had finished"
+          ],
+          [
+            "tu as vu",
+            "tu avais vu",
+            "you had seen"
+          ],
+          [
+            "elle est partie",
+            "elle était partie",
+            "she had left"
+          ],
+          [
+            "nous sommes arrivés",
+            "nous étions arrivés",
+            "we had arrived"
+          ],
+          [
+            "je me suis levé",
+            "je m'étais levé",
+            "I had got up"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The same auxiliary and the same agreement rules apply as in the passé composé: être verbs and reflexives agree with the subject."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Quand je suis arrivé, ils étaient déjà partis.",
+            "en": "When I arrived, they had already left.",
+            "note": "their leaving happened before my arriving"
+          },
+          {
+            "fr": "J'avais oublié mon passeport, alors j'ai raté l'avion.",
+            "en": "I had forgotten my passport, so I missed the plane."
+          },
+          {
+            "fr": "Elle m'a dit qu'elle avait déjà mangé.",
+            "en": "She told me she had already eaten.",
+            "note": "reported speech pushes the past one step further back"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "text": "Déjà (already), ne … pas encore (not yet) and avant (before) are the words that most often signal a plus-que-parfait."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Quand nous sommes arrivés, le film ___ ___ (commencer).",
+        "answer": "avait commencé",
+        "why": "The film started before we arrived."
+      },
+      {
+        "type": "fill",
+        "q": "Elle ___ ___ (partir) avant mon appel.",
+        "answer": "était partie",
+        "why": "partir takes être, and the feminine subject adds -e."
+      },
+      {
+        "type": "mcq",
+        "q": "The plus-que-parfait uses the auxiliary in the:",
+        "options": [
+          "present",
+          "imparfait",
+          "futur"
+        ],
+        "answer": 1,
+        "why": "avais/étais — the imparfait of avoir or être."
+      },
+      {
+        "type": "fill",
+        "q": "Je ___ ___ (ne jamais voir) ce film avant hier.",
+        "answer": "n'avais jamais vu",
+        "why": "The negation wraps the auxiliary."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-04",
+    "level": "A2",
+    "order": 4,
+    "category": "Future",
+    "title": "Le futur simple",
+    "titleEn": "The simple future",
+    "summary": "One set of endings — the present tense of avoir — bolted onto the infinitive.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "For regular verbs, the stem is the infinitive itself. -re verbs drop their final e first. The endings are the same for every verb in the language, and they are recognisably the present tense of avoir."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Person",
+          "Ending",
+          "parler",
+          "finir",
+          "attendre"
+        ],
+        "rows": [
+          [
+            "je",
+            "-ai",
+            "je parlerai",
+            "je finirai",
+            "j'attendrai"
+          ],
+          [
+            "tu",
+            "-as",
+            "tu parleras",
+            "tu finiras",
+            "tu attendras"
+          ],
+          [
+            "il/elle/on",
+            "-a",
+            "il parlera",
+            "il finira",
+            "il attendra"
+          ],
+          [
+            "nous",
+            "-ons",
+            "nous parlerons",
+            "nous finirons",
+            "nous attendrons"
+          ],
+          [
+            "vous",
+            "-ez",
+            "vous parlerez",
+            "vous finirez",
+            "vous attendrez"
+          ],
+          [
+            "ils/elles",
+            "-ont",
+            "ils parleront",
+            "ils finiront",
+            "ils attendront"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "About fifteen common verbs have an unpredictable stem. Learn the stem once and the endings follow automatically."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Verb",
+          "Stem",
+          "Verb",
+          "Stem"
+        ],
+        "rows": [
+          [
+            "être",
+            "ser-",
+            "avoir",
+            "aur-"
+          ],
+          [
+            "aller",
+            "ir-",
+            "faire",
+            "fer-"
+          ],
+          [
+            "venir",
+            "viendr-",
+            "tenir",
+            "tiendr-"
+          ],
+          [
+            "pouvoir",
+            "pourr-",
+            "vouloir",
+            "voudr-"
+          ],
+          [
+            "devoir",
+            "devr-",
+            "savoir",
+            "saur-"
+          ],
+          [
+            "voir",
+            "verr-",
+            "envoyer",
+            "enverr-"
+          ],
+          [
+            "recevoir",
+            "recevr-",
+            "falloir",
+            "faudr-"
+          ],
+          [
+            "courir",
+            "courr-",
+            "mourir",
+            "mourr-"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "French uses the future after quand, dès que and lorsque where English insists on the present: Quand j'aurai le temps, je t'appellerai — 'when I have time, I'll call you'."
+      },
+      {
+        "type": "pitfall",
+        "text": "Compare je parlerai (future, one r) with je parlerais (conditional, -ais). In speech they are nearly identical; in writing the difference is the whole meaning."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Demain, je ___ (aller) à Montréal.",
+        "answer": "irai",
+        "why": "The stem of aller is ir-."
+      },
+      {
+        "type": "fill",
+        "q": "Quand tu ___ (avoir) le temps, appelle-moi.",
+        "answer": "auras",
+        "why": "French uses the future after quand."
+      },
+      {
+        "type": "mcq",
+        "q": "The future stem of pouvoir is:",
+        "options": [
+          "pouv-",
+          "pourr-",
+          "peuv-"
+        ],
+        "answer": 1,
+        "why": "pourr- with a double r."
+      },
+      {
+        "type": "fill",
+        "q": "Nous ___ (finir) le projet vendredi.",
+        "answer": "finirons",
+        "why": "Regular: infinitive + -ons."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-05",
+    "level": "A2",
+    "order": 5,
+    "category": "Future",
+    "title": "Le conditionnel présent",
+    "titleEn": "The conditional",
+    "summary": "Future stem plus imperfect endings. It powers politeness, hypotheses and secondhand news.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Take the future stem — the same one, irregulars included — and add the imparfait endings: -ais, -ais, -ait, -ions, -iez, -aient."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Person",
+          "parler",
+          "être",
+          "avoir",
+          "aller"
+        ],
+        "rows": [
+          [
+            "je",
+            "parlerais",
+            "serais",
+            "aurais",
+            "irais"
+          ],
+          [
+            "tu",
+            "parlerais",
+            "serais",
+            "aurais",
+            "irais"
+          ],
+          [
+            "il/elle/on",
+            "parlerait",
+            "serait",
+            "aurait",
+            "irait"
+          ],
+          [
+            "nous",
+            "parlerions",
+            "serions",
+            "aurions",
+            "irions"
+          ],
+          [
+            "vous",
+            "parleriez",
+            "seriez",
+            "auriez",
+            "iriez"
+          ],
+          [
+            "ils/elles",
+            "parleraient",
+            "seraient",
+            "auraient",
+            "iraient"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Politeness",
+            "Je voudrais un café. / Pourriez-vous m'aider ?"
+          ],
+          [
+            "Advice",
+            "Tu devrais te reposer."
+          ],
+          [
+            "Hypothesis with si",
+            "Si j'avais le temps, je voyagerais."
+          ],
+          [
+            "Unconfirmed news",
+            "Il y aurait cent blessés selon la police."
+          ],
+          [
+            "Wishes",
+            "J'aimerais bien visiter le Québec."
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je voudrais réserver une chambre pour deux nuits.",
+            "en": "I'd like to book a room for two nights."
+          },
+          {
+            "fr": "À ta place, je parlerais au patron.",
+            "en": "In your position, I'd speak to the boss."
+          },
+          {
+            "fr": "Vous devriez consulter un médecin.",
+            "en": "You should see a doctor."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Never put a conditional immediately after si in a hypothesis. It is si j'avais, je ferais — imperfect after si, conditional in the other half."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Je ___ (vouloir) parler au responsable, s'il vous plaît.",
+        "answer": "voudrais",
+        "why": "The polite conditional of vouloir."
+      },
+      {
+        "type": "fill",
+        "q": "Tu ___ (devoir) te reposer un peu.",
+        "answer": "devrais",
+        "why": "devr- + -ais gives advice."
+      },
+      {
+        "type": "mcq",
+        "q": "Which is correct?",
+        "options": [
+          "Si j'aurais le temps…",
+          "Si j'avais le temps…"
+        ],
+        "answer": 1,
+        "why": "si takes the imparfait, never the conditional."
+      },
+      {
+        "type": "fill",
+        "q": "Nous ___ (aimer) visiter la France un jour.",
+        "answer": "aimerions",
+        "why": "A wish takes the conditional."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-06",
+    "level": "A2",
+    "order": 6,
+    "category": "Pronouns",
+    "title": "Les pronoms COD",
+    "titleEn": "Direct object pronouns",
+    "summary": "Replacing the thing the verb acts on directly — and putting it before the verb, not after.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "A direct object answers 'whom?' or 'what?' after the verb with no preposition in between. Je vois Marie → whom do I see? Marie. So Marie can be replaced by a direct object pronoun."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Pronoun",
+          "Replaces",
+          "Example"
+        ],
+        "rows": [
+          [
+            "me / m'",
+            "me",
+            "Il me voit."
+          ],
+          [
+            "te / t'",
+            "you (informal)",
+            "Je te comprends."
+          ],
+          [
+            "le / l'",
+            "him, it (masculine)",
+            "Le film ? Je le regarde."
+          ],
+          [
+            "la / l'",
+            "her, it (feminine)",
+            "La lettre ? Je la lis."
+          ],
+          [
+            "nous",
+            "us",
+            "Elle nous invite."
+          ],
+          [
+            "vous",
+            "you (formal/plural)",
+            "Je vous remercie."
+          ],
+          [
+            "les",
+            "them",
+            "Les clés ? Je les cherche."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The pronoun goes immediately before the verb it belongs to — not after it as in English. With two verbs it attaches to the infinitive: je vais le faire, not 'je le vais faire'."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "— Tu connais ce restaurant ? — Oui, je le connais bien.",
+            "en": "— Do you know this restaurant? — Yes, I know it well."
+          },
+          {
+            "fr": "Je ne les ai pas vus hier.",
+            "en": "I didn't see them yesterday.",
+            "note": "in the passé composé the pronoun sits before the auxiliary — and the participle agrees: vus"
+          },
+          {
+            "fr": "Je vais t'appeler ce soir.",
+            "en": "I'll call you tonight.",
+            "note": "attached to the infinitive"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "When a direct object pronoun comes before a passé composé, the past participle agrees with it: la lettre, je l'ai écrite. This is the only situation where an avoir participle agrees."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "— Tu regardes la télé ? — Oui, je ___ regarde.",
+        "answer": "la",
+        "why": "télé is feminine singular."
+      },
+      {
+        "type": "fill",
+        "q": "Les documents ? Je ___ ai envoyés hier.",
+        "answer": "les",
+        "why": "Plural direct object; note the participle agrees, hence envoyés."
+      },
+      {
+        "type": "mcq",
+        "q": "'I'm going to do it' is:",
+        "options": [
+          "Je le vais faire.",
+          "Je vais le faire."
+        ],
+        "answer": 1,
+        "why": "The pronoun attaches to the infinitive it belongs to."
+      },
+      {
+        "type": "mcq",
+        "q": "Why is it 'je l'ai écrite' and not 'écrit'?",
+        "options": [
+          "a spelling variant",
+          "the direct object comes before the verb, so the participle agrees"
+        ],
+        "answer": 1,
+        "why": "Preceding direct object triggers agreement even with avoir."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-07",
+    "level": "A2",
+    "order": 7,
+    "category": "Pronouns",
+    "title": "Les pronoms COI",
+    "titleEn": "Indirect object pronouns",
+    "summary": "For people introduced by à — and only three forms differ from the direct set.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "An indirect object is a person reached through the preposition à: je parle à Marie, je téléphone à mon frère. Replace the whole à + person block with an indirect pronoun."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Pronoun",
+          "Replaces",
+          "Example"
+        ],
+        "rows": [
+          [
+            "me / m'",
+            "to me",
+            "Il me parle."
+          ],
+          [
+            "te / t'",
+            "to you",
+            "Je te réponds."
+          ],
+          [
+            "lui",
+            "to him OR to her",
+            "Je lui téléphone."
+          ],
+          [
+            "nous",
+            "to us",
+            "Elle nous explique la règle."
+          ],
+          [
+            "vous",
+            "to you",
+            "Je vous envoie le fichier."
+          ],
+          [
+            "leur",
+            "to them",
+            "Je leur ai écrit."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Only lui and leur differ from the direct object set. Lui covers both genders, and leur never takes an -s in this role — that -s belongs to the possessive leurs."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Verbs that take à + person",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "parler à",
+            "to speak to"
+          ],
+          [
+            "téléphoner à",
+            "to phone"
+          ],
+          [
+            "répondre à",
+            "to answer"
+          ],
+          [
+            "demander à",
+            "to ask"
+          ],
+          [
+            "donner à",
+            "to give to"
+          ],
+          [
+            "écrire à",
+            "to write to"
+          ],
+          [
+            "dire à",
+            "to tell"
+          ],
+          [
+            "offrir à",
+            "to give (a gift) to"
+          ]
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "French and English disagree about several verbs. Téléphoner and répondre are indirect in French but direct in English: je lui téléphone = I phone him. Conversely regarder, écouter, attendre and chercher are direct in French but take a preposition in English: je l'attends = I wait for him."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Je parle à Marie. → Je ___ parle.",
+        "answer": "lui",
+        "why": "à + a person, singular → lui, for both genders."
+      },
+      {
+        "type": "fill",
+        "q": "J'écris à mes parents. → Je ___ écris.",
+        "answer": "leur",
+        "why": "à + plural people → leur, never leurs."
+      },
+      {
+        "type": "mcq",
+        "q": "'Je l'attends' means:",
+        "options": [
+          "I answer him",
+          "I wait for him"
+        ],
+        "answer": 1,
+        "why": "attendre is direct in French, so the pronoun is le/la."
+      },
+      {
+        "type": "mcq",
+        "q": "Which needs an indirect pronoun?",
+        "options": [
+          "Je vois Paul.",
+          "Je téléphone à Paul."
+        ],
+        "answer": 1,
+        "why": "téléphoner à → lui."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-08",
+    "level": "A2",
+    "order": 8,
+    "category": "Pronouns",
+    "title": "Le pronom y",
+    "titleEn": "The pronoun y",
+    "summary": "One letter that replaces a whole place — or anything introduced by à that is not a person.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Y has two jobs. It replaces a place already mentioned, and it replaces à + a thing or an idea. It never replaces à + a person; that is what lui and leur are for."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Replaces",
+          "Full sentence",
+          "With y"
+        ],
+        "rows": [
+          [
+            "a place",
+            "Je vais à Paris.",
+            "J'y vais."
+          ],
+          [
+            "a place",
+            "Il habite en France.",
+            "Il y habite."
+          ],
+          [
+            "à + thing",
+            "Je pense à mon travail.",
+            "J'y pense."
+          ],
+          [
+            "à + idea",
+            "Tu réponds à la question ?",
+            "Tu y réponds ?"
+          ],
+          [
+            "à + thing",
+            "Je m'intéresse à la politique.",
+            "Je m'y intéresse."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Y sits immediately before the verb, like every other object pronoun: j'y vais, je n'y vais pas, je vais y aller, j'y suis allé."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "— Tu vas au bureau demain ? — Oui, j'y vais.",
+            "en": "— Are you going to the office tomorrow? — Yes, I'm going there."
+          },
+          {
+            "fr": "On y va !",
+            "en": "Let's go!",
+            "note": "the most common phrase in spoken French containing y"
+          },
+          {
+            "fr": "Je n'y ai pas pensé.",
+            "en": "I didn't think of it."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Watch the imperative: vas-y keeps the -s that the imperative normally drops, purely so the words can be pronounced together."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Tu vas à la banque ? — Oui, j'___ vais.",
+        "answer": "y",
+        "why": "y replaces the place à la banque."
+      },
+      {
+        "type": "fill",
+        "q": "Je pense à mon avenir. → J'___ pense.",
+        "answer": "y",
+        "why": "à + an abstract thing → y."
+      },
+      {
+        "type": "mcq",
+        "q": "'Je pense à Marie' becomes:",
+        "options": [
+          "J'y pense.",
+          "Je pense à elle."
+        ],
+        "answer": 1,
+        "why": "y never replaces a person; use a stressed pronoun instead."
+      },
+      {
+        "type": "fill",
+        "q": "Nous ___ sommes allés l'année dernière.",
+        "answer": "y",
+        "why": "The pronoun sits before the auxiliary."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-09",
+    "level": "A2",
+    "order": 9,
+    "category": "Pronouns",
+    "title": "Le pronom en",
+    "titleEn": "The pronoun en",
+    "summary": "Replaces anything introduced by de — including quantities, where English says nothing at all.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "En replaces de + noun. That covers three situations: partitive quantities, expressions built on de, and places you are coming from."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Replaces",
+          "Full sentence",
+          "With en"
+        ],
+        "rows": [
+          [
+            "du / de la / des + noun",
+            "Je mange du pain.",
+            "J'en mange."
+          ],
+          [
+            "a number + noun",
+            "J'ai deux frères.",
+            "J'en ai deux."
+          ],
+          [
+            "a quantity + noun",
+            "Il boit beaucoup de café.",
+            "Il en boit beaucoup."
+          ],
+          [
+            "de + thing",
+            "Je parle de mon travail.",
+            "J'en parle."
+          ],
+          [
+            "de + place",
+            "Je viens de Paris.",
+            "J'en viens."
+          ],
+          [
+            "after a negation",
+            "Je ne mange pas de viande.",
+            "Je n'en mange pas."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The rule English speakers forget: when a number or a quantity word is present, it stays behind. J'en ai deux, not 'j'en ai'. Dropping the number changes the meaning from 'I have two of them' to 'I have some'."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "— Tu as des enfants ? — Oui, j'en ai trois.",
+            "en": "— Do you have children? — Yes, I have three."
+          },
+          {
+            "fr": "— Vous voulez du café ? — Oui, j'en veux bien.",
+            "en": "— Would you like coffee? — Yes, I'd like some."
+          },
+          {
+            "fr": "J'ai besoin de ton aide. → J'en ai besoin.",
+            "en": "I need your help. → I need it.",
+            "note": "avoir besoin de is a de-expression"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "text": "If you can insert 'of it' or 'of them' into the English translation, French needs en — even when English leaves it out entirely."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "— Tu as des frères ? — Oui, j'___ ai deux.",
+        "answer": "en",
+        "why": "en replaces des frères, and the number stays."
+      },
+      {
+        "type": "fill",
+        "q": "Je bois du thé. → J'___ bois.",
+        "answer": "en",
+        "why": "Partitive du → en."
+      },
+      {
+        "type": "mcq",
+        "q": "'I have three of them' is:",
+        "options": [
+          "J'en ai.",
+          "J'en ai trois.",
+          "J'ai trois."
+        ],
+        "answer": 1,
+        "why": "The number must be repeated after the verb."
+      },
+      {
+        "type": "fill",
+        "q": "Il parle souvent de son projet. → Il ___ parle souvent.",
+        "answer": "en",
+        "why": "parler de + thing → en."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-10",
+    "level": "A2",
+    "order": 10,
+    "category": "Pronouns",
+    "title": "L'ordre des pronoms",
+    "titleEn": "Pronoun order",
+    "summary": "When two pronouns meet, French has a fixed queue. Learn the queue, not the exceptions.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Before the verb, pronouns line up in this order — and never any other."
+      },
+      {
+        "type": "table",
+        "head": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5"
+        ],
+        "rows": [
+          [
+            "me / te / se / nous / vous",
+            "le / la / les",
+            "lui / leur",
+            "y",
+            "en"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Il me le donne.",
+            "en": "He gives it to me.",
+            "note": "me (1) before le (2)"
+          },
+          {
+            "fr": "Je le lui ai expliqué.",
+            "en": "I explained it to him.",
+            "note": "le (2) before lui (3)"
+          },
+          {
+            "fr": "Il y en a trois.",
+            "en": "There are three of them.",
+            "note": "y (4) before en (5)"
+          },
+          {
+            "fr": "Je ne vous en parle pas.",
+            "en": "I'm not telling you about it.",
+            "note": "vous (1) before en (5)"
+          }
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "In an affirmative imperative the order changes and the pronouns move after the verb, joined by hyphens, with direct before indirect: Donne-le-moi ! Me and te become moi and toi in that position. In a negative imperative everything reverts to normal: Ne me le donne pas."
+      },
+      {
+        "type": "pitfall",
+        "text": "Columns 1 and 3 cannot be used together. 'He introduces me to them' cannot be 'il me leur présente'; French says il me présente à eux, using a stressed pronoun."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Il donne le livre à moi. → Il ___ ___ donne.",
+        "answer": "me le",
+        "why": "me (column 1) comes before le (column 2)."
+      },
+      {
+        "type": "fill",
+        "q": "Je donne les clés à Paul. → Je ___ ___ donne.",
+        "answer": "les lui",
+        "why": "les (column 2) before lui (column 3)."
+      },
+      {
+        "type": "mcq",
+        "q": "The imperative 'Give it to me!' is:",
+        "options": [
+          "Donne-moi-le !",
+          "Donne-le-moi !"
+        ],
+        "answer": 1,
+        "why": "In an affirmative imperative, direct object first, and me becomes moi."
+      },
+      {
+        "type": "fill",
+        "q": "Combien de places ? Il ___ ___ a deux.",
+        "answer": "y en",
+        "why": "y precedes en."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-11",
+    "level": "A2",
+    "order": 11,
+    "category": "Pronouns",
+    "title": "Les pronoms toniques",
+    "titleEn": "Stressed pronouns",
+    "summary": "The forms used after prepositions, for emphasis, and when standing alone.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Subject",
+          "Stressed",
+          "Example"
+        ],
+        "rows": [
+          [
+            "je",
+            "moi",
+            "C'est moi."
+          ],
+          [
+            "tu",
+            "toi",
+            "Et toi ?"
+          ],
+          [
+            "il",
+            "lui",
+            "Je pense à lui."
+          ],
+          [
+            "elle",
+            "elle",
+            "Je sors avec elle."
+          ],
+          [
+            "nous",
+            "nous",
+            "Chez nous."
+          ],
+          [
+            "vous",
+            "vous",
+            "Après vous."
+          ],
+          [
+            "ils",
+            "eux",
+            "Je travaille pour eux."
+          ],
+          [
+            "elles",
+            "elles",
+            "Sans elles."
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Use",
+          "Example"
+        ],
+        "rows": [
+          [
+            "After a preposition",
+            "Je viens avec toi."
+          ],
+          [
+            "After c'est",
+            "C'est lui qui a téléphoné."
+          ],
+          [
+            "For emphasis",
+            "Moi, je pense que non."
+          ],
+          [
+            "Standing alone",
+            "— Qui veut du café ? — Moi !"
+          ],
+          [
+            "In comparisons",
+            "Il est plus grand que moi."
+          ],
+          [
+            "With aussi / non plus",
+            "Moi aussi. / Moi non plus."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Stressed pronouns are also the escape hatch for verbs built on à + person that refuse the lui/leur treatment: penser à, s'intéresser à, faire attention à. Je pense à lui, not 'je lui pense'."
+      },
+      {
+        "type": "pitfall",
+        "text": "Moi aussi agrees with a positive statement; moi non plus answers a negative one. — Je n'aime pas ça. — Moi non plus. Saying 'moi aussi' there means the opposite of what you intend."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Tu viens avec ___ ? (me)",
+        "answer": "moi",
+        "why": "After a preposition, the stressed form."
+      },
+      {
+        "type": "fill",
+        "q": "Je pense souvent à ___. (them, masculine)",
+        "answer": "eux",
+        "why": "penser à + person requires a stressed pronoun."
+      },
+      {
+        "type": "mcq",
+        "q": "— Je n'aime pas le café. — ___",
+        "options": [
+          "Moi aussi.",
+          "Moi non plus."
+        ],
+        "answer": 1,
+        "why": "Agreeing with a negative statement uses non plus."
+      },
+      {
+        "type": "fill",
+        "q": "C'est ___ qui a payé l'addition. (he)",
+        "answer": "lui",
+        "why": "After c'est, the stressed pronoun."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-12",
+    "level": "A2",
+    "order": 12,
+    "category": "Sentence structure",
+    "title": "Les pronoms relatifs : qui et que",
+    "titleEn": "Relative pronouns: qui and que",
+    "summary": "Joining two sentences into one. Choose by grammar, never by whether it is a person.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Qui and que both mean who, which or that. The choice has nothing to do with people versus things. Qui is the subject of the following verb; que is its object."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Pronoun",
+          "Role",
+          "Test",
+          "Example"
+        ],
+        "rows": [
+          [
+            "qui",
+            "subject",
+            "a verb comes straight after",
+            "L'homme qui parle est mon patron."
+          ],
+          [
+            "que",
+            "object",
+            "a subject comes after",
+            "L'homme que je vois est mon patron."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The practical test: look at the word immediately after. If it is a verb, use qui. If it is a subject (a noun or a pronoun), use que. Qui never elides; que becomes qu' before a vowel."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "C'est le livre qui a gagné le prix.",
+            "en": "That's the book that won the prize.",
+            "note": "the book does the winning → qui"
+          },
+          {
+            "fr": "C'est le livre que j'ai acheté hier.",
+            "en": "That's the book that I bought yesterday.",
+            "note": "I do the buying → que"
+          },
+          {
+            "fr": "Les gens qu'on rencontre en voyage sont intéressants.",
+            "en": "The people you meet while travelling are interesting.",
+            "note": "qu' before the vowel of on"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "English lets you drop the relative pronoun — 'the book I bought'. French never does. Le livre j'ai acheté is not a sentence."
+      },
+      {
+        "type": "tip",
+        "text": "After que, a passé composé participle agrees with the noun in front: la lettre que j'ai écrite. That preceding direct object rule again."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "C'est un film ___ raconte une histoire vraie.",
+        "answer": "qui",
+        "why": "raconte is a verb, so the relative is the subject."
+      },
+      {
+        "type": "fill",
+        "q": "Voici le rapport ___ tu m'as demandé.",
+        "answer": "que",
+        "why": "tu follows, so the relative is the object."
+      },
+      {
+        "type": "mcq",
+        "q": "Which is correct?",
+        "options": [
+          "La personne que parle est Marie.",
+          "La personne qui parle est Marie."
+        ],
+        "answer": 1,
+        "why": "parle is a verb → qui."
+      },
+      {
+        "type": "mcq",
+        "q": "'The book I read' in French:",
+        "options": [
+          "Le livre j'ai lu",
+          "Le livre que j'ai lu"
+        ],
+        "answer": 1,
+        "why": "French cannot omit the relative pronoun."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-13",
+    "level": "A2",
+    "order": 13,
+    "category": "Sentence structure",
+    "title": "Les pronoms relatifs : où et dont",
+    "titleEn": "Relative pronouns: où and dont",
+    "summary": "One for places and times, one for everything that needs de.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Où covers place and, less obviously to English speakers, time. Le jour où je suis arrivé is 'the day when I arrived' — French uses où, never quand, in a relative clause."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Pronoun",
+          "Replaces",
+          "Example"
+        ],
+        "rows": [
+          [
+            "où (place)",
+            "in/at which",
+            "La ville où j'habite est petite."
+          ],
+          [
+            "où (time)",
+            "when",
+            "Le jour où nous sommes partis, il pleuvait."
+          ],
+          [
+            "dont",
+            "de + noun",
+            "Le livre dont je parle est excellent."
+          ],
+          [
+            "dont (possession)",
+            "whose",
+            "L'homme dont la voiture est rouge."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Dont is the relative pronoun for every construction built on de. If the verb or expression takes de, the relative must be dont: parler de → dont je parle; avoir besoin de → dont j'ai besoin; être content de → dont je suis content."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "C'est le film dont tout le monde parle.",
+            "en": "That's the film everyone is talking about.",
+            "note": "parler de → dont"
+          },
+          {
+            "fr": "Voici les outils dont j'ai besoin.",
+            "en": "Here are the tools I need.",
+            "note": "avoir besoin de → dont"
+          },
+          {
+            "fr": "Je connais une femme dont le fils habite au Québec.",
+            "en": "I know a woman whose son lives in Quebec.",
+            "note": "possession: the article stays, not a possessive"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "After dont meaning 'whose', French keeps the definite article where English uses no article: dont la voiture, not 'dont sa voiture'."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "C'est le restaurant ___ je t'ai parlé.",
+        "answer": "dont",
+        "why": "parler de → dont."
+      },
+      {
+        "type": "fill",
+        "q": "L'année ___ je suis arrivé au Canada, il a beaucoup neigé.",
+        "answer": "où",
+        "why": "où covers time as well as place."
+      },
+      {
+        "type": "mcq",
+        "q": "'The book I need' is:",
+        "options": [
+          "Le livre que j'ai besoin",
+          "Le livre dont j'ai besoin"
+        ],
+        "answer": 1,
+        "why": "avoir besoin de requires dont."
+      },
+      {
+        "type": "fill",
+        "q": "Je connais un homme ___ la sœur est médecin.",
+        "answer": "dont",
+        "why": "dont expresses whose."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-14",
+    "level": "A2",
+    "order": 14,
+    "category": "Adjectives",
+    "title": "Le comparatif",
+    "titleEn": "Comparatives",
+    "summary": "More, less, as much — three words and one irregular form you cannot avoid.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Type",
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Superiority",
+            "plus + adjective + que",
+            "Il est plus grand que moi."
+          ],
+          [
+            "Inferiority",
+            "moins + adjective + que",
+            "C'est moins cher que l'autre."
+          ],
+          [
+            "Equality",
+            "aussi + adjective + que",
+            "Elle est aussi rapide que lui."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The adjective still agrees with its noun: elle est plus grande que moi. The second term is introduced by que and takes a stressed pronoun: que moi, que lui, que nous."
+      },
+      {
+        "type": "prose",
+        "text": "With nouns and verbs the pattern shifts slightly."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Comparing",
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Nouns",
+            "plus / moins / autant de + noun + que",
+            "J'ai plus de travail que toi."
+          ],
+          [
+            "Verbs",
+            "verb + plus / moins / autant que",
+            "Je travaille plus que lui."
+          ],
+          [
+            "Adverbs",
+            "plus / moins / aussi + adverb + que",
+            "Il parle plus vite que moi."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Bon and bien have irregular comparatives that must be learnt: bon → meilleur (better, adjective), bien → mieux (better, adverb). Saying 'plus bon' or 'plus bien' marks you out immediately."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Ce restaurant est meilleur que l'autre.",
+            "en": "This restaurant is better than the other one.",
+            "note": "meilleur describes the noun restaurant"
+          },
+          {
+            "fr": "Elle parle mieux que moi.",
+            "en": "She speaks better than I do.",
+            "note": "mieux describes the verb parle"
+          },
+          {
+            "fr": "Il y a autant de monde qu'hier.",
+            "en": "There are as many people as yesterday."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "meilleur is an adjective and describes things; mieux is an adverb and describes actions. Le café est meilleur, but il cuisine mieux."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Ce livre est ___ intéressant ___ l'autre. (more … than)",
+        "answer": "plus / que",
+        "why": "plus + adjective + que."
+      },
+      {
+        "type": "fill",
+        "q": "Ce vin est ___ que l'autre. (better)",
+        "answer": "meilleur",
+        "why": "The comparative of bon is meilleur, never plus bon."
+      },
+      {
+        "type": "mcq",
+        "q": "'She sings better than me' is:",
+        "options": [
+          "Elle chante plus bien que moi.",
+          "Elle chante mieux que moi."
+        ],
+        "answer": 1,
+        "why": "bien → mieux, describing the verb."
+      },
+      {
+        "type": "fill",
+        "q": "J'ai ___ ___ travail que toi. (as much)",
+        "answer": "autant de",
+        "why": "Comparing nouns uses autant de."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-15",
+    "level": "A2",
+    "order": 15,
+    "category": "Adjectives",
+    "title": "Le superlatif",
+    "titleEn": "Superlatives",
+    "summary": "The most, the least — built by adding an article to the comparative.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Add the definite article to plus or moins: le plus grand, la plus grande, les plus grands. The article agrees with the noun, and so does the adjective."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Structure",
+          "Example"
+        ],
+        "rows": [
+          [
+            "le / la / les + plus + adjective",
+            "C'est le plus grand musée de la ville."
+          ],
+          [
+            "le / la / les + moins + adjective",
+            "C'est la moins chère des options."
+          ],
+          [
+            "le plus / le moins + adverb",
+            "C'est lui qui parle le plus vite."
+          ],
+          [
+            "verb + le plus / le moins",
+            "C'est le plat que j'aime le plus."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "If the adjective normally follows its noun, the superlative structure repeats the article: la ville la plus intéressante. If the adjective normally precedes, there is only one article: la plus belle ville."
+      },
+      {
+        "type": "prose",
+        "text": "The group you are comparing within is introduced by de, where English uses 'in': le meilleur restaurant de la ville — the best restaurant in town."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "C'est le meilleur restaurant du quartier.",
+            "en": "It's the best restaurant in the neighbourhood.",
+            "note": "bon → le meilleur"
+          },
+          {
+            "fr": "C'est elle qui travaille le mieux.",
+            "en": "She's the one who works best.",
+            "note": "bien → le mieux, invariable"
+          },
+          {
+            "fr": "Le mois le plus froid de l'année, c'est janvier.",
+            "en": "The coldest month of the year is January.",
+            "note": "adjective follows, so the article repeats"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "With an adverb, the article is always le and never changes: elles courent le plus vite, not 'les plus vite'."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "C'est ___ ___ ___ ville de France. (the biggest)",
+        "answer": "la plus grande",
+        "why": "grand precedes the noun, so one article."
+      },
+      {
+        "type": "fill",
+        "q": "C'est le ___ film de l'année. (best)",
+        "answer": "meilleur",
+        "why": "The superlative of bon."
+      },
+      {
+        "type": "mcq",
+        "q": "'The best restaurant in town' uses which preposition?",
+        "options": [
+          "dans la ville",
+          "de la ville"
+        ],
+        "answer": 1,
+        "why": "French uses de where English uses 'in' after a superlative."
+      },
+      {
+        "type": "fill",
+        "q": "C'est elle qui chante ___ ___. (the best)",
+        "answer": "le mieux",
+        "why": "Adverb superlative, invariable le mieux."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-16",
+    "level": "A2",
+    "order": 16,
+    "category": "Adverbs",
+    "title": "La formation des adverbes",
+    "titleEn": "Forming adverbs",
+    "summary": "Take the feminine adjective, add -ment. Then learn the four families that cheat.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Adjective (m)",
+          "Feminine",
+          "Adverb"
+        ],
+        "rows": [
+          [
+            "lent",
+            "lente",
+            "lentement"
+          ],
+          [
+            "heureux",
+            "heureuse",
+            "heureusement"
+          ],
+          [
+            "doux",
+            "douce",
+            "doucement"
+          ],
+          [
+            "normal",
+            "normale",
+            "normalement"
+          ],
+          [
+            "actif",
+            "active",
+            "activement"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "If the masculine adjective already ends in a vowel, skip the feminine step: vrai → vraiment, poli → poliment, absolu → absolument."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Adjective ending",
+          "Adverb ending",
+          "Example"
+        ],
+        "rows": [
+          [
+            "-ant",
+            "-amment",
+            "courant → couramment"
+          ],
+          [
+            "-ent",
+            "-emment",
+            "évident → évidemment"
+          ],
+          [
+            "vowel",
+            "+ -ment",
+            "vrai → vraiment"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Both -amment and -emment are pronounced identically, like 'aman'. Some very common adverbs are simply their own words: bien, mal, vite, souvent, toujours, trop, peu."
+      },
+      {
+        "type": "prose",
+        "text": "Placement: a short adverb goes straight after the conjugated verb — je parle bien. In the passé composé it slips between the auxiliary and the participle — j'ai bien dormi, j'ai souvent voyagé. Longer -ment adverbs usually go after the participle: j'ai répondu poliment."
+      },
+      {
+        "type": "pitfall",
+        "text": "Do not confuse the adjective with the adverb: il est rapide (adjective, describes him) versus il parle rapidement (adverb, describes the speaking)."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "heureux → ___",
+        "answer": "heureusement",
+        "why": "Feminine heureuse plus -ment."
+      },
+      {
+        "type": "fill",
+        "q": "courant → ___",
+        "answer": "couramment",
+        "why": "-ant becomes -amment."
+      },
+      {
+        "type": "mcq",
+        "q": "Where does 'bien' go in the passé composé?",
+        "options": [
+          "J'ai dormi bien.",
+          "J'ai bien dormi."
+        ],
+        "answer": 1,
+        "why": "Short adverbs sit between the auxiliary and the participle."
+      },
+      {
+        "type": "fill",
+        "q": "vrai → ___",
+        "answer": "vraiment",
+        "why": "The adjective ends in a vowel, so -ment attaches directly."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-17",
+    "level": "A2",
+    "order": 17,
+    "category": "Time expressions",
+    "title": "Depuis, pendant, il y a, dans",
+    "titleEn": "Talking about duration",
+    "summary": "Four expressions that all become 'for' or 'ago' in English but are not interchangeable.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Expression",
+          "Meaning",
+          "Tense used",
+          "Example"
+        ],
+        "rows": [
+          [
+            "depuis",
+            "since / for (still true)",
+            "present",
+            "J'habite ici depuis quatre ans."
+          ],
+          [
+            "pendant",
+            "for (finished period)",
+            "any",
+            "J'ai travaillé là pendant deux ans."
+          ],
+          [
+            "il y a",
+            "ago",
+            "past",
+            "Je suis arrivé il y a quatre ans."
+          ],
+          [
+            "dans",
+            "in (future)",
+            "future",
+            "Je pars dans deux heures."
+          ],
+          [
+            "en",
+            "in (time taken)",
+            "any",
+            "J'ai fini en trente minutes."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The trap is depuis. French keeps the present tense for something that started in the past and is still going on, where English switches to a perfect: j'apprends le français depuis deux ans = 'I have been learning French for two years'. Using the passé composé there changes the meaning entirely."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je travaille dans cette entreprise depuis 2023.",
+            "en": "I have been working at this company since 2023.",
+            "note": "present tense, ongoing"
+          },
+          {
+            "fr": "J'ai vécu au Vietnam pendant vingt ans.",
+            "en": "I lived in Vietnam for twenty years.",
+            "note": "finished period → pendant + past"
+          },
+          {
+            "fr": "Le film commence dans dix minutes.",
+            "en": "The film starts in ten minutes.",
+            "note": "future point → dans"
+          },
+          {
+            "fr": "J'ai fait l'exercice en cinq minutes.",
+            "en": "I did the exercise in five minutes.",
+            "note": "duration of completion → en"
+          }
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Two more ways to ask the same question: Depuis combien de temps travaillez-vous ici ? (how long have you been working here) and Ça fait combien de temps que vous travaillez ici ? — the second is more common in speech."
+      },
+      {
+        "type": "pitfall",
+        "text": "dans and en both translate as 'in' but mean opposite things. Je le ferai dans une heure = I'll do it an hour from now. Je le ferai en une heure = it will take me an hour."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "J'apprends le français ___ deux ans. (and I still am)",
+        "answer": "depuis",
+        "why": "Ongoing since a point in the past."
+      },
+      {
+        "type": "mcq",
+        "q": "Which tense goes with depuis?",
+        "options": [
+          "passé composé",
+          "present",
+          "futur"
+        ],
+        "answer": 1,
+        "why": "French keeps the present for something still true."
+      },
+      {
+        "type": "fill",
+        "q": "Je suis arrivé au Canada ___ ___ ___ quatre ans. (four years ago)",
+        "answer": "il y a",
+        "why": "il y a + duration means 'ago'."
+      },
+      {
+        "type": "mcq",
+        "q": "'I'll be back in ten minutes' is:",
+        "options": [
+          "Je reviens en dix minutes.",
+          "Je reviens dans dix minutes."
+        ],
+        "answer": 1,
+        "why": "dans points to a future moment."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-18",
+    "level": "A2",
+    "order": 18,
+    "category": "Sentence structure",
+    "title": "Les phrases avec si",
+    "titleEn": "If-clauses",
+    "summary": "Two patterns to memorise as fixed pairs — the tense in one half dictates the other.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Type",
+          "si + …",
+          "Main clause",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1 — real possibility",
+            "present",
+            "future (or present/imperative)",
+            "Si j'ai le temps, je viendrai."
+          ],
+          [
+            "2 — hypothetical",
+            "imparfait",
+            "conditional present",
+            "Si j'avais le temps, je viendrais."
+          ],
+          [
+            "3 — regret (B1)",
+            "plus-que-parfait",
+            "conditional past",
+            "Si j'avais eu le temps, je serais venu."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Type 1 is about things that may well happen. Type 2 is about things that are not the case: imagining, wishing, advising. The tense pairs are rigid — get the si half right and the other half follows."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "S'il fait beau demain, nous irons à la plage.",
+            "en": "If the weather is nice tomorrow, we'll go to the beach.",
+            "note": "type 1: si + present, main clause future"
+          },
+          {
+            "fr": "Si j'étais riche, je voyagerais partout.",
+            "en": "If I were rich, I'd travel everywhere.",
+            "note": "type 2: si + imparfait, main clause conditional"
+          },
+          {
+            "fr": "Si tu veux, on peut se voir ce soir.",
+            "en": "If you want, we can meet tonight.",
+            "note": "type 1 with a present main clause"
+          }
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The two halves can swap places with no change of meaning; the comma simply disappears: Je viendrai si j'ai le temps."
+      },
+      {
+        "type": "pitfall",
+        "text": "Never write a future or a conditional immediately after si. 'Si j'aurai' and 'si j'aurais' are both wrong. Si elides only before il and ils: s'il, s'ils — but never before elle."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Si j'ai le temps, je ___ (venir).",
+        "answer": "viendrai",
+        "why": "Type 1: present after si, future in the main clause."
+      },
+      {
+        "type": "fill",
+        "q": "Si j'___ (être) riche, je voyagerais.",
+        "answer": "étais",
+        "why": "Type 2 requires the imparfait after si."
+      },
+      {
+        "type": "mcq",
+        "q": "Which is wrong?",
+        "options": [
+          "Si tu veux, viens.",
+          "Si tu voudrais, viens.",
+          "Si tu venais, je serais content."
+        ],
+        "answer": 1,
+        "why": "A conditional can never follow si."
+      },
+      {
+        "type": "fill",
+        "q": "___ il pleut, nous resterons ici.",
+        "answer": "S'",
+        "why": "si elides to s' before il."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-19",
+    "level": "A2",
+    "order": 19,
+    "category": "Verbs",
+    "title": "Le subjonctif présent",
+    "titleEn": "The present subjunctive: an introduction",
+    "summary": "Not a tense but a mood — used after specific trigger phrases you can simply learn as a list.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "The subjunctive appears in a subordinate clause after que, when the main clause expresses necessity, desire, emotion or doubt. At A2 you do not need to master it — you need to recognise it and produce it after the handful of triggers below."
+      },
+      {
+        "type": "prose",
+        "text": "Formation: take the ils form of the present, remove -ent, add -e, -es, -e, -ions, -iez, -ent. The nous and vous forms borrow the imparfait stem."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Person",
+          "parler",
+          "finir",
+          "prendre"
+        ],
+        "rows": [
+          [
+            "que je",
+            "parle",
+            "finisse",
+            "prenne"
+          ],
+          [
+            "que tu",
+            "parles",
+            "finisses",
+            "prennes"
+          ],
+          [
+            "qu'il/elle",
+            "parle",
+            "finisse",
+            "prenne"
+          ],
+          [
+            "que nous",
+            "parlions",
+            "finissions",
+            "prenions"
+          ],
+          [
+            "que vous",
+            "parliez",
+            "finissiez",
+            "preniez"
+          ],
+          [
+            "qu'ils/elles",
+            "parlent",
+            "finissent",
+            "prennent"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Irregular",
+          "que je …",
+          "Irregular",
+          "que je …"
+        ],
+        "rows": [
+          [
+            "être",
+            "sois",
+            "avoir",
+            "aie"
+          ],
+          [
+            "aller",
+            "aille",
+            "faire",
+            "fasse"
+          ],
+          [
+            "pouvoir",
+            "puisse",
+            "savoir",
+            "sache"
+          ],
+          [
+            "vouloir",
+            "veuille",
+            "falloir",
+            "qu'il faille"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Trigger",
+          "Example"
+        ],
+        "rows": [
+          [
+            "il faut que",
+            "Il faut que je parte."
+          ],
+          [
+            "je veux que",
+            "Je veux que tu viennes."
+          ],
+          [
+            "il est important que",
+            "Il est important que vous compreniez."
+          ],
+          [
+            "je suis content que",
+            "Je suis content que tu sois là."
+          ],
+          [
+            "bien que",
+            "Bien qu'il soit tard, je continue."
+          ],
+          [
+            "avant que",
+            "Avant que tu partes, signe ici."
+          ],
+          [
+            "pour que",
+            "Je répète pour que vous compreniez."
+          ]
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Espérer does not take the subjunctive: j'espère que tu vas bien, not 'que tu ailles bien'. And when the subject is the same in both halves, French drops que and uses an infinitive: je veux partir, not 'je veux que je parte'."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Il faut que je ___ (partir) maintenant.",
+        "answer": "parte",
+        "why": "ils partent minus -ent plus -e."
+      },
+      {
+        "type": "fill",
+        "q": "Je veux que tu ___ (être) à l'heure.",
+        "answer": "sois",
+        "why": "être is irregular in the subjunctive."
+      },
+      {
+        "type": "mcq",
+        "q": "Which does NOT take the subjunctive?",
+        "options": [
+          "il faut que",
+          "j'espère que",
+          "bien que"
+        ],
+        "answer": 1,
+        "why": "espérer que takes the indicative."
+      },
+      {
+        "type": "mcq",
+        "q": "'I want to leave' is:",
+        "options": [
+          "Je veux que je parte.",
+          "Je veux partir."
+        ],
+        "answer": 1,
+        "why": "Same subject in both halves → infinitive, no que."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-20",
+    "level": "A2",
+    "order": 20,
+    "category": "Sentence structure",
+    "title": "Les autres négations",
+    "titleEn": "Negation beyond ne … pas",
+    "summary": "Swap pas for another word and you get never, nothing, nobody, no longer, only.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Negation",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ne … jamais",
+            "never",
+            "Je ne fume jamais."
+          ],
+          [
+            "ne … rien",
+            "nothing",
+            "Je ne vois rien."
+          ],
+          [
+            "ne … personne",
+            "nobody",
+            "Je ne connais personne ici."
+          ],
+          [
+            "ne … plus",
+            "no longer, not any more",
+            "Il n'habite plus ici."
+          ],
+          [
+            "ne … pas encore",
+            "not yet",
+            "Je n'ai pas encore mangé."
+          ],
+          [
+            "ne … que",
+            "only",
+            "Je n'ai que dix euros."
+          ],
+          [
+            "ne … ni … ni",
+            "neither … nor",
+            "Je ne bois ni thé ni café."
+          ],
+          [
+            "ne … aucun(e)",
+            "not a single",
+            "Je n'ai aucune idée."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "In the passé composé most of these behave like pas and sit before the participle: je n'ai rien vu, je n'ai jamais compris. But personne and que go after it: je n'ai vu personne, je n'ai bu que de l'eau."
+      },
+      {
+        "type": "prose",
+        "text": "Rien and personne can also be the subject, in which case they come first and ne stays before the verb: Personne n'est venu. Rien n'a changé."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je n'ai jamais visité la France.",
+            "en": "I have never visited France."
+          },
+          {
+            "fr": "Il n'y a plus de pain.",
+            "en": "There's no bread left."
+          },
+          {
+            "fr": "Je n'ai que cinq minutes.",
+            "en": "I only have five minutes.",
+            "note": "ne … que is a restriction, not a negation — the article does not change to de"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Because ne … que is not a true negation, du/de la/des survive: je ne bois que de l'eau. Compare je ne bois pas d'eau, where the true negation forces de."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Je ___ mange ___ de viande. (never)",
+        "answer": "ne / jamais",
+        "why": "jamais replaces pas."
+      },
+      {
+        "type": "fill",
+        "q": "Il ___ y a ___ de place. (no longer)",
+        "answer": "n' / plus",
+        "why": "plus means 'no more'."
+      },
+      {
+        "type": "mcq",
+        "q": "'I only have ten euros' is:",
+        "options": [
+          "Je n'ai pas dix euros.",
+          "Je n'ai que dix euros."
+        ],
+        "answer": 1,
+        "why": "ne … que expresses 'only'."
+      },
+      {
+        "type": "fill",
+        "q": "Je n'ai vu ___ au bureau. (nobody)",
+        "answer": "personne",
+        "why": "personne follows the past participle."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-21",
+    "level": "A2",
+    "order": 21,
+    "category": "Pronouns",
+    "title": "Les pronoms démonstratifs",
+    "titleEn": "Demonstrative pronouns",
+    "summary": "The one, the ones — used when you want to point without repeating the noun.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "",
+          "Masculine",
+          "Feminine"
+        ],
+        "rows": [
+          [
+            "Singular",
+            "celui",
+            "celle"
+          ],
+          [
+            "Plural",
+            "ceux",
+            "celles"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "These pronouns never stand alone. They must be followed by de, by a relative pronoun, or by -ci / -là."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Followed by",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "de",
+            "Mon vélo et celui de mon frère.",
+            "mine and my brother's"
+          ],
+          [
+            "qui / que",
+            "Celui qui parle est le directeur.",
+            "the one who is speaking"
+          ],
+          [
+            "-ci / -là",
+            "Je préfère celui-là.",
+            "I prefer that one"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Ces chaussures sont trop petites ; celles-là sont mieux.",
+            "en": "These shoes are too small; those ones are better."
+          },
+          {
+            "fr": "C'est le livre de Marie ou celui de Paul ?",
+            "en": "Is it Marie's book or Paul's?",
+            "note": "French has no possessive apostrophe, so celui de does the job"
+          },
+          {
+            "fr": "Ceux qui veulent partir peuvent y aller.",
+            "en": "Those who want to leave can go."
+          }
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "There are two neutral forms with no gender: ceci (this) and cela, shortened in speech to ça. Ça is one of the most frequent words in spoken French: ça va, ça dépend, ça m'énerve."
+      },
+      {
+        "type": "pitfall",
+        "text": "Never say 'celui' on its own to mean 'that one'. It needs a tail: celui-là, celui de Paul, celui que je préfère."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Ma voiture et ___ de mon frère.",
+        "answer": "celle",
+        "why": "voiture is feminine singular."
+      },
+      {
+        "type": "fill",
+        "q": "___ qui arrivent en retard attendent dehors.",
+        "answer": "Ceux",
+        "why": "Masculine plural before a relative clause."
+      },
+      {
+        "type": "mcq",
+        "q": "Which is impossible?",
+        "options": [
+          "Je préfère celui-ci.",
+          "Je préfère celui.",
+          "Je préfère celui de Paul."
+        ],
+        "answer": 1,
+        "why": "A demonstrative pronoun cannot stand alone."
+      },
+      {
+        "type": "fill",
+        "q": "Ces gâteaux sont bons, mais ___ sont meilleurs. (those over there, m. pl.)",
+        "answer": "ceux-là",
+        "why": "Masculine plural plus -là."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-22",
+    "level": "A2",
+    "order": 22,
+    "category": "Pronouns",
+    "title": "Les pronoms possessifs",
+    "titleEn": "Possessive pronouns",
+    "summary": "Mine, yours, his — a definite article welded to a possessive form.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Owner",
+          "m. sing.",
+          "f. sing.",
+          "m. pl.",
+          "f. pl."
+        ],
+        "rows": [
+          [
+            "mine",
+            "le mien",
+            "la mienne",
+            "les miens",
+            "les miennes"
+          ],
+          [
+            "yours (tu)",
+            "le tien",
+            "la tienne",
+            "les tiens",
+            "les tiennes"
+          ],
+          [
+            "his / hers",
+            "le sien",
+            "la sienne",
+            "les siens",
+            "les siennes"
+          ],
+          [
+            "ours",
+            "le nôtre",
+            "la nôtre",
+            "les nôtres",
+            "les nôtres"
+          ],
+          [
+            "yours (vous)",
+            "le vôtre",
+            "la vôtre",
+            "les vôtres",
+            "les vôtres"
+          ],
+          [
+            "theirs",
+            "le leur",
+            "la leur",
+            "les leurs",
+            "les leurs"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "As with possessive adjectives, the form agrees with the thing owned, not the owner. Le sien is 'his' or 'hers' depending on context; what decides le versus la is the gender of the object."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Ma voiture est en panne. On prend la tienne ?",
+            "en": "My car has broken down. Shall we take yours?"
+          },
+          {
+            "fr": "Ce sont vos clés ? — Non, ce sont les siennes.",
+            "en": "Are these your keys? — No, they're hers.",
+            "note": "clés is feminine plural → les siennes"
+          },
+          {
+            "fr": "Notre équipe a gagné, la leur a perdu.",
+            "en": "Our team won, theirs lost."
+          }
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "In practice, French often avoids these pronouns altogether by using être à + a stressed pronoun: C'est à moi, ce livre est à toi. That construction is far more common in speech."
+      },
+      {
+        "type": "pitfall",
+        "text": "Note the circumflex: notre becomes le nôtre, votre becomes le vôtre. The accent changes the vowel sound as well as the spelling."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Ma voiture est rouge, ___ ___ est bleue. (yours, tu)",
+        "answer": "la tienne",
+        "why": "voiture is feminine singular."
+      },
+      {
+        "type": "fill",
+        "q": "Nos enfants et ___ ___ jouent ensemble. (theirs)",
+        "answer": "les leurs",
+        "why": "Plural object → les leurs."
+      },
+      {
+        "type": "mcq",
+        "q": "'This book is mine' most naturally is:",
+        "options": [
+          "Ce livre est le mien.",
+          "Ce livre est à moi."
+        ],
+        "answer": 1,
+        "why": "Both are correct, but être à + stressed pronoun is far commoner in speech."
+      },
+      {
+        "type": "fill",
+        "q": "Ce sont ses lunettes ? — Oui, ce sont ___ ___.",
+        "answer": "les siennes",
+        "why": "lunettes is feminine plural."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-23",
+    "level": "A2",
+    "order": 23,
+    "category": "Verbs",
+    "title": "Le passé récent et le présent progressif",
+    "titleEn": "Just did, and currently doing",
+    "summary": "Two ready-made structures that cover 'have just' and 'am in the middle of'.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Structure",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "venir de + infinitive",
+            "to have just done",
+            "Je viens de manger."
+          ],
+          [
+            "être en train de + infinitive",
+            "to be in the middle of doing",
+            "Je suis en train de travailler."
+          ],
+          [
+            "être sur le point de + infinitive",
+            "to be about to do",
+            "Il est sur le point de partir."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "French has no continuous tense — je mange covers both 'I eat' and 'I am eating'. When you genuinely need to stress that something is happening right now, être en train de does the job."
+      },
+      {
+        "type": "prose",
+        "text": "Venir de in the present means 'have just'; in the imparfait it means 'had just': je venais de sortir quand il a appelé."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je viens de recevoir votre courriel.",
+            "en": "I have just received your email."
+          },
+          {
+            "fr": "Ne le dérange pas, il est en train de dormir.",
+            "en": "Don't disturb him, he's sleeping right now."
+          },
+          {
+            "fr": "Nous venions de finir quand ils sont arrivés.",
+            "en": "We had just finished when they arrived."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Do not overuse être en train de. Nine times out of ten the plain present is what a French speaker would say: qu'est-ce que tu fais ? — je travaille."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Je ___ ___ arriver. (have just)",
+        "answer": "viens d'",
+        "why": "venir de + infinitive."
+      },
+      {
+        "type": "fill",
+        "q": "Elle est ___ ___ ___ préparer le dîner. (in the middle of)",
+        "answer": "en train de",
+        "why": "être en train de + infinitive."
+      },
+      {
+        "type": "mcq",
+        "q": "'I am eating' is normally:",
+        "options": [
+          "Je suis mangeant.",
+          "Je mange.",
+          "Je suis en train de manger."
+        ],
+        "answer": 1,
+        "why": "The simple present covers the continuous; the third option is correct but emphatic."
+      },
+      {
+        "type": "fill",
+        "q": "Il ___ ___ partir quand j'ai téléphoné. (had just)",
+        "answer": "venait de",
+        "why": "venir de in the imparfait."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-24",
+    "level": "A2",
+    "order": 24,
+    "category": "Verbs",
+    "title": "Le gérondif",
+    "titleEn": "The gerund: en + -ant",
+    "summary": "One form that expresses simultaneity, manner and condition all at once.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Take the nous form of the present, drop -ons, add -ant. Then put en in front. nous parlons → parlant → en parlant."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Verb",
+          "nous form",
+          "Gerund"
+        ],
+        "rows": [
+          [
+            "manger",
+            "nous mangeons",
+            "en mangeant"
+          ],
+          [
+            "finir",
+            "nous finissons",
+            "en finissant"
+          ],
+          [
+            "prendre",
+            "nous prenons",
+            "en prenant"
+          ],
+          [
+            "être",
+            "—",
+            "en étant (irregular)"
+          ],
+          [
+            "avoir",
+            "—",
+            "en ayant (irregular)"
+          ],
+          [
+            "savoir",
+            "—",
+            "en sachant (irregular)"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "head": [
+          "Use",
+          "Example",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Simultaneous actions",
+            "Il lit en mangeant.",
+            "He reads while eating."
+          ],
+          [
+            "Manner or means",
+            "J'ai appris en pratiquant.",
+            "I learnt by practising."
+          ],
+          [
+            "Condition",
+            "En travaillant plus, tu réussiras.",
+            "If you work more, you'll succeed."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "The subject of the gerund must be the same as the subject of the main verb. Il lit en mangeant means he is doing both. If the subjects differ, you need a full clause with pendant que."
+      },
+      {
+        "type": "pitfall",
+        "text": "English '-ing' after a preposition is an infinitive in French: avant de partir (before leaving), sans dire un mot (without saying a word), au lieu de travailler (instead of working). En is the only preposition that takes -ant."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Il écoute la radio ___ ___ (conduire).",
+        "answer": "en conduisant",
+        "why": "nous conduisons → conduisant."
+      },
+      {
+        "type": "fill",
+        "q": "J'ai appris le français ___ ___ (regarder) des films.",
+        "answer": "en regardant",
+        "why": "Means or method."
+      },
+      {
+        "type": "mcq",
+        "q": "'Before leaving' is:",
+        "options": [
+          "avant partant",
+          "avant de partir",
+          "en avant partir"
+        ],
+        "answer": 1,
+        "why": "Only en takes the -ant form; other prepositions take the infinitive."
+      },
+      {
+        "type": "fill",
+        "q": "The gerund of être is en ___.",
+        "answer": "étant",
+        "why": "One of the three irregular gerunds."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-25",
+    "level": "A2",
+    "order": 25,
+    "category": "Sentence structure",
+    "title": "Le discours indirect",
+    "titleEn": "Reported speech",
+    "summary": "Turning what someone said into what you say they said — with tense shifts and pronoun swaps.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "Reported speech attaches a clause to a verb of speaking. The connector depends on the kind of sentence you are reporting."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Original",
+          "Connector",
+          "Reported"
+        ],
+        "rows": [
+          [
+            "Statement",
+            "que",
+            "Il dit qu'il est fatigué."
+          ],
+          [
+            "Yes/no question",
+            "si",
+            "Il demande si je viens."
+          ],
+          [
+            "Question word",
+            "keep the word",
+            "Il demande où j'habite."
+          ],
+          [
+            "Qu'est-ce que",
+            "ce que",
+            "Il demande ce que je fais."
+          ],
+          [
+            "Qu'est-ce qui",
+            "ce qui",
+            "Il demande ce qui se passe."
+          ],
+          [
+            "Imperative",
+            "de + infinitive",
+            "Il me dit de partir."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "If the reporting verb is in the past, the tense inside the clause shifts back one step."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Direct",
+          "Reported after a past verb"
+        ],
+        "rows": [
+          [
+            "présent",
+            "imparfait"
+          ],
+          [
+            "passé composé",
+            "plus-que-parfait"
+          ],
+          [
+            "futur simple",
+            "conditionnel présent"
+          ],
+          [
+            "imparfait",
+            "imparfait (no change)"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "« Je suis fatigué. » → Il a dit qu'il était fatigué.",
+            "en": "'I'm tired.' → He said he was tired."
+          },
+          {
+            "fr": "« Tu viens ? » → Il m'a demandé si je venais.",
+            "en": "'Are you coming?' → He asked if I was coming."
+          },
+          {
+            "fr": "« Ferme la porte. » → Il m'a dit de fermer la porte.",
+            "en": "'Close the door.' → He told me to close the door."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Si means both 'if' and 'whether' in reported questions — but it never elides before elle: il demande si elle vient, and s'il vient."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "« Je travaille. » → Il a dit qu'il ___.",
+        "answer": "travaillait",
+        "why": "Present shifts to imparfait after a past reporting verb."
+      },
+      {
+        "type": "fill",
+        "q": "« Tu es prêt ? » → Il m'a demandé ___ j'étais prêt.",
+        "answer": "si",
+        "why": "Yes/no questions use si."
+      },
+      {
+        "type": "mcq",
+        "q": "« Qu'est-ce que tu fais ? » reported becomes:",
+        "options": [
+          "Il demande qu'est-ce que je fais.",
+          "Il demande ce que je fais."
+        ],
+        "answer": 1,
+        "why": "qu'est-ce que becomes ce que."
+      },
+      {
+        "type": "fill",
+        "q": "« Attends ! » → Il m'a dit ___ ___.",
+        "answer": "d'attendre",
+        "why": "Imperatives become de + infinitive."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-26",
+    "level": "A2",
+    "order": 26,
+    "category": "Sentence structure",
+    "title": "La voix passive",
+    "titleEn": "The passive voice",
+    "summary": "être plus a past participle that agrees — and the three ways French prefers to avoid it.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "The passive is built with être in the appropriate tense plus the past participle, which agrees with the subject like an adjective. The agent, if mentioned, is introduced by par."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Tense",
+          "Active",
+          "Passive"
+        ],
+        "rows": [
+          [
+            "present",
+            "On construit la maison.",
+            "La maison est construite."
+          ],
+          [
+            "passé composé",
+            "On a construit la maison.",
+            "La maison a été construite."
+          ],
+          [
+            "imparfait",
+            "On construisait la maison.",
+            "La maison était construite."
+          ],
+          [
+            "futur",
+            "On construira la maison.",
+            "La maison sera construite."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "French uses the passive far less than English. Three alternatives are usually preferred: the pronoun on, a reflexive construction, or simply an active sentence."
+      },
+      {
+        "type": "table",
+        "head": [
+          "English passive",
+          "Natural French"
+        ],
+        "rows": [
+          [
+            "French is spoken here.",
+            "Ici, on parle français."
+          ],
+          [
+            "That isn't said.",
+            "Ça ne se dit pas."
+          ],
+          [
+            "The shop was closed at six.",
+            "On a fermé le magasin à six heures."
+          ],
+          [
+            "I was told that…",
+            "On m'a dit que…"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Ce livre a été écrit par un auteur québécois.",
+            "en": "This book was written by a Quebec author.",
+            "note": "genuine passive with an agent worth naming"
+          },
+          {
+            "fr": "Les résultats seront publiés lundi.",
+            "en": "The results will be published on Monday.",
+            "note": "no agent, so the passive is natural"
+          },
+          {
+            "fr": "On m'a volé mon vélo.",
+            "en": "My bike was stolen.",
+            "note": "French reaches for on rather than a passive"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Verbs that take an indirect object cannot be made passive in French. 'I was given a book' has no direct equivalent — you must say on m'a donné un livre."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "On a construit ce pont en 1990. → Ce pont ___ ___ ___ en 1990.",
+        "answer": "a été construit",
+        "why": "Passé composé passive: avoir + été + participle."
+      },
+      {
+        "type": "fill",
+        "q": "La lettre ___ ___ par le directeur. (was signed)",
+        "answer": "a été signée",
+        "why": "The participle agrees with the feminine lettre."
+      },
+      {
+        "type": "mcq",
+        "q": "The most natural French for 'French is spoken here' is:",
+        "options": [
+          "Le français est parlé ici.",
+          "Ici, on parle français."
+        ],
+        "answer": 1,
+        "why": "French prefers on to an agentless passive."
+      },
+      {
+        "type": "mcq",
+        "q": "'I was told that…' becomes:",
+        "options": [
+          "J'ai été dit que…",
+          "On m'a dit que…"
+        ],
+        "answer": 1,
+        "why": "Indirect objects cannot become passive subjects in French."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-27",
+    "level": "A2",
+    "order": 27,
+    "category": "Sentence structure",
+    "title": "Les expressions impersonnelles",
+    "titleEn": "Impersonal expressions",
+    "summary": "Sentences whose il refers to nobody — obligation, weather, necessity and opinion.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Expression",
+          "Meaning",
+          "Followed by"
+        ],
+        "rows": [
+          [
+            "il faut",
+            "it is necessary",
+            "infinitive or que + subjunctive"
+          ],
+          [
+            "il y a",
+            "there is / are",
+            "a noun"
+          ],
+          [
+            "il est important de",
+            "it is important to",
+            "infinitive"
+          ],
+          [
+            "il est possible que",
+            "it is possible that",
+            "que + subjunctive"
+          ],
+          [
+            "il vaut mieux",
+            "it is better to",
+            "infinitive or que + subjunctive"
+          ],
+          [
+            "il s'agit de",
+            "it is about",
+            "a noun or infinitive"
+          ],
+          [
+            "il reste",
+            "there remains",
+            "a noun"
+          ],
+          [
+            "il paraît que",
+            "apparently",
+            "que + indicative"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Il faut is the workhorse of French obligation. With an infinitive it is general — il faut manger pour vivre. With que and a subjunctive it targets a person — il faut que tu manges."
+      },
+      {
+        "type": "prose",
+        "text": "Note the pattern with adjectives: il est important de + infinitive, but c'est important de in speech. Both are correct; the second is what you will actually hear."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Il faut réserver à l'avance.",
+            "en": "You need to book in advance.",
+            "note": "general rule, no named person"
+          },
+          {
+            "fr": "Il faut que tu partes maintenant.",
+            "en": "You have to leave now.",
+            "note": "specific person → que + subjunctive"
+          },
+          {
+            "fr": "Il vaut mieux arriver en avance.",
+            "en": "It's better to arrive early."
+          },
+          {
+            "fr": "Il s'agit d'un problème technique.",
+            "en": "It's a technical problem.",
+            "note": "il s'agit de is never conjugated with another subject"
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Il s'agit de cannot take a real subject. 'This book is about…' must be dans ce livre, il s'agit de… — never 'ce livre s'agit de'."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "___ ___ partir maintenant. (we must)",
+        "answer": "Il faut",
+        "why": "il faut + infinitive for a general obligation."
+      },
+      {
+        "type": "fill",
+        "q": "Il faut que vous ___ (être) à l'heure.",
+        "answer": "soyez",
+        "why": "il faut que triggers the subjunctive."
+      },
+      {
+        "type": "mcq",
+        "q": "Which is correct?",
+        "options": [
+          "Ce livre s'agit de la guerre.",
+          "Dans ce livre, il s'agit de la guerre."
+        ],
+        "answer": 1,
+        "why": "il s'agit de is strictly impersonal."
+      },
+      {
+        "type": "fill",
+        "q": "___ ___ ___ prendre un parapluie. (it's better to)",
+        "answer": "Il vaut mieux",
+        "why": "Fixed impersonal expression."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-28",
+    "level": "A2",
+    "order": 28,
+    "category": "Prepositions",
+    "title": "Les prépositions avec les pays et les transports",
+    "titleEn": "Countries, cities and transport",
+    "summary": "Which preposition to use depends on the gender of the country and whether you sit inside the vehicle.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Place type",
+          "To / in",
+          "From",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Feminine country (ends in -e)",
+            "en",
+            "de",
+            "en France, de France"
+          ],
+          [
+            "Masculine country",
+            "au",
+            "du",
+            "au Canada, du Japon"
+          ],
+          [
+            "Plural country",
+            "aux",
+            "des",
+            "aux États-Unis, des Pays-Bas"
+          ],
+          [
+            "Masculine starting with a vowel",
+            "en",
+            "d'",
+            "en Iran, d'Israël"
+          ],
+          [
+            "City",
+            "à",
+            "de",
+            "à Paris, de Montréal"
+          ],
+          [
+            "Island (small)",
+            "à",
+            "de",
+            "à Cuba, de Malte"
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Countries ending in -e are feminine — la France, la Chine, l'Italie — with the notable exception of le Mexique. Everything else is masculine: le Canada, le Japon, le Vietnam, le Portugal."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Transport",
+          "Preposition",
+          "Logic"
+        ],
+        "rows": [
+          [
+            "en voiture, en train, en avion, en bus",
+            "en",
+            "you sit inside it"
+          ],
+          [
+            "à pied, à vélo, à moto, à cheval",
+            "à",
+            "you sit on it, or use your legs"
+          ],
+          [
+            "dans le bus, dans le train",
+            "dans",
+            "referring to one specific vehicle"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je vis au Canada mais je viens du Vietnam.",
+            "en": "I live in Canada but I come from Vietnam.",
+            "note": "both masculine countries"
+          },
+          {
+            "fr": "Elle habite en France, à Lyon.",
+            "en": "She lives in France, in Lyon.",
+            "note": "en for the country, à for the city"
+          },
+          {
+            "fr": "Je vais au travail à vélo, pas en voiture.",
+            "en": "I go to work by bike, not by car."
+          }
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Canadian provinces and US states follow the same gender logic: au Québec, en Ontario, en Californie, au Texas. Get the gender right and the preposition follows."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "Je vais ___ Japon cet été.",
+        "answer": "au",
+        "why": "le Japon is masculine → au."
+      },
+      {
+        "type": "fill",
+        "q": "Elle vient ___ Italie.",
+        "answer": "d'",
+        "why": "l'Italie is feminine and starts with a vowel → d'."
+      },
+      {
+        "type": "mcq",
+        "q": "'I go by bike' is:",
+        "options": [
+          "en vélo",
+          "à vélo"
+        ],
+        "answer": 1,
+        "why": "You sit on a bike, so à."
+      },
+      {
+        "type": "fill",
+        "q": "Nous habitons ___ États-Unis.",
+        "answer": "aux",
+        "why": "Plural country name → aux."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-29",
+    "level": "A2",
+    "order": 29,
+    "category": "Sentence structure",
+    "title": "Les connecteurs logiques",
+    "titleEn": "Connectors and discourse markers",
+    "summary": "The words that turn a list of sentences into an argument — and the backbone of any speaking exam.",
+    "blocks": [
+      {
+        "type": "table",
+        "head": [
+          "Function",
+          "Connectors",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Sequencing",
+            "d'abord, ensuite, puis, enfin",
+            "D'abord, je me présente."
+          ],
+          [
+            "Adding",
+            "de plus, en plus, aussi, également",
+            "De plus, c'est moins cher."
+          ],
+          [
+            "Contrasting",
+            "mais, cependant, pourtant, par contre",
+            "Cependant, il y a des défis."
+          ],
+          [
+            "Giving reasons",
+            "parce que, car, puisque, comme",
+            "Comme il pleut, je reste ici."
+          ],
+          [
+            "Giving results",
+            "donc, alors, c'est pourquoi",
+            "Il pleut, donc je prends un parapluie."
+          ],
+          [
+            "Giving examples",
+            "par exemple, notamment",
+            "Par exemple, je joue au basket."
+          ],
+          [
+            "Concluding",
+            "en conclusion, pour finir, bref",
+            "Bref, c'était une bonne journée."
+          ],
+          [
+            "Expressing opinion",
+            "à mon avis, je pense que, selon moi",
+            "À mon avis, c'est une bonne idée."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Parce que and car both mean 'because', but they behave differently. Parce que can start an answer to a question; car cannot, and belongs to more formal writing. Comme and puisque both put the reason first: Comme il est tard, je pars."
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "D'abord, je me présente ; ensuite, je parle de mon travail ; enfin, j'explique pourquoi j'apprends le français.",
+            "en": "First I introduce myself; then I talk about my job; finally I explain why I'm learning French.",
+            "note": "the standard skeleton of a two-minute exam answer"
+          },
+          {
+            "fr": "J'aime mon travail, mais parfois c'est stressant.",
+            "en": "I like my job, but sometimes it's stressful."
+          },
+          {
+            "fr": "Je n'ai pas pu venir, car j'étais malade.",
+            "en": "I couldn't come, because I was ill.",
+            "note": "car is written rather than spoken"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "text": "In a speaking exam, three well-placed connectors do more for your score than three rare vocabulary items. Examiners are explicitly listening for structure."
+      }
+    ],
+    "practice": [
+      {
+        "type": "fill",
+        "q": "___, je me présente. Ensuite, je parle de ma famille.",
+        "answer": "D'abord",
+        "why": "Opens a sequence."
+      },
+      {
+        "type": "mcq",
+        "q": "Which can begin an answer to 'Pourquoi ?'",
+        "options": [
+          "Car",
+          "Parce que"
+        ],
+        "answer": 1,
+        "why": "car cannot start a sentence in reply; parce que can."
+      },
+      {
+        "type": "fill",
+        "q": "Il pleut, ___ je reste à la maison. (so)",
+        "answer": "donc",
+        "why": "Expresses a result."
+      },
+      {
+        "type": "fill",
+        "q": "___ ___ ___, c'est une bonne idée. (in my opinion)",
+        "answer": "À mon avis",
+        "why": "Standard opinion marker."
+      }
+    ]
+  },
+  {
+    "id": "g-a2-30",
+    "level": "A2",
+    "order": 30,
+    "category": "Register",
+    "title": "Registre formel et informel",
+    "titleEn": "Formal and informal register",
+    "summary": "The same message in three styles — and knowing which one the situation calls for.",
+    "blocks": [
+      {
+        "type": "prose",
+        "text": "French marks formality far more sharply than English. Getting the register wrong is more noticeable than getting a verb ending wrong, and it is entirely learnable."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Situation",
+          "Informal",
+          "Standard",
+          "Formal"
+        ],
+        "rows": [
+          [
+            "Greeting",
+            "Salut !",
+            "Bonjour.",
+            "Bonjour Madame."
+          ],
+          [
+            "Asking",
+            "Tu peux… ?",
+            "Est-ce que vous pouvez… ?",
+            "Pourriez-vous… ?"
+          ],
+          [
+            "Wanting",
+            "Je veux…",
+            "Je voudrais…",
+            "J'aimerais…"
+          ],
+          [
+            "Question",
+            "Tu viens ?",
+            "Est-ce que tu viens ?",
+            "Venez-vous ?"
+          ],
+          [
+            "Negation",
+            "J'sais pas.",
+            "Je ne sais pas.",
+            "Je l'ignore."
+          ],
+          [
+            "Yes",
+            "Ouais.",
+            "Oui.",
+            "Tout à fait."
+          ],
+          [
+            "Goodbye",
+            "Salut, à plus !",
+            "Au revoir.",
+            "Je vous souhaite une bonne journée."
+          ]
+        ]
+      },
+      {
+        "type": "prose",
+        "text": "Spoken French compresses. You will hear ne disappear (j'sais pas), tu es become t'es, il y a become y'a, and questions formed purely by intonation. Recognising these is essential for listening; producing them is optional."
+      },
+      {
+        "type": "prose",
+        "text": "Written formality has its own conventions. An email to a stranger opens with Madame, Monsieur, and closes with Cordialement or, more formally, Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées."
+      },
+      {
+        "type": "table",
+        "head": [
+          "Email register",
+          "Opening",
+          "Closing"
+        ],
+        "rows": [
+          [
+            "Friend",
+            "Salut Marc,",
+            "À bientôt !"
+          ],
+          [
+            "Colleague",
+            "Bonjour Sophie,",
+            "Bonne journée,"
+          ],
+          [
+            "Stranger / official",
+            "Madame, Monsieur,",
+            "Cordialement,"
+          ]
+        ]
+      },
+      {
+        "type": "pitfall",
+        "text": "Switching from vous to tu is a social event, not a grammar choice. Wait to be invited — on peut se tutoyer ? — and keep using vous until then."
+      }
+    ],
+    "practice": [
+      {
+        "type": "mcq",
+        "q": "Most formal way to ask someone to repeat:",
+        "options": [
+          "Répète ?",
+          "Tu peux répéter ?",
+          "Pourriez-vous répéter, s'il vous plaît ?"
+        ],
+        "answer": 2,
+        "why": "The conditional plus vous is the formal register."
+      },
+      {
+        "type": "mcq",
+        "q": "'J'sais pas' is:",
+        "options": [
+          "a grammatical error",
+          "informal spoken French"
+        ],
+        "answer": 1,
+        "why": "Dropping ne and compressing je is normal in speech."
+      },
+      {
+        "type": "fill",
+        "q": "Standard closing for an email to a stranger: ___",
+        "answer": "Cordialement",
+        "why": "The safe neutral-to-formal sign-off."
+      },
+      {
+        "type": "mcq",
+        "q": "You have just met your new manager. You use:",
+        "options": [
+          "tu",
+          "vous"
+        ],
+        "answer": 1,
+        "why": "Start with vous and wait to be invited to switch."
+      }
+    ]
+  }
+]
