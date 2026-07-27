@@ -1,6 +1,8 @@
-﻿node_modules/
+node_modules/
 dist/
 .env
 *.sqlite
 *.log
 .vite/
+LEARNING_GUIDE.md
+learning/
