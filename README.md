@@ -24,3 +24,16 @@ React 18 · Vite · Bootstrap 5 · Sass · Chart.js · Express · node:sqlite ·
 ## Roadmap
 
 Estimate 18 tagged milestones.
+
+## Content coverage
+
+| Content                  | Total   |
+| ------------------------ | ------- |
+| Grammar lessons          | **62**  |
+| Practice questions       | **248** |
+| Vocabulary cards         | **669** |
+| Verbs conjugated         | **80**  |
+| Annotated dialogues      | **6**   |
+| Reading passages         | **4**   |
+| TCF speaking prompts     | **50**  |
+| Object-pronoun quiz bank | **30**  |

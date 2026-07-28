@@ -14,7 +14,8 @@
     "build": "npm run build --workspace client",
     "test": "npm run test --workspace client",
     "lint": "eslint client/src server/src --ext .js,.jsx",
-    "format": "prettier --write \"**/*.{js,jsx,json,scss,md}\""
+    "format": "prettier --write \"**/*.{js,jsx,json,scss,md}\"",
+    "validate": "node scripts/validate-content.mjs"
   },
   "devDependencies": {
     "eslint": "^8.57.0",
