@@ -6,11 +6,41 @@
     "prepTime": 0,
     "overview": "The examiner either says « Parlez-moi de vous » and lets you speak for up to two minutes, or asks four to six short questions. There is no preparation time and no notes. Aim for a flexible skeleton rather than a memorised script — examiners can hear a recitation immediately.",
     "structure": [
-      { "step": 1, "label": "Identity", "seconds": 20, "prompt": "Name, age, where you are from, where you live now.", "model": "Bonjour ! Je m'appelle Tien, j'ai trente ans et je viens du Vietnam. J'habite au Canada depuis quatre ans, dans une ville qui s'appelle London, en Ontario." },
-      { "step": 2, "label": "Work or study", "seconds": 35, "prompt": "What you do, where, and one detail about it.", "model": "Je suis diplômé en informatique et je travaille comme développeur logiciel dans une entreprise d'imprimerie. Mon travail consiste à créer des programmes pour gérer les impressions. C'est passionnant, mais parfois stressant à cause des délais." },
-      { "step": 3, "label": "Family and daily life", "seconds": 25, "prompt": "Who you live with, or how your week is organised.", "model": "Ma famille est petite : mes parents et moi. Ils sont restés au Vietnam, alors je leur téléphone souvent. C'est important pour moi de rester proche d'eux, même à distance." },
-      { "step": 4, "label": "Interests", "seconds": 25, "prompt": "Two or three activities, with one concrete example.", "model": "Dans mon temps libre, j'aime le sport et les voyages. Par exemple, je joue au basket deux fois par semaine avec des amis, et je nage pour me détendre. L'été dernier, j'ai fait une randonnée en montagne — c'était magnifique." },
-      { "step": 5, "label": "Why French", "seconds": 25, "prompt": "Your reason for learning, and one future plan.", "model": "J'apprends le français d'abord pour mon travail, car nous avons des clients francophones. Mais surtout, j'aimerais visiter le Québec et parler avec les gens sans problème." }
+      {
+        "step": 1,
+        "label": "Identity",
+        "seconds": 20,
+        "prompt": "Name, age, where you are from, where you live now.",
+        "model": "Bonjour ! Je m'appelle Tien, j'ai trente ans et je viens du Vietnam. J'habite au Canada depuis quatre ans, dans une ville qui s'appelle London, en Ontario."
+      },
+      {
+        "step": 2,
+        "label": "Work or study",
+        "seconds": 35,
+        "prompt": "What you do, where, and one detail about it.",
+        "model": "Je suis diplômé en informatique et je travaille comme développeur logiciel dans une entreprise d'imprimerie. Mon travail consiste à créer des programmes pour gérer les impressions. C'est passionnant, mais parfois stressant à cause des délais."
+      },
+      {
+        "step": 3,
+        "label": "Family and daily life",
+        "seconds": 25,
+        "prompt": "Who you live with, or how your week is organised.",
+        "model": "Ma famille est petite : mes parents et moi. Ils sont restés au Vietnam, alors je leur téléphone souvent. C'est important pour moi de rester proche d'eux, même à distance."
+      },
+      {
+        "step": 4,
+        "label": "Interests",
+        "seconds": 25,
+        "prompt": "Two or three activities, with one concrete example.",
+        "model": "Dans mon temps libre, j'aime le sport et les voyages. Par exemple, je joue au basket deux fois par semaine avec des amis, et je nage pour me détendre. L'été dernier, j'ai fait une randonnée en montagne — c'était magnifique."
+      },
+      {
+        "step": 5,
+        "label": "Why French",
+        "seconds": 25,
+        "prompt": "Your reason for learning, and one future plan.",
+        "model": "J'apprends le français d'abord pour mon travail, car nous avons des clients francophones. Mais surtout, j'aimerais visiter le Québec et parler avec les gens sans problème."
+      }
     ],
     "questionBank": [
       "Comment vous appelez-vous ?",
@@ -32,7 +62,10 @@
     ],
     "usefulPhrases": [
       { "fr": "Je m'appelle… et j'ai … ans.", "en": "My name is… and I'm … years old." },
-      { "fr": "Je viens de… et j'habite à… depuis … ans.", "en": "I'm from… and I've lived in… for … years." },
+      {
+        "fr": "Je viens de… et j'habite à… depuis … ans.",
+        "en": "I'm from… and I've lived in… for … years."
+      },
       { "fr": "Je travaille comme… dans…", "en": "I work as a… at…" },
       { "fr": "Mon travail consiste à + infinitif", "en": "My job involves…" },
       { "fr": "Dans mon temps libre, j'aime…", "en": "In my free time I like…" },
@@ -41,10 +74,22 @@
       { "fr": "Mon objectif, c'est de + infinitif", "en": "My goal is to…" }
     ],
     "scoring": [
-      { "criterion": "Fluency", "tip": "Keep going. A filled pause — euh, alors, comment dire — costs less than a silence." },
-      { "criterion": "Pronunciation", "tip": "Rhythm matters more than individual sounds. French stresses the last syllable of a group." },
-      { "criterion": "Vocabulary and grammar", "tip": "Vary your verbs. Swap one j'aime for j'adore and one c'est bien for c'est passionnant." },
-      { "criterion": "Interaction", "tip": "Answer the question actually asked, then add one detail. Two sentences beats one." }
+      {
+        "criterion": "Fluency",
+        "tip": "Keep going. A filled pause — euh, alors, comment dire — costs less than a silence."
+      },
+      {
+        "criterion": "Pronunciation",
+        "tip": "Rhythm matters more than individual sounds. French stresses the last syllable of a group."
+      },
+      {
+        "criterion": "Vocabulary and grammar",
+        "tip": "Vary your verbs. Swap one j'aime for j'adore and one c'est bien for c'est passionnant."
+      },
+      {
+        "criterion": "Interaction",
+        "tip": "Answer the question actually asked, then add one detail. Two sentences beats one."
+      }
     ],
     "commonMistakes": [
       "Saying « je suis trente ans » instead of « j'ai trente ans ».",
@@ -69,17 +114,29 @@
     ],
     "questionFrames": [
       { "fr": "Quel est le prix / le tarif ?", "en": "What is the price?" },
-      { "fr": "Est-ce qu'il y a une réduction pour les étudiants ?", "en": "Is there a student discount?" },
+      {
+        "fr": "Est-ce qu'il y a une réduction pour les étudiants ?",
+        "en": "Is there a student discount?"
+      },
       { "fr": "Quand est-ce que ça commence ?", "en": "When does it start?" },
       { "fr": "Combien de temps ça dure ?", "en": "How long does it last?" },
       { "fr": "Où est-ce que ça se passe exactement ?", "en": "Where exactly does it take place?" },
       { "fr": "Qu'est-ce qu'il faut apporter ?", "en": "What do I need to bring?" },
-      { "fr": "Est-ce qu'il faut s'inscrire à l'avance ?", "en": "Do I need to register in advance?" },
+      {
+        "fr": "Est-ce qu'il faut s'inscrire à l'avance ?",
+        "en": "Do I need to register in advance?"
+      },
       { "fr": "Est-ce qu'il reste des places ?", "en": "Are there any places left?" },
       { "fr": "Quels sont les horaires d'ouverture ?", "en": "What are the opening hours?" },
       { "fr": "Comment est-ce qu'on peut payer ?", "en": "How can one pay?" },
-      { "fr": "Est-ce que c'est accessible en transport en commun ?", "en": "Is it accessible by public transport?" },
-      { "fr": "Pourriez-vous m'envoyer plus d'informations par courriel ?", "en": "Could you send me more information by email?" }
+      {
+        "fr": "Est-ce que c'est accessible en transport en commun ?",
+        "en": "Is it accessible by public transport?"
+      },
+      {
+        "fr": "Pourriez-vous m'envoyer plus d'informations par courriel ?",
+        "en": "Could you send me more information by email?"
+      }
     ],
     "prompts": [
       "Vous avez vu une annonce pour un séjour linguistique en France. Vous appelez pour obtenir des informations.",

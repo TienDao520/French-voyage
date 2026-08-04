@@ -14,42 +14,18 @@
       },
       {
         "type": "table",
-        "head": [
-          "French",
-          "English",
-          "Notes"
-        ],
+        "head": ["French", "English", "Notes"],
         "rows": [
-          [
-            "je (j')",
-            "I",
-            "becomes j' before a vowel or silent h: j'ai, j'habite"
-          ],
+          ["je (j')", "I", "becomes j' before a vowel or silent h: j'ai, j'habite"],
           [
             "tu",
             "you (one person, informal)",
             "friends, family, children, colleagues you know well"
           ],
-          [
-            "il / elle / on",
-            "he / she / one, we",
-            "on takes the same verb form as il"
-          ],
-          [
-            "nous",
-            "we",
-            "formal writing and speech"
-          ],
-          [
-            "vous",
-            "you (formal, or plural)",
-            "a stranger, a boss — or any group of people"
-          ],
-          [
-            "ils / elles",
-            "they",
-            "elles only if every person is female"
-          ]
+          ["il / elle / on", "he / she / one, we", "on takes the same verb form as il"],
+          ["nous", "we", "formal writing and speech"],
+          ["vous", "you (formal, or plural)", "a stranger, a boss — or any group of people"],
+          ["ils / elles", "they", "elles only if every person is female"]
         ]
       },
       {
@@ -89,12 +65,7 @@
       {
         "type": "mcq",
         "q": "Which pronoun do you use for your new manager?",
-        "options": [
-          "tu",
-          "vous",
-          "on",
-          "il"
-        ],
+        "options": ["tu", "vous", "on", "il"],
         "answer": 1,
         "why": "vous is the formal singular — a manager you have just met."
       },
@@ -107,12 +78,7 @@
       {
         "type": "mcq",
         "q": "Which verb form goes with on?",
-        "options": [
-          "the je form",
-          "the il form",
-          "the nous form",
-          "the ils form"
-        ],
+        "options": ["the je form", "the il form", "the nous form", "the ils form"],
         "answer": 1,
         "why": "on always takes the third person singular, even when it means 'we'."
       },
@@ -135,42 +101,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Form",
-          "Example"
-        ],
+        "head": ["Person", "Form", "Example"],
         "rows": [
-          [
-            "je",
-            "suis",
-            "Je suis développeur."
-          ],
-          [
-            "tu",
-            "es",
-            "Tu es en retard."
-          ],
-          [
-            "il/elle/on",
-            "est",
-            "Elle est canadienne."
-          ],
-          [
-            "nous",
-            "sommes",
-            "Nous sommes prêts."
-          ],
-          [
-            "vous",
-            "êtes",
-            "Vous êtes très aimable."
-          ],
-          [
-            "ils/elles",
-            "sont",
-            "Ils sont au bureau."
-          ]
+          ["je", "suis", "Je suis développeur."],
+          ["tu", "es", "Tu es en retard."],
+          ["il/elle/on", "est", "Elle est canadienne."],
+          ["nous", "sommes", "Nous sommes prêts."],
+          ["vous", "êtes", "Vous êtes très aimable."],
+          ["ils/elles", "sont", "Ils sont au bureau."]
         ]
       },
       {
@@ -210,12 +148,7 @@
       {
         "type": "mcq",
         "q": "How do you say 'I am thirty years old'?",
-        "options": [
-          "Je suis trente.",
-          "Je suis trente ans.",
-          "J'ai trente ans.",
-          "J'ai trente."
-        ],
+        "options": ["Je suis trente.", "Je suis trente ans.", "J'ai trente ans.", "J'ai trente."],
         "answer": 2,
         "why": "Age uses avoir plus the word ans."
       },
@@ -228,10 +161,7 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "Je suis un développeur.",
-          "Je suis développeur."
-        ],
+        "options": ["Je suis un développeur.", "Je suis développeur."],
         "answer": 1,
         "why": "French omits the article before an unmodified profession."
       }
@@ -248,42 +178,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Form",
-          "Example"
-        ],
+        "head": ["Person", "Form", "Example"],
         "rows": [
-          [
-            "j'",
-            "ai",
-            "J'ai deux frères."
-          ],
-          [
-            "tu",
-            "as",
-            "Tu as raison."
-          ],
-          [
-            "il/elle/on",
-            "a",
-            "Il a une voiture rouge."
-          ],
-          [
-            "nous",
-            "avons",
-            "Nous avons une réunion."
-          ],
-          [
-            "vous",
-            "avez",
-            "Vous avez l'heure ?"
-          ],
-          [
-            "ils/elles",
-            "ont",
-            "Elles ont trois enfants."
-          ]
+          ["j'", "ai", "J'ai deux frères."],
+          ["tu", "as", "Tu as raison."],
+          ["il/elle/on", "a", "Il a une voiture rouge."],
+          ["nous", "avons", "Nous avons une réunion."],
+          ["vous", "avez", "Vous avez l'heure ?"],
+          ["ils/elles", "ont", "Elles ont trois enfants."]
         ]
       },
       {
@@ -292,52 +194,16 @@
       },
       {
         "type": "table",
-        "head": [
-          "Expression",
-          "Meaning",
-          "Example"
-        ],
+        "head": ["Expression", "Meaning", "Example"],
         "rows": [
-          [
-            "avoir … ans",
-            "to be … years old",
-            "J'ai trente ans."
-          ],
-          [
-            "avoir faim / soif",
-            "to be hungry / thirsty",
-            "J'ai faim, on mange ?"
-          ],
-          [
-            "avoir chaud / froid",
-            "to be hot / cold",
-            "J'ai froid, ferme la fenêtre."
-          ],
-          [
-            "avoir peur (de)",
-            "to be afraid (of)",
-            "J'ai peur de l'avion."
-          ],
-          [
-            "avoir besoin de",
-            "to need",
-            "J'ai besoin de ton aide."
-          ],
-          [
-            "avoir envie de",
-            "to feel like",
-            "J'ai envie d'un café."
-          ],
-          [
-            "avoir raison / tort",
-            "to be right / wrong",
-            "Tu as raison."
-          ],
-          [
-            "avoir mal à",
-            "to have pain in",
-            "J'ai mal à la tête."
-          ]
+          ["avoir … ans", "to be … years old", "J'ai trente ans."],
+          ["avoir faim / soif", "to be hungry / thirsty", "J'ai faim, on mange ?"],
+          ["avoir chaud / froid", "to be hot / cold", "J'ai froid, ferme la fenêtre."],
+          ["avoir peur (de)", "to be afraid (of)", "J'ai peur de l'avion."],
+          ["avoir besoin de", "to need", "J'ai besoin de ton aide."],
+          ["avoir envie de", "to feel like", "J'ai envie d'un café."],
+          ["avoir raison / tort", "to be right / wrong", "Tu as raison."],
+          ["avoir mal à", "to have pain in", "J'ai mal à la tête."]
         ]
       },
       {
@@ -355,12 +221,7 @@
       {
         "type": "mcq",
         "q": "'I'm cold' in French is:",
-        "options": [
-          "Je suis froid.",
-          "J'ai froid.",
-          "Je fais froid.",
-          "Il fait froid."
-        ],
+        "options": ["Je suis froid.", "J'ai froid.", "Je fais froid.", "Il fait froid."],
         "answer": 1,
         "why": "Personal sensations of hot and cold use avoir. Il fait froid describes the weather, not you."
       },
@@ -389,32 +250,12 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Form",
-          "Used before",
-          "Example"
-        ],
+        "head": ["Form", "Used before", "Example"],
         "rows": [
-          [
-            "le",
-            "masculine singular",
-            "le livre, le travail"
-          ],
-          [
-            "la",
-            "feminine singular",
-            "la maison, la voiture"
-          ],
-          [
-            "l'",
-            "any singular starting with a vowel or silent h",
-            "l'ami, l'école, l'hôtel"
-          ],
-          [
-            "les",
-            "all plurals",
-            "les livres, les écoles"
-          ]
+          ["le", "masculine singular", "le livre, le travail"],
+          ["la", "feminine singular", "la maison, la voiture"],
+          ["l'", "any singular starting with a vowel or silent h", "l'ami, l'école, l'hôtel"],
+          ["les", "all plurals", "les livres, les écoles"]
         ]
       },
       {
@@ -456,11 +297,7 @@
       {
         "type": "mcq",
         "q": "'I love music' is:",
-        "options": [
-          "J'aime musique.",
-          "J'aime la musique.",
-          "J'aime de la musique."
-        ],
+        "options": ["J'aime musique.", "J'aime la musique.", "J'aime de la musique."],
         "answer": 1,
         "why": "A general liking takes the definite article."
       },
@@ -473,10 +310,7 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "Je parle le français.",
-          "Je parle français."
-        ],
+        "options": ["Je parle le français.", "Je parle français."],
         "answer": 1,
         "why": "parler + language drops the article."
       }
@@ -493,27 +327,11 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Form",
-          "Used before",
-          "Example"
-        ],
+        "head": ["Form", "Used before", "Example"],
         "rows": [
-          [
-            "un",
-            "masculine singular",
-            "un livre, un ami"
-          ],
-          [
-            "une",
-            "feminine singular",
-            "une maison, une amie"
-          ],
-          [
-            "des",
-            "all plurals",
-            "des livres, des amies"
-          ]
+          ["un", "masculine singular", "un livre, un ami"],
+          ["une", "feminine singular", "une maison, une amie"],
+          ["des", "all plurals", "des livres, des amies"]
         ]
       },
       {
@@ -563,21 +381,14 @@
       {
         "type": "mcq",
         "q": "'I have friends in Paris' is:",
-        "options": [
-          "J'ai amis à Paris.",
-          "J'ai des amis à Paris.",
-          "J'ai les amis à Paris."
-        ],
+        "options": ["J'ai amis à Paris.", "J'ai des amis à Paris.", "J'ai les amis à Paris."],
         "answer": 1,
         "why": "A plural noun needs des; French never leaves a noun bare."
       },
       {
         "type": "mcq",
         "q": "Which keeps its article after a negation?",
-        "options": [
-          "J'ai un chien.",
-          "C'est un chien."
-        ],
+        "options": ["J'ai un chien.", "C'est un chien."],
         "answer": 1,
         "why": "After être the article survives: ce n'est pas un chien."
       }
@@ -598,32 +409,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Form",
-          "Used before",
-          "Example"
-        ],
+        "head": ["Form", "Used before", "Example"],
         "rows": [
-          [
-            "du",
-            "masculine singular",
-            "Je mange du pain."
-          ],
-          [
-            "de la",
-            "feminine singular",
-            "Je bois de la bière."
-          ],
-          [
-            "de l'",
-            "singular starting with a vowel",
-            "Je bois de l'eau."
-          ],
-          [
-            "des",
-            "plural",
-            "J'achète des fruits."
-          ]
+          ["du", "masculine singular", "Je mange du pain."],
+          ["de la", "feminine singular", "Je bois de la bière."],
+          ["de l'", "singular starting with a vowel", "Je bois de l'eau."],
+          ["des", "plural", "J'achète des fruits."]
         ]
       },
       {
@@ -651,37 +442,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Quantity word",
-          "Followed by",
-          "Example"
-        ],
+        "head": ["Quantity word", "Followed by", "Example"],
         "rows": [
-          [
-            "beaucoup",
-            "de",
-            "beaucoup de travail"
-          ],
-          [
-            "un peu",
-            "de",
-            "un peu de sucre"
-          ],
-          [
-            "assez",
-            "de",
-            "assez d'argent"
-          ],
-          [
-            "trop",
-            "de",
-            "trop de bruit"
-          ],
-          [
-            "un kilo / une bouteille",
-            "de",
-            "un kilo de pommes"
-          ]
+          ["beaucoup", "de", "beaucoup de travail"],
+          ["un peu", "de", "un peu de sucre"],
+          ["assez", "de", "assez d'argent"],
+          ["trop", "de", "trop de bruit"],
+          ["un kilo / une bouteille", "de", "un kilo de pommes"]
         ]
       },
       {
@@ -705,21 +472,14 @@
       {
         "type": "mcq",
         "q": "'I don't drink wine' is:",
-        "options": [
-          "Je ne bois pas du vin.",
-          "Je ne bois pas de vin.",
-          "Je ne bois pas le vin."
-        ],
+        "options": ["Je ne bois pas du vin.", "Je ne bois pas de vin.", "Je ne bois pas le vin."],
         "answer": 1,
         "why": "The partitive reduces to de in the negative."
       },
       {
         "type": "mcq",
         "q": "Which means 'I like cheese in general'?",
-        "options": [
-          "Je mange du fromage.",
-          "J'aime le fromage."
-        ],
+        "options": ["Je mange du fromage.", "J'aime le fromage."],
         "answer": 1,
         "why": "General preference → definite article."
       }
@@ -740,49 +500,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Usually masculine",
-          "Examples",
-          "Usually feminine",
-          "Examples"
-        ],
+        "head": ["Usually masculine", "Examples", "Usually feminine", "Examples"],
         "rows": [
-          [
-            "-age",
-            "le voyage, le fromage",
-            "-tion / -sion",
-            "la nation, la décision"
-          ],
-          [
-            "-ment",
-            "le moment, le gouvernement",
-            "-té",
-            "la santé, la liberté"
-          ],
-          [
-            "-eau",
-            "le bureau, le manteau",
-            "-ette",
-            "la baguette, la fourchette"
-          ],
-          [
-            "-isme",
-            "le tourisme",
-            "-ance / -ence",
-            "la chance, la science"
-          ],
-          [
-            "-eur (things)",
-            "le bonheur",
-            "-eur (qualities)",
-            "la couleur, la peur"
-          ],
-          [
-            "-ier",
-            "le cahier, le quartier",
-            "-ie",
-            "la boulangerie, la vie"
-          ]
+          ["-age", "le voyage, le fromage", "-tion / -sion", "la nation, la décision"],
+          ["-ment", "le moment, le gouvernement", "-té", "la santé, la liberté"],
+          ["-eau", "le bureau, le manteau", "-ette", "la baguette, la fourchette"],
+          ["-isme", "le tourisme", "-ance / -ence", "la chance, la science"],
+          ["-eur (things)", "le bonheur", "-eur (qualities)", "la couleur, la peur"],
+          ["-ier", "le cahier, le quartier", "-ie", "la boulangerie, la vie"]
         ]
       },
       {
@@ -802,10 +527,7 @@
       {
         "type": "mcq",
         "q": "What gender is 'la situation'?",
-        "options": [
-          "masculine",
-          "feminine"
-        ],
+        "options": ["masculine", "feminine"],
         "answer": 1,
         "why": "-tion nouns are feminine."
       },
@@ -818,10 +540,7 @@
       {
         "type": "mcq",
         "q": "'la tour' means:",
-        "options": [
-          "a tour",
-          "a tower"
-        ],
+        "options": ["a tour", "a tower"],
         "answer": 1,
         "why": "Feminine la tour is a tower; masculine le tour is a turn or a tour."
       },
@@ -848,42 +567,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Singular ends in",
-          "Plural",
-          "Example"
-        ],
+        "head": ["Singular ends in", "Plural", "Example"],
         "rows": [
-          [
-            "most letters",
-            "add -s",
-            "le livre → les livres"
-          ],
-          [
-            "-s, -x, -z",
-            "no change",
-            "le fils → les fils, le prix → les prix"
-          ],
-          [
-            "-eau, -eu",
-            "add -x",
-            "le bureau → les bureaux, le jeu → les jeux"
-          ],
-          [
-            "-al",
-            "-aux",
-            "le journal → les journaux, l'animal → les animaux"
-          ],
-          [
-            "-ail (some)",
-            "-aux",
-            "le travail → les travaux"
-          ],
-          [
-            "-ou",
-            "add -s (7 take -x)",
-            "le trou → les trous, but le bijou → les bijoux"
-          ]
+          ["most letters", "add -s", "le livre → les livres"],
+          ["-s, -x, -z", "no change", "le fils → les fils, le prix → les prix"],
+          ["-eau, -eu", "add -x", "le bureau → les bureaux, le jeu → les jeux"],
+          ["-al", "-aux", "le journal → les journaux, l'animal → les animaux"],
+          ["-ail (some)", "-aux", "le travail → les travaux"],
+          ["-ou", "add -s (7 take -x)", "le trou → les trous, but le bijou → les bijoux"]
         ]
       },
       {
@@ -925,11 +616,7 @@
       {
         "type": "mcq",
         "q": "The plural of 'le prix' is:",
-        "options": [
-          "les prixs",
-          "les prix",
-          "les prixes"
-        ],
+        "options": ["les prixs", "les prix", "les prixes"],
         "answer": 1,
         "why": "Words ending in -x do not change."
       },
@@ -956,49 +643,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Ending",
-          "parler",
-          "travailler"
-        ],
+        "head": ["Person", "Ending", "parler", "travailler"],
         "rows": [
-          [
-            "je",
-            "-e",
-            "je parle",
-            "je travaille"
-          ],
-          [
-            "tu",
-            "-es",
-            "tu parles",
-            "tu travailles"
-          ],
-          [
-            "il/elle/on",
-            "-e",
-            "il parle",
-            "il travaille"
-          ],
-          [
-            "nous",
-            "-ons",
-            "nous parlons",
-            "nous travaillons"
-          ],
-          [
-            "vous",
-            "-ez",
-            "vous parlez",
-            "vous travaillez"
-          ],
-          [
-            "ils/elles",
-            "-ent",
-            "ils parlent",
-            "ils travaillent"
-          ]
+          ["je", "-e", "je parle", "je travaille"],
+          ["tu", "-es", "tu parles", "tu travailles"],
+          ["il/elle/on", "-e", "il parle", "il travaille"],
+          ["nous", "-ons", "nous parlons", "nous travaillons"],
+          ["vous", "-ez", "vous parlez", "vous travaillez"],
+          ["ils/elles", "-ent", "ils parlent", "ils travaillent"]
         ]
       },
       {
@@ -1007,42 +659,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Type",
-          "Change",
-          "Example"
-        ],
+        "head": ["Type", "Change", "Example"],
         "rows": [
-          [
-            "-ger",
-            "e before -ons",
-            "nous mangeons, nous voyageons"
-          ],
-          [
-            "-cer",
-            "c → ç before -ons",
-            "nous commençons"
-          ],
-          [
-            "-yer",
-            "y → i before silent endings",
-            "je paie, j'essaie"
-          ],
-          [
-            "e_er",
-            "e → è before silent endings",
-            "j'achète, je me lève"
-          ],
-          [
-            "é_er",
-            "é → è before silent endings",
-            "je préfère, j'espère"
-          ],
-          [
-            "-eler / -eter",
-            "double the consonant",
-            "j'appelle, je jette"
-          ]
+          ["-ger", "e before -ons", "nous mangeons, nous voyageons"],
+          ["-cer", "c → ç before -ons", "nous commençons"],
+          ["-yer", "y → i before silent endings", "je paie, j'essaie"],
+          ["e_er", "e → è before silent endings", "j'achète, je me lève"],
+          ["é_er", "é → è before silent endings", "je préfère, j'espère"],
+          ["-eler / -eter", "double the consonant", "j'appelle, je jette"]
         ]
       },
       {
@@ -1072,11 +696,7 @@
       {
         "type": "mcq",
         "q": "Which two forms sound different from the rest?",
-        "options": [
-          "je and tu",
-          "nous and vous",
-          "il and ils"
-        ],
+        "options": ["je and tu", "nous and vous", "il and ils"],
         "answer": 1,
         "why": "Only -ons and -ez are pronounced; the other four endings are silent."
       }
@@ -1097,49 +717,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Ending",
-          "finir",
-          "choisir"
-        ],
+        "head": ["Person", "Ending", "finir", "choisir"],
         "rows": [
-          [
-            "je",
-            "-is",
-            "je finis",
-            "je choisis"
-          ],
-          [
-            "tu",
-            "-is",
-            "tu finis",
-            "tu choisis"
-          ],
-          [
-            "il/elle/on",
-            "-it",
-            "il finit",
-            "il choisit"
-          ],
-          [
-            "nous",
-            "-issons",
-            "nous finissons",
-            "nous choisissons"
-          ],
-          [
-            "vous",
-            "-issez",
-            "vous finissez",
-            "vous choisissez"
-          ],
-          [
-            "ils/elles",
-            "-issent",
-            "ils finissent",
-            "ils choisissent"
-          ]
+          ["je", "-is", "je finis", "je choisis"],
+          ["tu", "-is", "tu finis", "tu choisis"],
+          ["il/elle/on", "-it", "il finit", "il choisit"],
+          ["nous", "-issons", "nous finissons", "nous choisissons"],
+          ["vous", "-issez", "vous finissez", "vous choisissez"],
+          ["ils/elles", "-issent", "ils finissent", "ils choisissent"]
         ]
       },
       {
@@ -1167,12 +752,7 @@
       {
         "type": "mcq",
         "q": "Which verb is a regular -ir verb?",
-        "options": [
-          "dormir",
-          "réussir",
-          "sortir",
-          "offrir"
-        ],
+        "options": ["dormir", "réussir", "sortir", "offrir"],
         "answer": 1,
         "why": "réussir takes -iss- in the plural; the other three do not."
       },
@@ -1195,49 +775,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Ending",
-          "attendre",
-          "vendre"
-        ],
+        "head": ["Person", "Ending", "attendre", "vendre"],
         "rows": [
-          [
-            "je",
-            "-s",
-            "j'attends",
-            "je vends"
-          ],
-          [
-            "tu",
-            "-s",
-            "tu attends",
-            "tu vends"
-          ],
-          [
-            "il/elle/on",
-            "— (nothing)",
-            "il attend",
-            "il vend"
-          ],
-          [
-            "nous",
-            "-ons",
-            "nous attendons",
-            "nous vendons"
-          ],
-          [
-            "vous",
-            "-ez",
-            "vous attendez",
-            "vous vendez"
-          ],
-          [
-            "ils/elles",
-            "-ent",
-            "ils attendent",
-            "ils vendent"
-          ]
+          ["je", "-s", "j'attends", "je vends"],
+          ["tu", "-s", "tu attends", "tu vends"],
+          ["il/elle/on", "— (nothing)", "il attend", "il vend"],
+          ["nous", "-ons", "nous attendons", "nous vendons"],
+          ["vous", "-ez", "vous attendez", "vous vendez"],
+          ["ils/elles", "-ent", "ils attendent", "ils vendent"]
         ]
       },
       {
@@ -1280,12 +825,7 @@
       {
         "type": "mcq",
         "q": "Which verb does NOT follow the regular -re pattern?",
-        "options": [
-          "vendre",
-          "perdre",
-          "prendre",
-          "entendre"
-        ],
+        "options": ["vendre", "perdre", "prendre", "entendre"],
         "answer": 2,
         "why": "prendre loses its d in the plural: nous prenons, ils prennent."
       },
@@ -1308,42 +848,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "aller",
-          "Near future example"
-        ],
+        "head": ["Person", "aller", "Near future example"],
         "rows": [
-          [
-            "je",
-            "vais",
-            "Je vais manger."
-          ],
-          [
-            "tu",
-            "vas",
-            "Tu vas comprendre."
-          ],
-          [
-            "il/elle/on",
-            "va",
-            "On va partir bientôt."
-          ],
-          [
-            "nous",
-            "allons",
-            "Nous allons commencer."
-          ],
-          [
-            "vous",
-            "allez",
-            "Vous allez adorer ce film."
-          ],
-          [
-            "ils/elles",
-            "vont",
-            "Ils vont arriver à midi."
-          ]
+          ["je", "vais", "Je vais manger."],
+          ["tu", "vas", "Tu vas comprendre."],
+          ["il/elle/on", "va", "On va partir bientôt."],
+          ["nous", "allons", "Nous allons commencer."],
+          ["vous", "allez", "Vous allez adorer ce film."],
+          ["ils/elles", "vont", "Ils vont arriver à midi."]
         ]
       },
       {
@@ -1405,11 +917,7 @@
       {
         "type": "mcq",
         "q": "In 'je vais manger', what form is manger?",
-        "options": [
-          "past participle",
-          "infinitive",
-          "present tense"
-        ],
+        "options": ["past participle", "infinitive", "present tense"],
         "answer": 1,
         "why": "After aller the second verb stays in the infinitive."
       }
@@ -1426,35 +934,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Form"
-        ],
+        "head": ["Person", "Form"],
         "rows": [
-          [
-            "je",
-            "fais"
-          ],
-          [
-            "tu",
-            "fais"
-          ],
-          [
-            "il/elle/on",
-            "fait"
-          ],
-          [
-            "nous",
-            "faisons"
-          ],
-          [
-            "vous",
-            "faites"
-          ],
-          [
-            "ils/elles",
-            "font"
-          ]
+          ["je", "fais"],
+          ["tu", "fais"],
+          ["il/elle/on", "fait"],
+          ["nous", "faisons"],
+          ["vous", "faites"],
+          ["ils/elles", "font"]
         ]
       },
       {
@@ -1463,43 +950,16 @@
       },
       {
         "type": "table",
-        "head": [
-          "Expression",
-          "Meaning"
-        ],
+        "head": ["Expression", "Meaning"],
         "rows": [
-          [
-            "il fait beau / mauvais",
-            "the weather is nice / bad"
-          ],
-          [
-            "il fait chaud / froid",
-            "it's hot / cold"
-          ],
-          [
-            "faire du sport",
-            "to do sport"
-          ],
-          [
-            "faire du vélo / de la natation",
-            "to cycle / to swim"
-          ],
-          [
-            "faire les courses",
-            "to do the shopping"
-          ],
-          [
-            "faire la cuisine",
-            "to cook"
-          ],
-          [
-            "faire attention",
-            "to pay attention"
-          ],
-          [
-            "faire un voyage",
-            "to take a trip"
-          ]
+          ["il fait beau / mauvais", "the weather is nice / bad"],
+          ["il fait chaud / froid", "it's hot / cold"],
+          ["faire du sport", "to do sport"],
+          ["faire du vélo / de la natation", "to cycle / to swim"],
+          ["faire les courses", "to do the shopping"],
+          ["faire la cuisine", "to cook"],
+          ["faire attention", "to pay attention"],
+          ["faire un voyage", "to take a trip"]
         ]
       },
       {
@@ -1517,11 +977,7 @@
       {
         "type": "mcq",
         "q": "'It's raining' is:",
-        "options": [
-          "Il fait pluie.",
-          "Il pleut.",
-          "Il fait de la pluie."
-        ],
+        "options": ["Il fait pluie.", "Il pleut.", "Il fait de la pluie."],
         "answer": 1,
         "why": "Rain has its own verb, pleuvoir."
       },
@@ -1554,31 +1010,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Positive",
-          "Negative"
-        ],
+        "head": ["Positive", "Negative"],
         "rows": [
-          [
-            "Je parle français.",
-            "Je ne parle pas français."
-          ],
-          [
-            "Il a une voiture.",
-            "Il n'a pas de voiture."
-          ],
-          [
-            "Nous allons partir.",
-            "Nous n'allons pas partir."
-          ],
-          [
-            "J'ai mangé.",
-            "Je n'ai pas mangé."
-          ],
-          [
-            "Lève-toi.",
-            "Ne te lève pas."
-          ]
+          ["Je parle français.", "Je ne parle pas français."],
+          ["Il a une voiture.", "Il n'a pas de voiture."],
+          ["Nous allons partir.", "Nous n'allons pas partir."],
+          ["J'ai mangé.", "Je n'ai pas mangé."],
+          ["Lève-toi.", "Ne te lève pas."]
         ]
       },
       {
@@ -1604,11 +1042,7 @@
       {
         "type": "mcq",
         "q": "Negate 'Je vais manger':",
-        "options": [
-          "Je ne vais manger pas.",
-          "Je ne vais pas manger.",
-          "Je vais ne pas manger."
-        ],
+        "options": ["Je ne vais manger pas.", "Je ne vais pas manger.", "Je vais ne pas manger."],
         "answer": 1,
         "why": "ne … pas surrounds the conjugated verb, not the infinitive."
       },
@@ -1621,11 +1055,7 @@
       {
         "type": "mcq",
         "q": "'J'ai pas faim' is:",
-        "options": [
-          "incorrect French",
-          "informal spoken French",
-          "formal written French"
-        ],
+        "options": ["incorrect French", "informal spoken French", "formal written French"],
         "answer": 1,
         "why": "Dropping ne is normal in speech but not in writing."
       }
@@ -1642,27 +1072,11 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Register",
-          "How to build it",
-          "Example"
-        ],
+        "head": ["Register", "How to build it", "Example"],
         "rows": [
-          [
-            "Informal",
-            "keep the statement, raise your voice",
-            "Tu viens ?"
-          ],
-          [
-            "Neutral",
-            "put est-ce que in front",
-            "Est-ce que tu viens ?"
-          ],
-          [
-            "Formal",
-            "invert verb and subject with a hyphen",
-            "Viens-tu ?"
-          ]
+          ["Informal", "keep the statement, raise your voice", "Tu viens ?"],
+          ["Neutral", "put est-ce que in front", "Est-ce que tu viens ?"],
+          ["Formal", "invert verb and subject with a hyphen", "Viens-tu ?"]
         ]
       },
       {
@@ -1718,11 +1132,7 @@
       {
         "type": "mcq",
         "q": "— Tu n'as pas faim ? You ARE hungry. You answer:",
-        "options": [
-          "Oui",
-          "Si",
-          "Non"
-        ],
+        "options": ["Oui", "Si", "Non"],
         "answer": 1,
         "why": "si contradicts a negative question."
       },
@@ -1745,52 +1155,16 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Word",
-          "Meaning",
-          "Example"
-        ],
+        "head": ["Word", "Meaning", "Example"],
         "rows": [
-          [
-            "qui",
-            "who",
-            "Qui est à la porte ?"
-          ],
-          [
-            "que / qu'est-ce que",
-            "what",
-            "Qu'est-ce que vous faites ?"
-          ],
-          [
-            "où",
-            "where",
-            "Où habitez-vous ?"
-          ],
-          [
-            "quand",
-            "when",
-            "Quand est-ce que tu arrives ?"
-          ],
-          [
-            "pourquoi",
-            "why",
-            "Pourquoi apprenez-vous le français ?"
-          ],
-          [
-            "comment",
-            "how",
-            "Comment allez-vous ?"
-          ],
-          [
-            "combien (de)",
-            "how much / many",
-            "Combien de frères as-tu ?"
-          ],
-          [
-            "quel / quelle / quels / quelles",
-            "which, what",
-            "Quel est votre nom ?"
-          ]
+          ["qui", "who", "Qui est à la porte ?"],
+          ["que / qu'est-ce que", "what", "Qu'est-ce que vous faites ?"],
+          ["où", "where", "Où habitez-vous ?"],
+          ["quand", "when", "Quand est-ce que tu arrives ?"],
+          ["pourquoi", "why", "Pourquoi apprenez-vous le français ?"],
+          ["comment", "how", "Comment allez-vous ?"],
+          ["combien (de)", "how much / many", "Combien de frères as-tu ?"],
+          ["quel / quelle / quels / quelles", "which, what", "Quel est votre nom ?"]
         ]
       },
       {
@@ -1868,22 +1242,10 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "",
-          "Masculine",
-          "Feminine"
-        ],
+        "head": ["", "Masculine", "Feminine"],
         "rows": [
-          [
-            "Singular",
-            "grand",
-            "grande"
-          ],
-          [
-            "Plural",
-            "grands",
-            "grandes"
-          ]
+          ["Singular", "grand", "grande"],
+          ["Plural", "grands", "grandes"]
         ]
       },
       {
@@ -1892,42 +1254,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Masculine ending",
-          "Feminine",
-          "Example"
-        ],
+        "head": ["Masculine ending", "Feminine", "Example"],
         "rows": [
-          [
-            "-eux",
-            "-euse",
-            "heureux → heureuse"
-          ],
-          [
-            "-eur",
-            "-euse / -rice",
-            "travailleur → travailleuse, acteur → actrice"
-          ],
-          [
-            "-if",
-            "-ive",
-            "sportif → sportive"
-          ],
-          [
-            "-er",
-            "-ère",
-            "cher → chère, premier → première"
-          ],
-          [
-            "-el, -en, -on",
-            "double + e",
-            "naturel → naturelle, italien → italienne, bon → bonne"
-          ],
-          [
-            "-c",
-            "-che / -que",
-            "blanc → blanche, public → publique"
-          ]
+          ["-eux", "-euse", "heureux → heureuse"],
+          ["-eur", "-euse / -rice", "travailleur → travailleuse, acteur → actrice"],
+          ["-if", "-ive", "sportif → sportive"],
+          ["-er", "-ère", "cher → chère, premier → première"],
+          ["-el, -en, -on", "double + e", "naturel → naturelle, italien → italienne, bon → bonne"],
+          ["-c", "-che / -que", "blanc → blanche, public → publique"]
         ]
       },
       {
@@ -1936,43 +1270,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Masculine",
-          "Before a vowel",
-          "Feminine",
-          "Meaning"
-        ],
+        "head": ["Masculine", "Before a vowel", "Feminine", "Meaning"],
         "rows": [
-          [
-            "beau",
-            "bel",
-            "belle",
-            "beautiful"
-          ],
-          [
-            "nouveau",
-            "nouvel",
-            "nouvelle",
-            "new"
-          ],
-          [
-            "vieux",
-            "vieil",
-            "vieille",
-            "old"
-          ],
-          [
-            "fou",
-            "fol",
-            "folle",
-            "mad"
-          ],
-          [
-            "mou",
-            "mol",
-            "molle",
-            "soft"
-          ]
+          ["beau", "bel", "belle", "beautiful"],
+          ["nouveau", "nouvel", "nouvelle", "new"],
+          ["vieux", "vieil", "vieille", "old"],
+          ["fou", "fol", "folle", "mad"],
+          ["mou", "mol", "molle", "soft"]
         ]
       },
       {
@@ -2050,37 +1354,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Category",
-          "Adjectives",
-          "Example"
-        ],
+        "head": ["Category", "Adjectives", "Example"],
         "rows": [
-          [
-            "Beauty",
-            "beau, joli",
-            "une jolie robe"
-          ],
-          [
-            "Age",
-            "jeune, vieux, nouveau",
-            "un jeune homme"
-          ],
-          [
-            "Goodness",
-            "bon, mauvais, meilleur",
-            "un bon restaurant"
-          ],
-          [
-            "Size",
-            "grand, petit, gros, long",
-            "une grande maison"
-          ],
-          [
-            "Also",
-            "autre, même, premier, dernier",
-            "le premier jour"
-          ]
+          ["Beauty", "beau, joli", "une jolie robe"],
+          ["Age", "jeune, vieux, nouveau", "un jeune homme"],
+          ["Goodness", "bon, mauvais, meilleur", "un bon restaurant"],
+          ["Size", "grand, petit, gros, long", "une grande maison"],
+          ["Also", "autre, même, premier, dernier", "le premier jour"]
         ]
       },
       {
@@ -2089,37 +1369,17 @@
       },
       {
         "type": "table",
-        "head": [
-          "Adjective",
-          "Before the noun",
-          "After the noun"
-        ],
+        "head": ["Adjective", "Before the noun", "After the noun"],
         "rows": [
           [
             "ancien",
             "un ancien collègue — a former colleague",
             "un bâtiment ancien — an old building"
           ],
-          [
-            "cher",
-            "un cher ami — a dear friend",
-            "un livre cher — an expensive book"
-          ],
-          [
-            "grand",
-            "un grand homme — a great man",
-            "un homme grand — a tall man"
-          ],
-          [
-            "propre",
-            "ma propre voiture — my own car",
-            "une voiture propre — a clean car"
-          ],
-          [
-            "dernier",
-            "la dernière semaine — the final week",
-            "la semaine dernière — last week"
-          ]
+          ["cher", "un cher ami — a dear friend", "un livre cher — an expensive book"],
+          ["grand", "un grand homme — a great man", "un homme grand — a tall man"],
+          ["propre", "ma propre voiture — my own car", "une voiture propre — a clean car"],
+          ["dernier", "la dernière semaine — the final week", "la semaine dernière — last week"]
         ]
       },
       {
@@ -2131,20 +1391,14 @@
       {
         "type": "mcq",
         "q": "Where does 'rouge' go?",
-        "options": [
-          "une rouge voiture",
-          "une voiture rouge"
-        ],
+        "options": ["une rouge voiture", "une voiture rouge"],
         "answer": 1,
         "why": "Colours always follow the noun."
       },
       {
         "type": "mcq",
         "q": "'un ancien collègue' means:",
-        "options": [
-          "an elderly colleague",
-          "a former colleague"
-        ],
+        "options": ["an elderly colleague", "a former colleague"],
         "answer": 1,
         "why": "Before the noun, ancien means former."
       },
@@ -2157,10 +1411,7 @@
       {
         "type": "mcq",
         "q": "'un homme grand' describes someone who is:",
-        "options": [
-          "tall",
-          "great"
-        ],
+        "options": ["tall", "great"],
         "answer": 0,
         "why": "After the noun, grand is literal height."
       }
@@ -2177,49 +1428,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Owner",
-          "+ masc. sing.",
-          "+ fem. sing.",
-          "+ plural"
-        ],
+        "head": ["Owner", "+ masc. sing.", "+ fem. sing.", "+ plural"],
         "rows": [
-          [
-            "je",
-            "mon",
-            "ma",
-            "mes"
-          ],
-          [
-            "tu",
-            "ton",
-            "ta",
-            "tes"
-          ],
-          [
-            "il / elle",
-            "son",
-            "sa",
-            "ses"
-          ],
-          [
-            "nous",
-            "notre",
-            "notre",
-            "nos"
-          ],
-          [
-            "vous",
-            "votre",
-            "votre",
-            "vos"
-          ],
-          [
-            "ils / elles",
-            "leur",
-            "leur",
-            "leurs"
-          ]
+          ["je", "mon", "ma", "mes"],
+          ["tu", "ton", "ta", "tes"],
+          ["il / elle", "son", "sa", "ses"],
+          ["nous", "notre", "notre", "nos"],
+          ["vous", "votre", "votre", "vos"],
+          ["ils / elles", "leur", "leur", "leurs"]
         ]
       },
       {
@@ -2270,11 +1486,7 @@
       {
         "type": "mcq",
         "q": "'son livre' means:",
-        "options": [
-          "his book only",
-          "her book only",
-          "his or her book"
-        ],
+        "options": ["his book only", "her book only", "his or her book"],
         "answer": 2,
         "why": "The possessive agrees with livre, not with the owner."
       },
@@ -2297,32 +1509,12 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Form",
-          "Used before",
-          "Example"
-        ],
+        "head": ["Form", "Used before", "Example"],
         "rows": [
-          [
-            "ce",
-            "masculine singular",
-            "ce livre"
-          ],
-          [
-            "cet",
-            "masculine singular before a vowel or silent h",
-            "cet homme, cet ami"
-          ],
-          [
-            "cette",
-            "feminine singular",
-            "cette maison"
-          ],
-          [
-            "ces",
-            "all plurals",
-            "ces livres, ces maisons"
-          ]
+          ["ce", "masculine singular", "ce livre"],
+          ["cet", "masculine singular before a vowel or silent h", "cet homme, cet ami"],
+          ["cette", "feminine singular", "cette maison"],
+          ["ces", "all plurals", "ces livres, ces maisons"]
         ]
       },
       {
@@ -2368,11 +1560,7 @@
       {
         "type": "mcq",
         "q": "How do you contrast 'this one' with 'that one'?",
-        "options": [
-          "by using different articles",
-          "by adding -ci and -là",
-          "you cannot in French"
-        ],
+        "options": ["by using different articles", "by adding -ci and -là", "you cannot in French"],
         "answer": 1,
         "why": "-ci marks near, -là marks far."
       },
@@ -2395,37 +1583,13 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Range",
-          "Pattern",
-          "Examples"
-        ],
+        "head": ["Range", "Pattern", "Examples"],
         "rows": [
-          [
-            "0–16",
-            "individual words",
-            "zéro, un, deux … seize"
-          ],
-          [
-            "17–19",
-            "dix + unit",
-            "dix-sept, dix-huit, dix-neuf"
-          ],
-          [
-            "20–69",
-            "tens + unit",
-            "vingt-trois, quarante-cinq"
-          ],
-          [
-            "70–79",
-            "sixty + ten…",
-            "soixante-dix, soixante et onze, soixante-douze"
-          ],
-          [
-            "80–89",
-            "four twenties…",
-            "quatre-vingts, quatre-vingt-un, quatre-vingt-cinq"
-          ],
+          ["0–16", "individual words", "zéro, un, deux … seize"],
+          ["17–19", "dix + unit", "dix-sept, dix-huit, dix-neuf"],
+          ["20–69", "tens + unit", "vingt-trois, quarante-cinq"],
+          ["70–79", "sixty + ten…", "soixante-dix, soixante et onze, soixante-douze"],
+          ["80–89", "four twenties…", "quatre-vingts, quatre-vingt-un, quatre-vingt-cinq"],
           [
             "90–99",
             "four twenties + ten…",
@@ -2482,10 +1646,7 @@
       {
         "type": "mcq",
         "q": "Which is correct for 80 euros?",
-        "options": [
-          "quatre-vingt euros",
-          "quatre-vingts euros"
-        ],
+        "options": ["quatre-vingt euros", "quatre-vingts euros"],
         "answer": 1,
         "why": "quatre-vingts keeps its -s when nothing follows it."
       },
@@ -2512,47 +1673,15 @@
       },
       {
         "type": "table",
-        "head": [
-          "Time",
-          "Conversational",
-          "Official (24h)"
-        ],
+        "head": ["Time", "Conversational", "Official (24h)"],
         "rows": [
-          [
-            "1:00",
-            "Il est une heure.",
-            "une heure"
-          ],
-          [
-            "2:15",
-            "Il est deux heures et quart.",
-            "deux heures quinze"
-          ],
-          [
-            "3:30",
-            "Il est trois heures et demie.",
-            "trois heures trente"
-          ],
-          [
-            "4:45",
-            "Il est cinq heures moins le quart.",
-            "seize heures quarante-cinq"
-          ],
-          [
-            "5:50",
-            "Il est six heures moins dix.",
-            "dix-sept heures cinquante"
-          ],
-          [
-            "12:00",
-            "Il est midi.",
-            "douze heures"
-          ],
-          [
-            "00:00",
-            "Il est minuit.",
-            "zéro heure"
-          ]
+          ["1:00", "Il est une heure.", "une heure"],
+          ["2:15", "Il est deux heures et quart.", "deux heures quinze"],
+          ["3:30", "Il est trois heures et demie.", "trois heures trente"],
+          ["4:45", "Il est cinq heures moins le quart.", "seize heures quarante-cinq"],
+          ["5:50", "Il est six heures moins dix.", "dix-sept heures cinquante"],
+          ["12:00", "Il est midi.", "douze heures"],
+          ["00:00", "Il est minuit.", "zéro heure"]
         ]
       },
       {
@@ -2584,10 +1713,7 @@
       {
         "type": "mcq",
         "q": "'16h30' spoken officially is:",
-        "options": [
-          "quatre heures et demie",
-          "seize heures trente"
-        ],
+        "options": ["quatre heures et demie", "seize heures trente"],
         "answer": 1,
         "why": "The 24-hour clock does not use et demie."
       },
@@ -2618,23 +1744,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Question",
-          "Answer"
-        ],
+        "head": ["Question", "Answer"],
         "rows": [
-          [
-            "Quel jour sommes-nous ?",
-            "Nous sommes lundi."
-          ],
-          [
-            "Quelle est la date ?",
-            "C'est le 12 octobre."
-          ],
-          [
-            "Quand es-tu né ?",
-            "Je suis né le premier mai."
-          ]
+          ["Quel jour sommes-nous ?", "Nous sommes lundi."],
+          ["Quelle est la date ?", "C'est le 12 octobre."],
+          ["Quand es-tu né ?", "Je suis né le premier mai."]
         ]
       },
       {
@@ -2676,10 +1790,7 @@
       {
         "type": "mcq",
         "q": "'Le samedi, je fais du sport' means:",
-        "options": [
-          "This Saturday I'm doing sport",
-          "On Saturdays I do sport"
-        ],
+        "options": ["This Saturday I'm doing sport", "On Saturdays I do sport"],
         "answer": 1,
         "why": "The article makes it habitual."
       },
@@ -2692,10 +1803,7 @@
       {
         "type": "mcq",
         "q": "Which is written correctly?",
-        "options": [
-          "le 3 Mai",
-          "le 3 mai"
-        ],
+        "options": ["le 3 Mai", "le 3 mai"],
         "answer": 1,
         "why": "Months are lowercase in French."
       }
@@ -2716,37 +1824,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Form",
-          "Use",
-          "Example"
-        ],
+        "head": ["Form", "Use", "Example"],
         "rows": [
-          [
-            "il y a",
-            "present",
-            "Il y a une pharmacie ici."
-          ],
-          [
-            "il n'y a pas de",
-            "negative",
-            "Il n'y a pas de place."
-          ],
-          [
-            "y a-t-il … ? / est-ce qu'il y a … ?",
-            "question",
-            "Y a-t-il un train à midi ?"
-          ],
-          [
-            "il y avait",
-            "past (imparfait)",
-            "Il y avait beaucoup de monde."
-          ],
-          [
-            "il y aura",
-            "future",
-            "Il y aura une réunion demain."
-          ]
+          ["il y a", "present", "Il y a une pharmacie ici."],
+          ["il n'y a pas de", "negative", "Il n'y a pas de place."],
+          ["y a-t-il … ? / est-ce qu'il y a … ?", "question", "Y a-t-il un train à midi ?"],
+          ["il y avait", "past (imparfait)", "Il y avait beaucoup de monde."],
+          ["il y aura", "future", "Il y aura une réunion demain."]
         ]
       },
       {
@@ -2792,20 +1876,14 @@
       {
         "type": "mcq",
         "q": "'J'ai déménagé il y a un an' means:",
-        "options": [
-          "I'm moving in a year",
-          "I moved a year ago"
-        ],
+        "options": ["I'm moving in a year", "I moved a year ago"],
         "answer": 1,
         "why": "il y a + duration looks backwards."
       },
       {
         "type": "mcq",
         "q": "Which introduces something new into the scene?",
-        "options": [
-          "C'est",
-          "Il y a"
-        ],
+        "options": ["C'est", "Il y a"],
         "answer": 1,
         "why": "il y a states that something exists; c'est identifies it."
       }
@@ -2822,72 +1900,20 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Preposition",
-          "Meaning",
-          "Example"
-        ],
+        "head": ["Preposition", "Meaning", "Example"],
         "rows": [
-          [
-            "dans",
-            "in, inside",
-            "Les clés sont dans le sac."
-          ],
-          [
-            "sur",
-            "on",
-            "Le livre est sur la table."
-          ],
-          [
-            "sous",
-            "under",
-            "Le chat est sous la chaise."
-          ],
-          [
-            "devant",
-            "in front of",
-            "Je t'attends devant la gare."
-          ],
-          [
-            "derrière",
-            "behind",
-            "Le jardin est derrière la maison."
-          ],
-          [
-            "entre",
-            "between",
-            "La poste est entre la banque et le café."
-          ],
-          [
-            "chez",
-            "at someone's place",
-            "Je vais chez le médecin."
-          ],
-          [
-            "à côté de",
-            "next to",
-            "Le cinéma est à côté du parc."
-          ],
-          [
-            "en face de",
-            "opposite",
-            "L'école est en face de l'église."
-          ],
-          [
-            "près de",
-            "near",
-            "J'habite près de la gare."
-          ],
-          [
-            "loin de",
-            "far from",
-            "C'est loin d'ici ?"
-          ],
-          [
-            "au-dessus de",
-            "above",
-            "L'appartement au-dessus du mien."
-          ]
+          ["dans", "in, inside", "Les clés sont dans le sac."],
+          ["sur", "on", "Le livre est sur la table."],
+          ["sous", "under", "Le chat est sous la chaise."],
+          ["devant", "in front of", "Je t'attends devant la gare."],
+          ["derrière", "behind", "Le jardin est derrière la maison."],
+          ["entre", "between", "La poste est entre la banque et le café."],
+          ["chez", "at someone's place", "Je vais chez le médecin."],
+          ["à côté de", "next to", "Le cinéma est à côté du parc."],
+          ["en face de", "opposite", "L'école est en face de l'église."],
+          ["près de", "near", "J'habite près de la gare."],
+          ["loin de", "far from", "C'est loin d'ici ?"],
+          ["au-dessus de", "above", "L'appartement au-dessus du mien."]
         ]
       },
       {
@@ -2919,10 +1945,7 @@
       {
         "type": "mcq",
         "q": "'The keys are on the table' is:",
-        "options": [
-          "Les clés sont dans la table.",
-          "Les clés sont sur la table."
-        ],
+        "options": ["Les clés sont dans la table.", "Les clés sont sur la table."],
         "answer": 1,
         "why": "sur means on top of."
       },
@@ -2945,52 +1968,16 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Combination",
-          "Becomes",
-          "Example"
-        ],
+        "head": ["Combination", "Becomes", "Example"],
         "rows": [
-          [
-            "à + le",
-            "au",
-            "Je vais au cinéma."
-          ],
-          [
-            "à + les",
-            "aux",
-            "Je parle aux étudiants."
-          ],
-          [
-            "à + la",
-            "à la (no change)",
-            "Je vais à la piscine."
-          ],
-          [
-            "à + l'",
-            "à l' (no change)",
-            "Je vais à l'école."
-          ],
-          [
-            "de + le",
-            "du",
-            "Je viens du bureau."
-          ],
-          [
-            "de + les",
-            "des",
-            "C'est la voiture des voisins."
-          ],
-          [
-            "de + la",
-            "de la (no change)",
-            "Je viens de la gare."
-          ],
-          [
-            "de + l'",
-            "de l' (no change)",
-            "La porte de l'immeuble."
-          ]
+          ["à + le", "au", "Je vais au cinéma."],
+          ["à + les", "aux", "Je parle aux étudiants."],
+          ["à + la", "à la (no change)", "Je vais à la piscine."],
+          ["à + l'", "à l' (no change)", "Je vais à l'école."],
+          ["de + le", "du", "Je viens du bureau."],
+          ["de + les", "des", "C'est la voiture des voisins."],
+          ["de + la", "de la (no change)", "Je viens de la gare."],
+          ["de + l'", "de l' (no change)", "La porte de l'immeuble."]
         ]
       },
       {
@@ -3040,10 +2027,7 @@
       {
         "type": "mcq",
         "q": "'I play the piano' is:",
-        "options": [
-          "Je joue au piano.",
-          "Je joue du piano."
-        ],
+        "options": ["Je joue au piano.", "Je joue du piano."],
         "answer": 1,
         "why": "Instruments take jouer de."
       },
@@ -3066,49 +2050,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Person",
-          "pouvoir (can)",
-          "vouloir (want)",
-          "devoir (must)"
-        ],
+        "head": ["Person", "pouvoir (can)", "vouloir (want)", "devoir (must)"],
         "rows": [
-          [
-            "je",
-            "peux",
-            "veux",
-            "dois"
-          ],
-          [
-            "tu",
-            "peux",
-            "veux",
-            "dois"
-          ],
-          [
-            "il/elle/on",
-            "peut",
-            "veut",
-            "doit"
-          ],
-          [
-            "nous",
-            "pouvons",
-            "voulons",
-            "devons"
-          ],
-          [
-            "vous",
-            "pouvez",
-            "voulez",
-            "devez"
-          ],
-          [
-            "ils/elles",
-            "peuvent",
-            "veulent",
-            "doivent"
-          ]
+          ["je", "peux", "veux", "dois"],
+          ["tu", "peux", "veux", "dois"],
+          ["il/elle/on", "peut", "veut", "doit"],
+          ["nous", "pouvons", "voulons", "devons"],
+          ["vous", "pouvez", "voulez", "devez"],
+          ["ils/elles", "peuvent", "veulent", "doivent"]
         ]
       },
       {
@@ -3121,27 +2070,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Blunt",
-          "Polite",
-          "English"
-        ],
+        "head": ["Blunt", "Polite", "English"],
         "rows": [
-          [
-            "Je veux …",
-            "Je voudrais …",
-            "I'd like …"
-          ],
-          [
-            "Tu peux … ?",
-            "Pourriez-vous … ?",
-            "Could you … ?"
-          ],
-          [
-            "Tu dois …",
-            "Tu devrais …",
-            "You should …"
-          ]
+          ["Je veux …", "Je voudrais …", "I'd like …"],
+          ["Tu peux … ?", "Pourriez-vous … ?", "Could you … ?"],
+          ["Tu dois …", "Tu devrais …", "You should …"]
         ]
       },
       {
@@ -3177,11 +2110,7 @@
       {
         "type": "mcq",
         "q": "Politest way to order a coffee:",
-        "options": [
-          "Je veux un café.",
-          "Je voudrais un café.",
-          "Donnez-moi un café."
-        ],
+        "options": ["Je veux un café.", "Je voudrais un café.", "Donnez-moi un café."],
         "answer": 1,
         "why": "The conditional voudrais is the standard polite request."
       },
@@ -3194,11 +2123,7 @@
       {
         "type": "mcq",
         "q": "After pouvoir, the next verb is in the:",
-        "options": [
-          "infinitive",
-          "present",
-          "past participle"
-        ],
+        "options": ["infinitive", "present", "past participle"],
         "answer": 0,
         "why": "All three modal verbs take a bare infinitive."
       }
@@ -3219,42 +2144,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Pronoun",
-          "se lever"
-        ],
+        "head": ["Person", "Pronoun", "se lever"],
         "rows": [
-          [
-            "je",
-            "me (m')",
-            "je me lève"
-          ],
-          [
-            "tu",
-            "te (t')",
-            "tu te lèves"
-          ],
-          [
-            "il/elle/on",
-            "se (s')",
-            "il se lève"
-          ],
-          [
-            "nous",
-            "nous",
-            "nous nous levons"
-          ],
-          [
-            "vous",
-            "vous",
-            "vous vous levez"
-          ],
-          [
-            "ils/elles",
-            "se (s')",
-            "ils se lèvent"
-          ]
+          ["je", "me (m')", "je me lève"],
+          ["tu", "te (t')", "tu te lèves"],
+          ["il/elle/on", "se (s')", "il se lève"],
+          ["nous", "nous", "nous nous levons"],
+          ["vous", "vous", "vous vous levez"],
+          ["ils/elles", "se (s')", "ils se lèvent"]
         ]
       },
       {
@@ -3263,47 +2160,17 @@
       },
       {
         "type": "table",
-        "head": [
-          "Verb",
-          "Meaning"
-        ],
+        "head": ["Verb", "Meaning"],
         "rows": [
-          [
-            "s'appeler",
-            "to be called"
-          ],
-          [
-            "se lever / se coucher",
-            "to get up / to go to bed"
-          ],
-          [
-            "se laver / se doucher",
-            "to wash / to shower"
-          ],
-          [
-            "s'habiller",
-            "to get dressed"
-          ],
-          [
-            "se dépêcher",
-            "to hurry"
-          ],
-          [
-            "se reposer",
-            "to rest"
-          ],
-          [
-            "s'amuser",
-            "to have fun"
-          ],
-          [
-            "se souvenir de",
-            "to remember"
-          ],
-          [
-            "s'intéresser à",
-            "to be interested in"
-          ]
+          ["s'appeler", "to be called"],
+          ["se lever / se coucher", "to get up / to go to bed"],
+          ["se laver / se doucher", "to wash / to shower"],
+          ["s'habiller", "to get dressed"],
+          ["se dépêcher", "to hurry"],
+          ["se reposer", "to rest"],
+          ["s'amuser", "to have fun"],
+          ["se souvenir de", "to remember"],
+          ["s'intéresser à", "to be interested in"]
         ]
       },
       {
@@ -3327,11 +2194,7 @@
       {
         "type": "mcq",
         "q": "In the passé composé, reflexive verbs take:",
-        "options": [
-          "avoir",
-          "être",
-          "either"
-        ],
+        "options": ["avoir", "être", "either"],
         "answer": 1,
         "why": "Always être."
       },
@@ -3358,86 +2221,25 @@
       },
       {
         "type": "table",
-        "head": [
-          "Infinitive ending",
-          "Participle ending",
-          "Example"
-        ],
+        "head": ["Infinitive ending", "Participle ending", "Example"],
         "rows": [
-          [
-            "-er",
-            "-é",
-            "parler → parlé"
-          ],
-          [
-            "-ir (regular)",
-            "-i",
-            "finir → fini"
-          ],
-          [
-            "-re",
-            "-u",
-            "attendre → attendu"
-          ]
+          ["-er", "-é", "parler → parlé"],
+          ["-ir (regular)", "-i", "finir → fini"],
+          ["-re", "-u", "attendre → attendu"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Irregular verb",
-          "Participle",
-          "Irregular verb",
-          "Participle"
-        ],
+        "head": ["Irregular verb", "Participle", "Irregular verb", "Participle"],
         "rows": [
-          [
-            "avoir",
-            "eu",
-            "être",
-            "été"
-          ],
-          [
-            "faire",
-            "fait",
-            "prendre",
-            "pris"
-          ],
-          [
-            "voir",
-            "vu",
-            "vouloir",
-            "voulu"
-          ],
-          [
-            "pouvoir",
-            "pu",
-            "devoir",
-            "dû"
-          ],
-          [
-            "savoir",
-            "su",
-            "boire",
-            "bu"
-          ],
-          [
-            "mettre",
-            "mis",
-            "écrire",
-            "écrit"
-          ],
-          [
-            "lire",
-            "lu",
-            "dire",
-            "dit"
-          ],
-          [
-            "ouvrir",
-            "ouvert",
-            "offrir",
-            "offert"
-          ]
+          ["avoir", "eu", "être", "été"],
+          ["faire", "fait", "prendre", "pris"],
+          ["voir", "vu", "vouloir", "voulu"],
+          ["pouvoir", "pu", "devoir", "dû"],
+          ["savoir", "su", "boire", "bu"],
+          ["mettre", "mis", "écrire", "écrit"],
+          ["lire", "lu", "dire", "dit"],
+          ["ouvrir", "ouvert", "offrir", "offert"]
         ]
       },
       {
@@ -3482,11 +2284,7 @@
       {
         "type": "mcq",
         "q": "Negate 'J'ai compris':",
-        "options": [
-          "Je n'ai compris pas.",
-          "Je n'ai pas compris.",
-          "Je ne compris pas."
-        ],
+        "options": ["Je n'ai compris pas.", "Je n'ai pas compris.", "Je ne compris pas."],
         "answer": 1,
         "why": "ne … pas surrounds the auxiliary."
       },
@@ -3513,91 +2311,26 @@
       },
       {
         "type": "table",
-        "head": [
-          "Verb",
-          "Participle",
-          "Verb",
-          "Participle"
-        ],
+        "head": ["Verb", "Participle", "Verb", "Participle"],
         "rows": [
-          [
-            "aller",
-            "allé",
-            "venir",
-            "venu"
-          ],
-          [
-            "arriver",
-            "arrivé",
-            "partir",
-            "parti"
-          ],
-          [
-            "entrer",
-            "entré",
-            "sortir",
-            "sorti"
-          ],
-          [
-            "monter",
-            "monté",
-            "descendre",
-            "descendu"
-          ],
-          [
-            "naître",
-            "né",
-            "mourir",
-            "mort"
-          ],
-          [
-            "rester",
-            "resté",
-            "tomber",
-            "tombé"
-          ],
-          [
-            "rentrer",
-            "rentré",
-            "retourner",
-            "retourné"
-          ],
-          [
-            "devenir",
-            "devenu",
-            "revenir",
-            "revenu"
-          ]
+          ["aller", "allé", "venir", "venu"],
+          ["arriver", "arrivé", "partir", "parti"],
+          ["entrer", "entré", "sortir", "sorti"],
+          ["monter", "monté", "descendre", "descendu"],
+          ["naître", "né", "mourir", "mort"],
+          ["rester", "resté", "tomber", "tombé"],
+          ["rentrer", "rentré", "retourner", "retourné"],
+          ["devenir", "devenu", "revenir", "revenu"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Subject",
-          "Agreement",
-          "Example"
-        ],
+        "head": ["Subject", "Agreement", "Example"],
         "rows": [
-          [
-            "masculine singular",
-            "no change",
-            "Il est parti."
-          ],
-          [
-            "feminine singular",
-            "+ e",
-            "Elle est partie."
-          ],
-          [
-            "masculine plural",
-            "+ s",
-            "Ils sont partis."
-          ],
-          [
-            "feminine plural",
-            "+ es",
-            "Elles sont parties."
-          ]
+          ["masculine singular", "no change", "Il est parti."],
+          ["feminine singular", "+ e", "Elle est partie."],
+          ["masculine plural", "+ s", "Ils sont partis."],
+          ["feminine plural", "+ es", "Elles sont parties."]
         ]
       },
       {
@@ -3644,22 +2377,14 @@
       {
         "type": "mcq",
         "q": "Which sentence is correct?",
-        "options": [
-          "Elle a partie.",
-          "Elle est partie.",
-          "Elle est parti."
-        ],
+        "options": ["Elle a partie.", "Elle est partie.", "Elle est parti."],
         "answer": 1,
         "why": "partir takes être and agrees with the feminine subject."
       },
       {
         "type": "mcq",
         "q": "'J'ai monté les valises' uses avoir because:",
-        "options": [
-          "monter never takes être",
-          "there is a direct object",
-          "it is informal"
-        ],
+        "options": ["monter never takes être", "there is a direct object", "it is informal"],
         "answer": 1,
         "why": "With a direct object, monter switches to avoir."
       }
@@ -3680,35 +2405,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "parler",
-          "finir",
-          "attendre",
-          "Meaning"
-        ],
+        "head": ["Person", "parler", "finir", "attendre", "Meaning"],
         "rows": [
-          [
-            "tu",
-            "Parle !",
-            "Finis !",
-            "Attends !",
-            "Speak! (to one person)"
-          ],
-          [
-            "nous",
-            "Parlons !",
-            "Finissons !",
-            "Attendons !",
-            "Let's speak!"
-          ],
-          [
-            "vous",
-            "Parlez !",
-            "Finissez !",
-            "Attendez !",
-            "Speak! (formal/plural)"
-          ]
+          ["tu", "Parle !", "Finis !", "Attends !", "Speak! (to one person)"],
+          ["nous", "Parlons !", "Finissons !", "Attendons !", "Let's speak!"],
+          ["vous", "Parlez !", "Finissez !", "Attendez !", "Speak! (formal/plural)"]
         ]
       },
       {
@@ -3763,11 +2464,7 @@
       {
         "type": "mcq",
         "q": "The imperative of être for vous is:",
-        "options": [
-          "êtes",
-          "soyez",
-          "soyons"
-        ],
+        "options": ["êtes", "soyez", "soyons"],
         "answer": 1,
         "why": "être is irregular: sois, soyons, soyez."
       },
@@ -3794,47 +2491,15 @@
       },
       {
         "type": "table",
-        "head": [
-          "Use",
-          "When followed by",
-          "Example"
-        ],
+        "head": ["Use", "When followed by", "Example"],
         "rows": [
-          [
-            "c'est",
-            "a noun with an article",
-            "C'est un bon restaurant."
-          ],
-          [
-            "c'est",
-            "a name",
-            "C'est Marie."
-          ],
-          [
-            "c'est",
-            "a stressed pronoun",
-            "C'est moi."
-          ],
-          [
-            "c'est",
-            "a general comment",
-            "C'est intéressant."
-          ],
-          [
-            "il / elle est",
-            "an adjective about a specific thing",
-            "Elle est intéressante."
-          ],
-          [
-            "il / elle est",
-            "a profession with no article",
-            "Il est ingénieur."
-          ],
-          [
-            "ce sont",
-            "a plural noun",
-            "Ce sont mes collègues."
-          ]
+          ["c'est", "a noun with an article", "C'est un bon restaurant."],
+          ["c'est", "a name", "C'est Marie."],
+          ["c'est", "a stressed pronoun", "C'est moi."],
+          ["c'est", "a general comment", "C'est intéressant."],
+          ["il / elle est", "an adjective about a specific thing", "Elle est intéressante."],
+          ["il / elle est", "a profession with no article", "Il est ingénieur."],
+          ["ce sont", "a plural noun", "Ce sont mes collègues."]
         ]
       },
       {
@@ -3881,10 +2546,7 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "Il est un médecin.",
-          "C'est un médecin."
-        ],
+        "options": ["Il est un médecin.", "C'est un médecin."],
         "answer": 1,
         "why": "Once un appears, you need c'est."
       },

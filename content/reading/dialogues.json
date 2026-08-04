@@ -1,126 +1,454 @@
 [
-{
-  "id": "dlg-01",
-  "level": "A1",
-  "title": "S'inscrire à un cours de français",
-  "titleEn": "Registering for a French course",
-  "context": "You walk into a language school reception to sign up for a course. This is the classic A1 encounter: greeting, name, spelling, personal details, and asking someone to repeat.",
-  "lines": [
-    { "speaker": "A", "fr": "Bonjour Madame.", "en": "Hello, Madam.", "note": "Bonjour works from morning until late afternoon; after that, bonsoir. Adding Madame or Monsieur is expected politeness with someone you do not know." },
-    { "speaker": "B", "fr": "Bonjour Monsieur. Je viens m'inscrire à un cours de français.", "en": "Hello, sir. I'm here to register for a French course.", "note": "Je viens + infinitive means 'I've come to do something'. S'inscrire is reflexive: you register yourself." },
-    { "speaker": "A", "fr": "Quel est votre nom, s'il vous plaît ?", "en": "What is your name, please?", "note": "Quel agrees with nom, which is masculine singular. Votre is the formal possessive." },
-    { "speaker": "B", "fr": "Pardon ? Vous pouvez répéter, s'il vous plaît ?", "en": "Sorry? Could you repeat that, please?", "note": "The single most useful sentence at A1. Pardon on its own signals you did not catch something." },
-    { "speaker": "A", "fr": "Comment vous appelez-vous ?", "en": "What is your name? (literally: how do you call yourself?)", "note": "The inverted form of the reflexive s'appeler. A is rephrasing to help B understand — very common in a language school." },
-    { "speaker": "B", "fr": "Je m'appelle Tien Nguyen.", "en": "My name is Tien Nguyen.", "note": "Je m'appelle, not 'mon nom est'. In formal settings French speakers give both names." },
-    { "speaker": "A", "fr": "Vous pouvez épeler votre nom de famille ?", "en": "Can you spell your surname?", "note": "Épeler is worth learning together with the French alphabet — the letters e, i, g and j are the ones that catch English speakers out." },
-    { "speaker": "B", "fr": "N-G-U-Y-E-N. Je suis vietnamien.", "en": "N-G-U-Y-E-N. I'm Vietnamese.", "note": "Nationalities take no article after être, and are written with a small letter: vietnamien, not Vietnamien." },
-    { "speaker": "A", "fr": "Quel âge avez-vous ?", "en": "How old are you?", "note": "Age uses avoir, not être. The question is literally 'what age do you have?'" },
-    { "speaker": "B", "fr": "J'ai trente ans.", "en": "I'm thirty.", "note": "The word ans cannot be dropped. 'J'ai trente' is not a sentence." },
-    { "speaker": "A", "fr": "Et quelle est votre adresse ?", "en": "And what's your address?", "note": "Quelle is feminine here because adresse is feminine — the same word, a different ending." },
-    { "speaker": "B", "fr": "J'habite au 12, rue Richmond, à London.", "en": "I live at 12 Richmond Street, in London.", "note": "à for a city, and the number comes before the street name, separated by a comma." },
-    { "speaker": "A", "fr": "Très bien. Les cours commencent lundi prochain à dix-huit heures.", "en": "Very good. Classes start next Monday at six p.m.", "note": "Official times use the 24-hour clock. Lundi with no article means one specific Monday." },
-    { "speaker": "B", "fr": "Parfait. Merci beaucoup, au revoir !", "en": "Perfect. Thank you very much, goodbye!", "note": "Merci beaucoup is warmer than a bare merci and costs you nothing." }
-  ],
-  "vocabulary": ["s'inscrire", "épeler", "le nom de famille", "l'adresse", "le cours", "prochain"],
-  "grammarFocus": ["Reflexive verbs", "Quel / quelle agreement", "avoir for age", "Formal vous"]
-},
-{
-  "id": "dlg-02",
-  "level": "A1",
-  "title": "Au café",
-  "titleEn": "At the café",
-  "context": "Ordering, asking the price, and paying. Everything here is transferable to a bakery, a restaurant or a ticket window.",
-  "lines": [
-    { "speaker": "Serveur", "fr": "Bonjour, qu'est-ce que je vous sers ?", "en": "Hello, what can I get you?", "note": "Servir here means 'to serve'. A more common variant is vous désirez ?" },
-    { "speaker": "Client", "fr": "Je voudrais un café et un croissant, s'il vous plaît.", "en": "I'd like a coffee and a croissant, please.", "note": "Je voudrais, the conditional of vouloir, is the standard polite order. Je veux would sound rude." },
-    { "speaker": "Serveur", "fr": "Un café allongé ou un expresso ?", "en": "A long coffee or an espresso?", "note": "Ou without an accent means 'or'; où with an accent means 'where'." },
-    { "speaker": "Client", "fr": "Un expresso, merci. Et vous avez du lait ?", "en": "An espresso, thanks. And do you have any milk?", "note": "Du is the partitive: an unspecified amount of milk. English drops 'any'; French cannot drop du." },
-    { "speaker": "Serveur", "fr": "Bien sûr. C'est pour ici ou à emporter ?", "en": "Of course. Is that to eat in or take away?", "note": "Pour ici / sur place versus à emporter — a question you will be asked constantly." },
-    { "speaker": "Client", "fr": "Sur place, s'il vous plaît. C'est combien ?", "en": "Eat in, please. How much is it?", "note": "C'est combien ? is the everyday way to ask a price. Combien coûte… ? is slightly more formal." },
-    { "speaker": "Serveur", "fr": "Ça fait quatre euros cinquante.", "en": "That comes to four euros fifty.", "note": "Ça fait is how totals are announced. The word euros comes between the two numbers." },
-    { "speaker": "Client", "fr": "Je peux payer par carte ?", "en": "Can I pay by card?", "note": "Payer par carte, payer en espèces. Note par with card and en with cash." },
-    { "speaker": "Serveur", "fr": "Oui, bien sûr. Voilà. Bonne journée !", "en": "Yes, of course. There you go. Have a good day!", "note": "Voilà accompanies handing something over. Bonne journée closes almost every transaction in France." }
-  ],
-  "vocabulary": ["servir", "à emporter", "sur place", "ça fait", "payer par carte", "bonne journée"],
-  "grammarFocus": ["Je voudrais", "Partitive du", "Asking prices"]
-},
-{
-  "id": "dlg-03",
-  "level": "A2",
-  "title": "Demander son chemin",
-  "titleEn": "Asking for directions",
-  "context": "You are lost. This dialogue combines prepositions of place, the imperative, and the vocabulary of the street.",
-  "lines": [
-    { "speaker": "A", "fr": "Excusez-moi, je cherche la gare. C'est loin d'ici ?", "en": "Excuse me, I'm looking for the station. Is it far from here?", "note": "Chercher already contains 'for' — never 'chercher pour'. Loin de contracts: loin d'ici." },
-    { "speaker": "B", "fr": "Non, c'est à dix minutes à pied. Vous allez tout droit jusqu'au feu.", "en": "No, it's ten minutes on foot. Go straight ahead as far as the traffic light.", "note": "à pied, à vélo — but en voiture. Jusqu'au is jusqu'à + le contracted." },
-    { "speaker": "A", "fr": "D'accord. Et ensuite ?", "en": "Okay. And then?", "note": "Ensuite is one of the four sequencing connectors worth automating: d'abord, ensuite, puis, enfin." },
-    { "speaker": "B", "fr": "Ensuite, vous tournez à gauche et vous traversez le pont.", "en": "Then you turn left and cross the bridge.", "note": "French often gives directions in the present tense rather than the imperative — it sounds less abrupt." },
-    { "speaker": "A", "fr": "Le pont, d'accord. La gare est après le pont ?", "en": "The bridge, okay. Is the station after the bridge?", "note": "Repeating the key word back is a genuine comprehension strategy, not a weakness." },
-    { "speaker": "B", "fr": "Exactement. Elle se trouve juste en face de la poste.", "en": "Exactly. It's right opposite the post office.", "note": "Se trouver ('to be located') is more idiomatic than être for places. En face de contracts with le: en face du." },
-    { "speaker": "A", "fr": "Merci beaucoup. Vous êtes très gentil.", "en": "Thank you very much. That's very kind of you.", "note": "Gentil agrees: gentille if you are speaking to a woman." },
-    { "speaker": "B", "fr": "Je vous en prie. Bonne journée !", "en": "You're welcome. Have a good day!", "note": "Je vous en prie is the formal counterpart of de rien." }
-  ],
-  "vocabulary": ["chercher", "tout droit", "le feu", "traverser", "se trouver", "en face de"],
-  "grammarFocus": ["Prepositions of place", "Contractions with à and de", "Sequencing connectors"]
-},
-{
-  "id": "dlg-04",
-  "level": "A2",
-  "title": "Chez le médecin",
-  "titleEn": "At the doctor's",
-  "context": "Describing symptoms, using depuis, and understanding instructions. Body-part vocabulary meets the imparfait.",
-  "lines": [
-    { "speaker": "Médecin", "fr": "Bonjour, qu'est-ce qui ne va pas ?", "en": "Hello, what seems to be the problem?", "note": "Literally 'what isn't going?'. Qu'est-ce qui is used when 'what' is the subject." },
-    { "speaker": "Patient", "fr": "J'ai mal à la gorge depuis trois jours.", "en": "I've had a sore throat for three days.", "note": "Two things at once: avoir mal à + body part, and depuis with the present tense because it is still true." },
-    { "speaker": "Médecin", "fr": "Vous avez de la fièvre ?", "en": "Do you have a fever?", "note": "De la is partitive — an unspecified amount of fever." },
-    { "speaker": "Patient", "fr": "Oui, un peu. Hier soir, j'avais trente-huit degrés.", "en": "Yes, a little. Last night I had thirty-eight degrees.", "note": "Imparfait for a state that lasted, rather than a single event." },
-    { "speaker": "Médecin", "fr": "Est-ce que vous toussez ?", "en": "Are you coughing?", "note": "French has no continuous tense — vous toussez covers both 'you cough' and 'you are coughing'." },
-    { "speaker": "Patient", "fr": "Oui, surtout la nuit. Je ne dors pas bien.", "en": "Yes, especially at night. I'm not sleeping well.", "note": "Surtout means 'especially' or 'above all'. Note the ne … pas around dors." },
-    { "speaker": "Médecin", "fr": "Ce n'est pas grave. Je vais vous prescrire un sirop.", "en": "It's nothing serious. I'm going to prescribe you a syrup.", "note": "Near future: aller + infinitive. Vous here is an indirect object pronoun, placed before the infinitive." },
-    { "speaker": "Patient", "fr": "Il faut le prendre combien de fois par jour ?", "en": "How many times a day should I take it?", "note": "Il faut for impersonal obligation, with le replacing sirop." },
-    { "speaker": "Médecin", "fr": "Trois fois par jour, après les repas. Et reposez-vous bien.", "en": "Three times a day, after meals. And get plenty of rest.", "note": "Reposez-vous is an affirmative reflexive imperative: pronoun after the verb, joined with a hyphen." }
-  ],
-  "vocabulary": ["avoir mal à", "la gorge", "la fièvre", "tousser", "prescrire", "se reposer"],
-  "grammarFocus": ["depuis + present", "Imparfait for past states", "Reflexive imperative", "il faut"]
-},
-{
-  "id": "dlg-05",
-  "level": "A2",
-  "title": "Un entretien d'embauche",
-  "titleEn": "A job interview",
-  "context": "Talking about your background, your current role and your plans. Almost identical to TCF speaking Task 1.",
-  "lines": [
-    { "speaker": "Recruteur", "fr": "Parlez-moi un peu de vous.", "en": "Tell me a bit about yourself.", "note": "The classic open prompt. Prepare a structured ninety-second answer for it." },
-    { "speaker": "Candidat", "fr": "Je m'appelle Tien, j'ai trente ans et je viens du Vietnam.", "en": "My name is Tien, I'm thirty and I come from Vietnam.", "note": "Venir de + masculine country → du Vietnam." },
-    { "speaker": "Candidat", "fr": "J'habite au Canada depuis quatre ans.", "en": "I have been living in Canada for four years.", "note": "Depuis with the present, because I still live there. Au Canada because le Canada is masculine." },
-    { "speaker": "Recruteur", "fr": "Et quelle est votre formation ?", "en": "And what is your educational background?", "note": "Formation covers both training and formal education." },
-    { "speaker": "Candidat", "fr": "Je suis diplômé en informatique depuis 2023.", "en": "I've had a degree in computer science since 2023.", "note": "Être diplômé en + field. Depuis with a date means 'since'." },
-    { "speaker": "Recruteur", "fr": "Qu'est-ce que vous faites actuellement ?", "en": "What are you doing at the moment?", "note": "Actuellement is a false friend: it means 'currently', not 'actually'." },
-    { "speaker": "Candidat", "fr": "Je travaille comme développeur logiciel dans une entreprise d'imprimerie.", "en": "I work as a software developer at a printing company.", "note": "Travailler comme + role with no article; dans une entreprise for the workplace." },
-    { "speaker": "Candidat", "fr": "Mon travail consiste à créer des programmes pour gérer les impressions.", "en": "My job involves creating programs to manage printing.", "note": "Consister à + infinitive is a useful step up from 'je fais'." },
-    { "speaker": "Recruteur", "fr": "Pourquoi apprenez-vous le français ?", "en": "Why are you learning French?", "note": "Inversion with vous — the formal register throughout." },
-    { "speaker": "Candidat", "fr": "D'abord pour mon travail, car nous avons des clients francophones. Mais surtout, j'aimerais vivre au Québec un jour.", "en": "First for my job, because we have French-speaking clients. But above all, I'd like to live in Quebec one day.", "note": "D'abord … mais surtout structures the answer; j'aimerais is the polite conditional for an aspiration." }
-  ],
-  "vocabulary": ["la formation", "diplômé en", "actuellement", "consister à", "francophone", "gérer"],
-  "grammarFocus": ["depuis", "Countries and prepositions", "Connectors", "Conditional for aspirations"]
-},
-{
-  "id": "dlg-06",
-  "level": "A2",
-  "title": "Raconter son week-end",
-  "titleEn": "Talking about your weekend",
-  "context": "The most common small-talk topic in any language class — and a workout for choosing between the passé composé and the imparfait.",
-  "lines": [
-    { "speaker": "A", "fr": "Alors, tu as passé un bon week-end ?", "en": "So, did you have a good weekend?", "note": "Passer un bon week-end, with the passé composé for a finished period." },
-    { "speaker": "B", "fr": "Oui, très bon ! Samedi, je suis allé à la campagne avec des amis.", "en": "Yes, very good! On Saturday I went to the countryside with friends.", "note": "Aller takes être in the passé composé: je suis allé(e)." },
-    { "speaker": "A", "fr": "Il faisait beau ?", "en": "Was the weather nice?", "note": "Weather as background scenery → imparfait." },
-    { "speaker": "B", "fr": "Il faisait très beau le matin, mais l'après-midi il a commencé à pleuvoir.", "en": "It was lovely in the morning, but in the afternoon it started to rain.", "note": "The contrast in one sentence: imparfait for the ongoing morning, passé composé for the moment the rain started." },
-    { "speaker": "A", "fr": "Qu'est-ce que vous avez fait alors ?", "en": "So what did you do?", "note": "Faire has the irregular participle fait." },
-    { "speaker": "B", "fr": "On est rentrés et on a joué aux cartes tout l'après-midi.", "en": "We went back and played cards all afternoon.", "note": "On means 'we' here; rentrer takes être, jouer takes avoir. Jouer à + les cartes gives aux cartes." },
-    { "speaker": "A", "fr": "Ça avait l'air sympa ! Et dimanche ?", "en": "That sounds nice! And Sunday?", "note": "Avoir l'air + adjective means 'to seem'." },
-    { "speaker": "B", "fr": "Dimanche, je me suis reposé. Je n'ai rien fait du tout.", "en": "On Sunday I rested. I did absolutely nothing.", "note": "Reflexive verbs take être. Ne … rien wraps the auxiliary; du tout intensifies it." }
-  ],
-  "vocabulary": ["passer un week-end", "la campagne", "avoir l'air", "se reposer", "jouer aux cartes", "du tout"],
-  "grammarFocus": ["Passé composé vs imparfait", "être vs avoir as auxiliary", "ne … rien"]
-}
+  {
+    "id": "dlg-01",
+    "level": "A1",
+    "title": "S'inscrire à un cours de français",
+    "titleEn": "Registering for a French course",
+    "context": "You walk into a language school reception to sign up for a course. This is the classic A1 encounter: greeting, name, spelling, personal details, and asking someone to repeat.",
+    "lines": [
+      {
+        "speaker": "A",
+        "fr": "Bonjour Madame.",
+        "en": "Hello, Madam.",
+        "note": "Bonjour works from morning until late afternoon; after that, bonsoir. Adding Madame or Monsieur is expected politeness with someone you do not know."
+      },
+      {
+        "speaker": "B",
+        "fr": "Bonjour Monsieur. Je viens m'inscrire à un cours de français.",
+        "en": "Hello, sir. I'm here to register for a French course.",
+        "note": "Je viens + infinitive means 'I've come to do something'. S'inscrire is reflexive: you register yourself."
+      },
+      {
+        "speaker": "A",
+        "fr": "Quel est votre nom, s'il vous plaît ?",
+        "en": "What is your name, please?",
+        "note": "Quel agrees with nom, which is masculine singular. Votre is the formal possessive."
+      },
+      {
+        "speaker": "B",
+        "fr": "Pardon ? Vous pouvez répéter, s'il vous plaît ?",
+        "en": "Sorry? Could you repeat that, please?",
+        "note": "The single most useful sentence at A1. Pardon on its own signals you did not catch something."
+      },
+      {
+        "speaker": "A",
+        "fr": "Comment vous appelez-vous ?",
+        "en": "What is your name? (literally: how do you call yourself?)",
+        "note": "The inverted form of the reflexive s'appeler. A is rephrasing to help B understand — very common in a language school."
+      },
+      {
+        "speaker": "B",
+        "fr": "Je m'appelle Tien Nguyen.",
+        "en": "My name is Tien Nguyen.",
+        "note": "Je m'appelle, not 'mon nom est'. In formal settings French speakers give both names."
+      },
+      {
+        "speaker": "A",
+        "fr": "Vous pouvez épeler votre nom de famille ?",
+        "en": "Can you spell your surname?",
+        "note": "Épeler is worth learning together with the French alphabet — the letters e, i, g and j are the ones that catch English speakers out."
+      },
+      {
+        "speaker": "B",
+        "fr": "N-G-U-Y-E-N. Je suis vietnamien.",
+        "en": "N-G-U-Y-E-N. I'm Vietnamese.",
+        "note": "Nationalities take no article after être, and are written with a small letter: vietnamien, not Vietnamien."
+      },
+      {
+        "speaker": "A",
+        "fr": "Quel âge avez-vous ?",
+        "en": "How old are you?",
+        "note": "Age uses avoir, not être. The question is literally 'what age do you have?'"
+      },
+      {
+        "speaker": "B",
+        "fr": "J'ai trente ans.",
+        "en": "I'm thirty.",
+        "note": "The word ans cannot be dropped. 'J'ai trente' is not a sentence."
+      },
+      {
+        "speaker": "A",
+        "fr": "Et quelle est votre adresse ?",
+        "en": "And what's your address?",
+        "note": "Quelle is feminine here because adresse is feminine — the same word, a different ending."
+      },
+      {
+        "speaker": "B",
+        "fr": "J'habite au 12, rue Richmond, à London.",
+        "en": "I live at 12 Richmond Street, in London.",
+        "note": "à for a city, and the number comes before the street name, separated by a comma."
+      },
+      {
+        "speaker": "A",
+        "fr": "Très bien. Les cours commencent lundi prochain à dix-huit heures.",
+        "en": "Very good. Classes start next Monday at six p.m.",
+        "note": "Official times use the 24-hour clock. Lundi with no article means one specific Monday."
+      },
+      {
+        "speaker": "B",
+        "fr": "Parfait. Merci beaucoup, au revoir !",
+        "en": "Perfect. Thank you very much, goodbye!",
+        "note": "Merci beaucoup is warmer than a bare merci and costs you nothing."
+      }
+    ],
+    "vocabulary": [
+      "s'inscrire",
+      "épeler",
+      "le nom de famille",
+      "l'adresse",
+      "le cours",
+      "prochain"
+    ],
+    "grammarFocus": ["Reflexive verbs", "Quel / quelle agreement", "avoir for age", "Formal vous"]
+  },
+  {
+    "id": "dlg-02",
+    "level": "A1",
+    "title": "Au café",
+    "titleEn": "At the café",
+    "context": "Ordering, asking the price, and paying. Everything here is transferable to a bakery, a restaurant or a ticket window.",
+    "lines": [
+      {
+        "speaker": "Serveur",
+        "fr": "Bonjour, qu'est-ce que je vous sers ?",
+        "en": "Hello, what can I get you?",
+        "note": "Servir here means 'to serve'. A more common variant is vous désirez ?"
+      },
+      {
+        "speaker": "Client",
+        "fr": "Je voudrais un café et un croissant, s'il vous plaît.",
+        "en": "I'd like a coffee and a croissant, please.",
+        "note": "Je voudrais, the conditional of vouloir, is the standard polite order. Je veux would sound rude."
+      },
+      {
+        "speaker": "Serveur",
+        "fr": "Un café allongé ou un expresso ?",
+        "en": "A long coffee or an espresso?",
+        "note": "Ou without an accent means 'or'; où with an accent means 'where'."
+      },
+      {
+        "speaker": "Client",
+        "fr": "Un expresso, merci. Et vous avez du lait ?",
+        "en": "An espresso, thanks. And do you have any milk?",
+        "note": "Du is the partitive: an unspecified amount of milk. English drops 'any'; French cannot drop du."
+      },
+      {
+        "speaker": "Serveur",
+        "fr": "Bien sûr. C'est pour ici ou à emporter ?",
+        "en": "Of course. Is that to eat in or take away?",
+        "note": "Pour ici / sur place versus à emporter — a question you will be asked constantly."
+      },
+      {
+        "speaker": "Client",
+        "fr": "Sur place, s'il vous plaît. C'est combien ?",
+        "en": "Eat in, please. How much is it?",
+        "note": "C'est combien ? is the everyday way to ask a price. Combien coûte… ? is slightly more formal."
+      },
+      {
+        "speaker": "Serveur",
+        "fr": "Ça fait quatre euros cinquante.",
+        "en": "That comes to four euros fifty.",
+        "note": "Ça fait is how totals are announced. The word euros comes between the two numbers."
+      },
+      {
+        "speaker": "Client",
+        "fr": "Je peux payer par carte ?",
+        "en": "Can I pay by card?",
+        "note": "Payer par carte, payer en espèces. Note par with card and en with cash."
+      },
+      {
+        "speaker": "Serveur",
+        "fr": "Oui, bien sûr. Voilà. Bonne journée !",
+        "en": "Yes, of course. There you go. Have a good day!",
+        "note": "Voilà accompanies handing something over. Bonne journée closes almost every transaction in France."
+      }
+    ],
+    "vocabulary": [
+      "servir",
+      "à emporter",
+      "sur place",
+      "ça fait",
+      "payer par carte",
+      "bonne journée"
+    ],
+    "grammarFocus": ["Je voudrais", "Partitive du", "Asking prices"]
+  },
+  {
+    "id": "dlg-03",
+    "level": "A2",
+    "title": "Demander son chemin",
+    "titleEn": "Asking for directions",
+    "context": "You are lost. This dialogue combines prepositions of place, the imperative, and the vocabulary of the street.",
+    "lines": [
+      {
+        "speaker": "A",
+        "fr": "Excusez-moi, je cherche la gare. C'est loin d'ici ?",
+        "en": "Excuse me, I'm looking for the station. Is it far from here?",
+        "note": "Chercher already contains 'for' — never 'chercher pour'. Loin de contracts: loin d'ici."
+      },
+      {
+        "speaker": "B",
+        "fr": "Non, c'est à dix minutes à pied. Vous allez tout droit jusqu'au feu.",
+        "en": "No, it's ten minutes on foot. Go straight ahead as far as the traffic light.",
+        "note": "à pied, à vélo — but en voiture. Jusqu'au is jusqu'à + le contracted."
+      },
+      {
+        "speaker": "A",
+        "fr": "D'accord. Et ensuite ?",
+        "en": "Okay. And then?",
+        "note": "Ensuite is one of the four sequencing connectors worth automating: d'abord, ensuite, puis, enfin."
+      },
+      {
+        "speaker": "B",
+        "fr": "Ensuite, vous tournez à gauche et vous traversez le pont.",
+        "en": "Then you turn left and cross the bridge.",
+        "note": "French often gives directions in the present tense rather than the imperative — it sounds less abrupt."
+      },
+      {
+        "speaker": "A",
+        "fr": "Le pont, d'accord. La gare est après le pont ?",
+        "en": "The bridge, okay. Is the station after the bridge?",
+        "note": "Repeating the key word back is a genuine comprehension strategy, not a weakness."
+      },
+      {
+        "speaker": "B",
+        "fr": "Exactement. Elle se trouve juste en face de la poste.",
+        "en": "Exactly. It's right opposite the post office.",
+        "note": "Se trouver ('to be located') is more idiomatic than être for places. En face de contracts with le: en face du."
+      },
+      {
+        "speaker": "A",
+        "fr": "Merci beaucoup. Vous êtes très gentil.",
+        "en": "Thank you very much. That's very kind of you.",
+        "note": "Gentil agrees: gentille if you are speaking to a woman."
+      },
+      {
+        "speaker": "B",
+        "fr": "Je vous en prie. Bonne journée !",
+        "en": "You're welcome. Have a good day!",
+        "note": "Je vous en prie is the formal counterpart of de rien."
+      }
+    ],
+    "vocabulary": ["chercher", "tout droit", "le feu", "traverser", "se trouver", "en face de"],
+    "grammarFocus": ["Prepositions of place", "Contractions with à and de", "Sequencing connectors"]
+  },
+  {
+    "id": "dlg-04",
+    "level": "A2",
+    "title": "Chez le médecin",
+    "titleEn": "At the doctor's",
+    "context": "Describing symptoms, using depuis, and understanding instructions. Body-part vocabulary meets the imparfait.",
+    "lines": [
+      {
+        "speaker": "Médecin",
+        "fr": "Bonjour, qu'est-ce qui ne va pas ?",
+        "en": "Hello, what seems to be the problem?",
+        "note": "Literally 'what isn't going?'. Qu'est-ce qui is used when 'what' is the subject."
+      },
+      {
+        "speaker": "Patient",
+        "fr": "J'ai mal à la gorge depuis trois jours.",
+        "en": "I've had a sore throat for three days.",
+        "note": "Two things at once: avoir mal à + body part, and depuis with the present tense because it is still true."
+      },
+      {
+        "speaker": "Médecin",
+        "fr": "Vous avez de la fièvre ?",
+        "en": "Do you have a fever?",
+        "note": "De la is partitive — an unspecified amount of fever."
+      },
+      {
+        "speaker": "Patient",
+        "fr": "Oui, un peu. Hier soir, j'avais trente-huit degrés.",
+        "en": "Yes, a little. Last night I had thirty-eight degrees.",
+        "note": "Imparfait for a state that lasted, rather than a single event."
+      },
+      {
+        "speaker": "Médecin",
+        "fr": "Est-ce que vous toussez ?",
+        "en": "Are you coughing?",
+        "note": "French has no continuous tense — vous toussez covers both 'you cough' and 'you are coughing'."
+      },
+      {
+        "speaker": "Patient",
+        "fr": "Oui, surtout la nuit. Je ne dors pas bien.",
+        "en": "Yes, especially at night. I'm not sleeping well.",
+        "note": "Surtout means 'especially' or 'above all'. Note the ne … pas around dors."
+      },
+      {
+        "speaker": "Médecin",
+        "fr": "Ce n'est pas grave. Je vais vous prescrire un sirop.",
+        "en": "It's nothing serious. I'm going to prescribe you a syrup.",
+        "note": "Near future: aller + infinitive. Vous here is an indirect object pronoun, placed before the infinitive."
+      },
+      {
+        "speaker": "Patient",
+        "fr": "Il faut le prendre combien de fois par jour ?",
+        "en": "How many times a day should I take it?",
+        "note": "Il faut for impersonal obligation, with le replacing sirop."
+      },
+      {
+        "speaker": "Médecin",
+        "fr": "Trois fois par jour, après les repas. Et reposez-vous bien.",
+        "en": "Three times a day, after meals. And get plenty of rest.",
+        "note": "Reposez-vous is an affirmative reflexive imperative: pronoun after the verb, joined with a hyphen."
+      }
+    ],
+    "vocabulary": ["avoir mal à", "la gorge", "la fièvre", "tousser", "prescrire", "se reposer"],
+    "grammarFocus": [
+      "depuis + present",
+      "Imparfait for past states",
+      "Reflexive imperative",
+      "il faut"
+    ]
+  },
+  {
+    "id": "dlg-05",
+    "level": "A2",
+    "title": "Un entretien d'embauche",
+    "titleEn": "A job interview",
+    "context": "Talking about your background, your current role and your plans. Almost identical to TCF speaking Task 1.",
+    "lines": [
+      {
+        "speaker": "Recruteur",
+        "fr": "Parlez-moi un peu de vous.",
+        "en": "Tell me a bit about yourself.",
+        "note": "The classic open prompt. Prepare a structured ninety-second answer for it."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "Je m'appelle Tien, j'ai trente ans et je viens du Vietnam.",
+        "en": "My name is Tien, I'm thirty and I come from Vietnam.",
+        "note": "Venir de + masculine country → du Vietnam."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "J'habite au Canada depuis quatre ans.",
+        "en": "I have been living in Canada for four years.",
+        "note": "Depuis with the present, because I still live there. Au Canada because le Canada is masculine."
+      },
+      {
+        "speaker": "Recruteur",
+        "fr": "Et quelle est votre formation ?",
+        "en": "And what is your educational background?",
+        "note": "Formation covers both training and formal education."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "Je suis diplômé en informatique depuis 2023.",
+        "en": "I've had a degree in computer science since 2023.",
+        "note": "Être diplômé en + field. Depuis with a date means 'since'."
+      },
+      {
+        "speaker": "Recruteur",
+        "fr": "Qu'est-ce que vous faites actuellement ?",
+        "en": "What are you doing at the moment?",
+        "note": "Actuellement is a false friend: it means 'currently', not 'actually'."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "Je travaille comme développeur logiciel dans une entreprise d'imprimerie.",
+        "en": "I work as a software developer at a printing company.",
+        "note": "Travailler comme + role with no article; dans une entreprise for the workplace."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "Mon travail consiste à créer des programmes pour gérer les impressions.",
+        "en": "My job involves creating programs to manage printing.",
+        "note": "Consister à + infinitive is a useful step up from 'je fais'."
+      },
+      {
+        "speaker": "Recruteur",
+        "fr": "Pourquoi apprenez-vous le français ?",
+        "en": "Why are you learning French?",
+        "note": "Inversion with vous — the formal register throughout."
+      },
+      {
+        "speaker": "Candidat",
+        "fr": "D'abord pour mon travail, car nous avons des clients francophones. Mais surtout, j'aimerais vivre au Québec un jour.",
+        "en": "First for my job, because we have French-speaking clients. But above all, I'd like to live in Quebec one day.",
+        "note": "D'abord … mais surtout structures the answer; j'aimerais is the polite conditional for an aspiration."
+      }
+    ],
+    "vocabulary": [
+      "la formation",
+      "diplômé en",
+      "actuellement",
+      "consister à",
+      "francophone",
+      "gérer"
+    ],
+    "grammarFocus": [
+      "depuis",
+      "Countries and prepositions",
+      "Connectors",
+      "Conditional for aspirations"
+    ]
+  },
+  {
+    "id": "dlg-06",
+    "level": "A2",
+    "title": "Raconter son week-end",
+    "titleEn": "Talking about your weekend",
+    "context": "The most common small-talk topic in any language class — and a workout for choosing between the passé composé and the imparfait.",
+    "lines": [
+      {
+        "speaker": "A",
+        "fr": "Alors, tu as passé un bon week-end ?",
+        "en": "So, did you have a good weekend?",
+        "note": "Passer un bon week-end, with the passé composé for a finished period."
+      },
+      {
+        "speaker": "B",
+        "fr": "Oui, très bon ! Samedi, je suis allé à la campagne avec des amis.",
+        "en": "Yes, very good! On Saturday I went to the countryside with friends.",
+        "note": "Aller takes être in the passé composé: je suis allé(e)."
+      },
+      {
+        "speaker": "A",
+        "fr": "Il faisait beau ?",
+        "en": "Was the weather nice?",
+        "note": "Weather as background scenery → imparfait."
+      },
+      {
+        "speaker": "B",
+        "fr": "Il faisait très beau le matin, mais l'après-midi il a commencé à pleuvoir.",
+        "en": "It was lovely in the morning, but in the afternoon it started to rain.",
+        "note": "The contrast in one sentence: imparfait for the ongoing morning, passé composé for the moment the rain started."
+      },
+      {
+        "speaker": "A",
+        "fr": "Qu'est-ce que vous avez fait alors ?",
+        "en": "So what did you do?",
+        "note": "Faire has the irregular participle fait."
+      },
+      {
+        "speaker": "B",
+        "fr": "On est rentrés et on a joué aux cartes tout l'après-midi.",
+        "en": "We went back and played cards all afternoon.",
+        "note": "On means 'we' here; rentrer takes être, jouer takes avoir. Jouer à + les cartes gives aux cartes."
+      },
+      {
+        "speaker": "A",
+        "fr": "Ça avait l'air sympa ! Et dimanche ?",
+        "en": "That sounds nice! And Sunday?",
+        "note": "Avoir l'air + adjective means 'to seem'."
+      },
+      {
+        "speaker": "B",
+        "fr": "Dimanche, je me suis reposé. Je n'ai rien fait du tout.",
+        "en": "On Sunday I rested. I did absolutely nothing.",
+        "note": "Reflexive verbs take être. Ne … rien wraps the auxiliary; du tout intensifies it."
+      }
+    ],
+    "vocabulary": [
+      "passer un week-end",
+      "la campagne",
+      "avoir l'air",
+      "se reposer",
+      "jouer aux cartes",
+      "du tout"
+    ],
+    "grammarFocus": ["Passé composé vs imparfait", "être vs avoir as auxiliary", "ne … rien"]
+  }
 ]

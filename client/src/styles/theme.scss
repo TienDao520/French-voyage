@@ -1,0 +1,634 @@
+// =============================================================================
+// French Voyage theme — a Bootstrap 5 override layer
+// -----------------------------------------------------------------------------
+// The visual language is the journey itself: mid-century French travel posters
+// and "par avion" airmail. Cream poster paper, marine blue, poster red, brass
+// for mastery. Every vocabulary card is drawn as a POSTCARD — a stamp box in
+// the corner, and a flip that turns it over to reveal the message on the back,
+// which is framed by the classic red/blue airmail border.
+//
+// French text is set in EB Garamond — a revival of type cut by Claude
+// Garamond, a 16th-century Parisian punchcutter — so the French literally
+// reads in a French face.
+//
+// Verb-group colours are kept identical to the printed conjugation charts the
+// content was transcribed from (lavender = irregular, yellow = -er,
+// orange = -ir, teal = -re), so the site and the paper charts agree.
+// =============================================================================
+
+// --- Palette (Sass variables) ------------------------------------------------
+// These exist at COMPILE TIME only. Bootstrap's Sass does colour math on them
+// (tint/shade for hovers, contrast checks), which is why they are plain hex
+// here and not CSS custom properties — Sass can't do math on a var() it can't
+// see. Everything the BROWSER needs at runtime is re-declared below in :root
+// using the modern rgb(r g b / a) syntax.
+$encre: #232839; // ink — deep marine-tinted near-black
+$papier: #f6f1e7; // aged poster cream
+$bleu: #204a9a; // bleu marine, poster-deep
+$rouge: #bf362f; // rouge affiche — poster red
+$or: #b48d42; // brass / gold foil — mastery only
+$vert: #1a7558; // correct
+$ardoise: #5e6474; // muted slate text
+
+// Verb-group coding, matching the printed charts (do not restyle these).
+$group-er: #f2d33c;
+$group-ir: #f38220;
+$group-re: #2ea8a0;
+$group-irregular: #b2a0e2;
+
+// --- Bootstrap variable overrides -------------------------------------------
+// @use ... with(...) configures Bootstrap's !default variables BEFORE it
+// compiles, so every button, badge and alert is generated in our palette.
+// (Sass allows plain variable declarations above @use precisely so they can
+// be referenced inside the with(...) clause.)
+@use 'bootstrap/scss/bootstrap' with (
+  $primary: $bleu,
+  $secondary: $ardoise,
+  $success: $vert,
+  $danger: $rouge,
+  $warning: $or,
+  $info: $group-re,
+  $dark: $encre,
+  $light: $papier,
+  $body-bg: $papier,
+  $body-color: $encre,
+  $font-family-sans-serif: (
+    'Inter',
+    system-ui,
+    -apple-system,
+    sans-serif,
+  ),
+  $font-family-monospace: (
+    'IBM Plex Mono',
+    ui-monospace,
+    monospace,
+  ),
+  $headings-font-family: (
+    'Fraunces',
+    Georgia,
+    serif,
+  ),
+  $headings-font-weight: 700,
+  $border-radius: 0.5rem,
+  $border-radius-lg: 0.875rem,
+  $border-radius-sm: 0.3rem,
+  $link-decoration: none,
+  $enable-shadows: false,
+  $enable-gradients: false
+);
+
+// --- Design tokens -----------------------------------------------------------
+// Runtime tokens as CSS custom properties, in modern rgb(r g b / alpha)
+// syntax. Custom properties (unlike the Sass vars above) can be swapped live
+// by the [data-theme='dark'] block — that is the entire dark-mode mechanism.
+:root {
+  --fv-encre: rgb(35 40 57);
+  --fv-papier: rgb(246 241 231);
+  --fv-surface: rgb(255 253 248);
+  --fv-surface-sunk: rgb(238 231 217);
+  --fv-line: rgb(35 40 57 / 0.12);
+  --fv-line-strong: rgb(35 40 57 / 0.28);
+  --fv-muted: rgb(94 100 116);
+  --fv-bleu: rgb(32 74 154);
+  --fv-bleu-soft: rgb(32 74 154 / 0.08);
+  --fv-rouge: rgb(191 54 47);
+  --fv-rouge-soft: rgb(191 54 47 / 0.08);
+  --fv-or: rgb(180 141 66);
+  --fv-vert: rgb(26 117 88);
+  --fv-vert-soft: rgb(26 117 88 / 0.1);
+
+  --fv-group-er: rgb(242 211 60);
+  --fv-group-ir: rgb(243 130 32);
+  --fv-group-re: rgb(46 168 160);
+  --fv-group-irregular: rgb(178 160 226);
+
+  --fv-display: 'Fraunces', Georgia, serif;
+  --fv-ui: 'Inter', system-ui, sans-serif;
+  --fv-serif: 'EB Garamond', Georgia, serif;
+  --fv-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  --fv-shadow-card: 0 1px 2px rgb(35 40 57 / 0.06), 0 8px 24px rgb(35 40 57 / 0.08);
+  --fv-shadow-lift: 0 4px 8px rgb(35 40 57 / 0.08), 0 18px 40px rgb(35 40 57 / 0.14);
+  --fv-radius: 0.75rem;
+  --fv-step: 1.5rem;
+}
+
+// Night-train palette. Only the tokens change — every rule below reads
+// through var(), so no component needs a .dark variant of its own.
+[data-theme='dark'] {
+  --fv-encre: rgb(235 232 224);
+  --fv-papier: rgb(20 23 32);
+  --fv-surface: rgb(29 33 44);
+  --fv-surface-sunk: rgb(24 27 37);
+  --fv-line: rgb(235 232 224 / 0.14);
+  --fv-line-strong: rgb(235 232 224 / 0.32);
+  --fv-muted: rgb(158 164 180);
+  --fv-bleu: rgb(130 160 240);
+  --fv-bleu-soft: rgb(130 160 240 / 0.14);
+  --fv-rouge: rgb(235 120 112);
+  --fv-rouge-soft: rgb(235 120 112 / 0.14);
+  --fv-or: rgb(219 181 105);
+  --fv-vert: rgb(98 191 156);
+  --fv-vert-soft: rgb(98 191 156 / 0.14);
+  --fv-shadow-card: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px rgb(0 0 0 / 0.35);
+  --fv-shadow-lift: 0 4px 8px rgb(0 0 0 / 0.45), 0 18px 40px rgb(0 0 0 / 0.5);
+}
+
+// --- Base --------------------------------------------------------------------
+body {
+  background: var(--fv-papier);
+  color: var(--fv-encre);
+  font-family: var(--fv-ui);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: var(--fv-display);
+  letter-spacing: -0.015em;
+}
+
+// clamp(min, preferred, max): fluid type without media queries.
+h1 {
+  font-size: clamp(2rem, 1.4rem + 2.6vw, 3.4rem);
+  line-height: 1.06;
+}
+h2 {
+  font-size: clamp(1.4rem, 1.1rem + 1.3vw, 2.1rem);
+  line-height: 1.14;
+}
+
+a {
+  color: var(--fv-bleu);
+}
+a:hover {
+  color: var(--fv-bleu);
+  text-decoration: underline;
+}
+
+// Accessibility: first Tab press reveals a jump-to-content link.
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 2000;
+  background: var(--fv-encre);
+  color: var(--fv-papier);
+  padding: 0.6rem 1rem;
+}
+.skip-link:focus {
+  left: 0;
+}
+
+// :focus-visible fires for keyboard focus, not mouse clicks.
+:focus-visible {
+  outline: 3px solid var(--fv-bleu);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+// --- Typographic roles -------------------------------------------------------
+// French content is set in Garamond so it reads differently from the UI —
+// the eye learns "serif = the language, sans = the interface".
+.fr {
+  font-family: var(--fv-serif);
+  font-size: 1.12em;
+  line-height: 1.5;
+}
+.en {
+  color: var(--fv-muted);
+  font-size: 0.94em;
+}
+.eyebrow {
+  font-family: var(--fv-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--fv-muted);
+}
+
+// --- Level and group badges --------------------------------------------------
+.badge-level {
+  font-family: var(--fv-mono);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  padding: 0.16rem 0.42rem;
+  border: 1px solid currentColor;
+  border-radius: 3px;
+}
+.badge-level.a1 {
+  color: var(--fv-bleu);
+}
+.badge-level.a2 {
+  color: var(--fv-rouge);
+}
+
+// The ::before square is the colour swatch; --chip is a per-group override
+// with a fallback, so an unknown group degrades gracefully to a neutral chip.
+.group-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+.group-chip::before {
+  content: '';
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 2px;
+  background: var(--chip, var(--fv-line-strong));
+}
+.group-er::before {
+  --chip: var(--fv-group-er);
+}
+.group-ir::before {
+  --chip: var(--fv-group-ir);
+}
+.group-re::before {
+  --chip: var(--fv-group-re);
+}
+.group-irregular::before {
+  --chip: var(--fv-group-irregular);
+}
+
+// --- Surfaces ----------------------------------------------------------------
+.panel {
+  background: var(--fv-surface);
+  border: 1px solid var(--fv-line);
+  border-radius: var(--fv-radius);
+  box-shadow: var(--fv-shadow-card);
+}
+.panel-flat {
+  background: var(--fv-surface);
+  border: 1px solid var(--fv-line);
+  border-radius: var(--fv-radius);
+}
+
+.callout {
+  border-left: 3px solid var(--fv-line-strong);
+  padding: 0.85rem 1rem;
+  border-radius: 0 var(--fv-radius) var(--fv-radius) 0;
+  background: var(--fv-surface-sunk);
+}
+.callout-tip {
+  border-left-color: var(--fv-vert);
+  background: var(--fv-vert-soft);
+}
+.callout-pitfall {
+  border-left-color: var(--fv-rouge);
+  background: var(--fv-rouge-soft);
+}
+
+// --- The signature: a postcard ----------------------------------------------
+// Every vocabulary item is a flashcard, and every flashcard is a postcard:
+// a stamp box in the corner, corner indices like a collector's mark, and a
+// flip that turns it over to read the back.
+.deck-card {
+  position: relative;
+  aspect-ratio: 7 / 5; // postcards are landscape; playing cards are portrait
+  background: var(--fv-surface);
+  border: 1px solid var(--fv-line-strong);
+  border-radius: 0.6rem;
+  box-shadow: var(--fv-shadow-card);
+  padding: 1.25rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  user-select: none;
+}
+// Corner index — theme tag or level, like a collector's pencil mark.
+.deck-card .pip {
+  position: absolute;
+  font-family: var(--fv-mono);
+  font-size: 0.8rem;
+  font-weight: 500;
+  line-height: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+}
+.deck-card .pip-tl {
+  top: 0.7rem;
+  left: 0.8rem;
+}
+.deck-card .pip-br {
+  bottom: 0.7rem;
+  right: 0.8rem;
+  transform: rotate(180deg);
+}
+.deck-card.suit-red .pip {
+  color: var(--fv-rouge);
+}
+.deck-card.suit-black .pip {
+  color: var(--fv-encre);
+}
+// The empty stamp box, waiting for its stamp — dashed like a real one.
+.deck-card .stamp {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.8rem;
+  width: 2.1rem;
+  height: 2.5rem;
+  border: 1px dashed var(--fv-line-strong);
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--fv-mono);
+  font-size: 0.65rem;
+  color: var(--fv-muted);
+}
+
+// The 3D flip. perspective on the parent gives depth; preserve-3d lets the
+// two faces occupy the same space; backface-visibility hides whichever face
+// is turned away. Flipping is just one class toggle on .flip-scene.
+.flip-scene {
+  perspective: 1400px;
+}
+.flip-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+  transform-style: preserve-3d;
+}
+.flip-scene.is-flipped .flip-inner {
+  transform: rotateY(180deg);
+}
+.flip-face {
+  position: absolute;
+  inset: 0;
+  backface-visibility: hidden;
+}
+.flip-face-back {
+  transform: rotateY(180deg);
+}
+
+// The card back: the classic par-avion airmail border. Trick: border-image
+// ignores border-radius, so instead we stack TWO backgrounds — a solid fill
+// clipped to padding-box laid over the stripes clipped to border-box — and
+// let a thick transparent border expose the stripes only at the edge.
+.card-back {
+  border: 9px solid transparent;
+  border-radius: 0.6rem;
+  background:
+    linear-gradient(var(--fv-surface), var(--fv-surface)) padding-box,
+    repeating-linear-gradient(
+        45deg,
+        var(--fv-bleu) 0 12px,
+        var(--fv-surface) 12px 18px,
+        var(--fv-rouge) 18px 30px,
+        var(--fv-surface) 30px 36px
+      )
+      border-box;
+  box-shadow: var(--fv-shadow-card);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--fv-encre);
+  font-family: var(--fv-display);
+  font-size: 1.6rem;
+}
+
+// --- Conjugation tables ------------------------------------------------------
+// Monospace so the endings line up vertically — the pattern IS the lesson.
+.conj-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--fv-mono);
+  font-size: 0.86rem;
+}
+.conj-table th {
+  font-family: var(--fv-ui);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--fv-muted);
+  font-weight: 600;
+  text-align: left;
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--fv-line-strong);
+  white-space: nowrap;
+}
+.conj-table td {
+  padding: 0.42rem 0.7rem;
+  border-bottom: 1px solid var(--fv-line);
+  white-space: nowrap;
+}
+.conj-table tbody tr:hover {
+  background: var(--fv-bleu-soft);
+}
+.conj-table .person {
+  font-family: var(--fv-ui);
+  font-weight: 600;
+  color: var(--fv-muted);
+}
+.table-scroll {
+  overflow-x: auto;
+}
+
+// --- Grammar tables ----------------------------------------------------------
+.grammar-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+.grammar-table th {
+  text-align: left;
+  font-weight: 600;
+  font-size: 0.74rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--fv-muted);
+  padding: 0.55rem 0.7rem;
+  border-bottom: 1px solid var(--fv-line-strong);
+}
+.grammar-table td {
+  padding: 0.5rem 0.7rem;
+  border-bottom: 1px solid var(--fv-line);
+  vertical-align: top;
+}
+
+// --- Quiz feedback -----------------------------------------------------------
+.opt {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background: var(--fv-surface);
+  border: 1px solid var(--fv-line);
+  border-radius: 0.55rem;
+  padding: 0.65rem 0.9rem;
+  margin-bottom: 0.5rem;
+  transition:
+    border-color 0.15s,
+    background 0.15s;
+}
+.opt:hover:not(:disabled) {
+  border-color: var(--fv-line-strong);
+}
+.opt.is-correct {
+  border-color: var(--fv-vert);
+  background: var(--fv-vert-soft);
+}
+.opt.is-wrong {
+  border-color: var(--fv-rouge);
+  background: var(--fv-rouge-soft);
+}
+
+// --- Progress ----------------------------------------------------------------
+.meter {
+  height: 5px;
+  border-radius: 3px;
+  background: var(--fv-surface-sunk);
+  overflow: hidden;
+}
+.meter > span {
+  display: block;
+  height: 100%;
+  background: var(--fv-bleu);
+  transition: width 0.4s ease;
+}
+.meter.gold > span {
+  background: var(--fv-or);
+}
+
+// Review heatmap: 7 rows (a week per column), like a stamp album grid.
+.heat {
+  display: grid;
+  grid-template-rows: repeat(7, 10px);
+  grid-auto-flow: column;
+  gap: 3px;
+}
+.heat i {
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+  background: var(--fv-surface-sunk);
+}
+.heat i[data-l='1'] {
+  background: rgb(32 74 154 / 0.3);
+}
+.heat i[data-l='2'] {
+  background: rgb(32 74 154 / 0.55);
+}
+.heat i[data-l='3'] {
+  background: rgb(32 74 154 / 0.8);
+}
+.heat i[data-l='4'] {
+  background: rgb(32 74 154 / 1);
+}
+
+// --- Navigation --------------------------------------------------------------
+.fv-nav {
+  background: var(--fv-surface);
+  border-bottom: 1px solid var(--fv-line);
+  position: sticky;
+  top: 0;
+  z-index: 1030; // above Bootstrap dropdowns (1000), below its modals (1050)
+}
+.fv-nav .brand {
+  font-family: var(--fv-display);
+  font-weight: 700;
+  font-size: 1.3rem;
+  letter-spacing: -0.02em;
+  color: var(--fv-encre);
+}
+.fv-nav a.nav-link {
+  color: var(--fv-muted);
+  font-weight: 500;
+  font-size: 0.92rem;
+  padding: 0.35rem 0.7rem;
+  border-radius: 0.4rem;
+}
+.fv-nav a.nav-link:hover {
+  color: var(--fv-encre);
+  background: var(--fv-surface-sunk);
+  text-decoration: none;
+}
+.fv-nav a.nav-link.active {
+  color: var(--fv-bleu);
+  background: var(--fv-bleu-soft);
+}
+
+// --- Home hero: postcards on the desk ---------------------------------------
+.hand {
+  position: relative;
+  height: 320px;
+}
+.hand .deck-card {
+  position: absolute;
+  width: 210px;
+  left: 50%;
+  top: 40px;
+  transform-origin: 50% 120%;
+  animation: deal 0.7s cubic-bezier(0.2, 0.9, 0.25, 1) backwards;
+  padding: 1rem 0.75rem;
+}
+@keyframes deal {
+  from {
+    opacity: 0;
+    transform: translate(-50%, 60px) rotate(0deg) scale(0.9);
+  }
+}
+
+// --- Utilities ---------------------------------------------------------------
+.speak-btn {
+  border: 1px solid var(--fv-line);
+  background: transparent;
+  border-radius: 999px;
+  width: 1.9rem;
+  height: 1.9rem;
+  line-height: 1;
+  color: var(--fv-muted);
+  flex: none;
+}
+.speak-btn:hover {
+  color: var(--fv-bleu);
+  border-color: var(--fv-bleu);
+}
+
+// Owl selector: every child except the first gets top margin — vertical
+// rhythm without touching the components themselves.
+.stack > * + * {
+  margin-top: var(--fv-step);
+}
+.rule {
+  border: 0;
+  border-top: 1px solid var(--fv-line);
+  margin: 1.5rem 0;
+}
+.text-muted-2 {
+  color: var(--fv-muted) !important;
+}
+.kbd {
+  font-family: var(--fv-mono);
+  font-size: 0.72rem;
+  border: 1px solid var(--fv-line-strong);
+  border-bottom-width: 2px;
+  border-radius: 4px;
+  padding: 0.05rem 0.35rem;
+  color: var(--fv-muted);
+}
+
+// Respect the OS-level "reduce motion" setting: kill animation durations,
+// but keep the flip's END STATE so the card back is still reachable.
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+  .flip-scene.is-flipped .flip-inner {
+    transform: rotateY(180deg);
+  }
+}

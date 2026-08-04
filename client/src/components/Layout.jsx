@@ -1,4 +1,5 @@
-import { NavLink, Outlet } from 'react-router-dom';
+import { NavLink, Outlet, Link } from 'react-router-dom';
+import { useState } from 'react';
 
 const links = [
   { to: '/', label: 'Home', end: true },
@@ -14,37 +15,87 @@ const links = [
 ];
 
 function Layout() {
+  const [dark, setDark] = useState(false);
+  const [open, setOpen] = useState(false);
+
+  function toggleTheme() {
+    const next = !dark;
+    setDark(next);
+    // theme.scss watches this attribute; flipping it swaps every --fv-* token.
+    document.documentElement.dataset.theme = next ? 'dark' : 'light';
+  }
+
+  // Skip-link handler: don't change the URL (HashRouter owns the hash);
+  // just move keyboard focus straight to the main content region.
+  function skipToMain(e) {
+    e.preventDefault();
+    document.getElementById('main')?.focus();
+  }
+
   return (
-    <div>
-      <header>
-        <h1>🗼 French Voyage</h1>
-        <nav>
-          {links.map((link) => (
-            //loops over every element in an array and creates something new
-            //NavLink knows whether its own to matches the current URL and exposes that as isActive in a render-prop style, which is how you bold the current page in nav without hand-rolling that logic
-            <NavLink
-              key={link.to}
-              to={link.to}
-              //emd: Only match the URL exactly - Home page only
-              end={link.end}
-              //the style is a function - ({ isActive }) is JavaScript destructuring.
-              style={({ isActive }) => ({
-                marginRight: '1rem',
-                // the active page becomes bold automatically.
-                fontWeight: isActive ? 'bold' : 'normal',
-              })}
-            >
-              {link.label}
-            </NavLink>
-          ))}
+    <>
+      {/* Hidden off-screen until it receives keyboard focus (Tab). */}
+      <a className="skip-link" href="#main" onClick={skipToMain}>
+        Skip to content
+      </a>
+
+      <header className="fv-nav">
+        <nav className="container d-flex align-items-center gap-3 py-2" aria-label="Main">
+          <Link to="/" className="brand text-decoration-none d-flex align-items-center gap-2">
+            <span aria-hidden="true">🗼</span> French Voyage
+          </Link>
+
+          {/* Only exists below the lg breakpoint */}
+          <button
+            className="btn btn-sm btn-outline-secondary d-lg-none ms-auto"
+            onClick={() => setOpen((o) => !o)}
+            aria-expanded={open}
+            aria-controls="main-nav"
+          >
+            Menu
+          </button>
+
+          <ul
+            id="main-nav"
+            className={`nav flex-column flex-lg-row mb-0 ${open ? 'd-flex' : 'd-none'} d-lg-flex w-100 w-lg-auto`}
+          >
+            {links.map((link) => (
+              <li className="nav-item" key={link.to}>
+                <NavLink
+                  className="nav-link"
+                  to={link.to}
+                  end={link.end}
+                  onClick={() => setOpen(false)}
+                >
+                  {link.label}
+                </NavLink>
+              </li>
+            ))}
+          </ul>
+
+          <button
+            className="btn btn-sm btn-outline-secondary ms-auto ms-lg-0 flex-shrink-0"
+            onClick={toggleTheme}
+            aria-label={dark ? 'Switch to light mode' : 'Switch to dark mode'}
+          >
+            {dark ? '☀' : '☾'}
+          </button>
         </nav>
       </header>
 
-      <main style={{ padding: '1.5rem' }}>
+      <main id="main" tabIndex={-1} className="container py-4 py-lg-5">
         {/* Whichever child route matched renders here */}
         <Outlet />
       </main>
-    </div>
+
+      <footer className="container pb-5">
+        <hr className="rule" />
+        <div className="d-flex flex-wrap gap-3 justify-content-between align-items-center small text-muted-2">
+          {/* Hardcoded until step 11's content loader supplies live stats */}
+          <span>French Voyage — 62 grammar lessons, 669 vocabulary cards, 80 verbs.</span>
+        </div>
+      </footer>
+    </>
   );
 }
 

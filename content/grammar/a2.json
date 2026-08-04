@@ -22,48 +22,12 @@
           "faire (nous faisons)"
         ],
         "rows": [
-          [
-            "je",
-            "-ais",
-            "je parlais",
-            "je finissais",
-            "je faisais"
-          ],
-          [
-            "tu",
-            "-ais",
-            "tu parlais",
-            "tu finissais",
-            "tu faisais"
-          ],
-          [
-            "il/elle/on",
-            "-ait",
-            "il parlait",
-            "il finissait",
-            "il faisait"
-          ],
-          [
-            "nous",
-            "-ions",
-            "nous parlions",
-            "nous finissions",
-            "nous faisions"
-          ],
-          [
-            "vous",
-            "-iez",
-            "vous parliez",
-            "vous finissiez",
-            "vous faisiez"
-          ],
-          [
-            "ils/elles",
-            "-aient",
-            "ils parlaient",
-            "ils finissaient",
-            "ils faisaient"
-          ]
+          ["je", "-ais", "je parlais", "je finissais", "je faisais"],
+          ["tu", "-ais", "tu parlais", "tu finissais", "tu faisais"],
+          ["il/elle/on", "-ait", "il parlait", "il finissait", "il faisait"],
+          ["nous", "-ions", "nous parlions", "nous finissions", "nous faisions"],
+          ["vous", "-iez", "vous parliez", "vous finissiez", "vous faisiez"],
+          ["ils/elles", "-aient", "ils parlaient", "ils finissaient", "ils faisaient"]
         ]
       },
       {
@@ -76,31 +40,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Use",
-          "Example"
-        ],
+        "head": ["Use", "Example"],
         "rows": [
-          [
-            "Habits in the past",
-            "Quand j'étais petit, je jouais au foot."
-          ],
-          [
-            "Descriptions and background",
-            "Il faisait froid et la rue était vide."
-          ],
-          [
-            "Ongoing action interrupted",
-            "Je dormais quand le téléphone a sonné."
-          ],
-          [
-            "Age, time, weather in the past",
-            "Il avait vingt ans. Il était midi."
-          ],
-          [
-            "Polite suggestions",
-            "Si on allait au cinéma ?"
-          ]
+          ["Habits in the past", "Quand j'étais petit, je jouais au foot."],
+          ["Descriptions and background", "Il faisait froid et la rue était vide."],
+          ["Ongoing action interrupted", "Je dormais quand le téléphone a sonné."],
+          ["Age, time, weather in the past", "Il avait vingt ans. Il était midi."],
+          ["Polite suggestions", "Si on allait au cinéma ?"]
         ]
       },
       {
@@ -124,11 +70,7 @@
       {
         "type": "mcq",
         "q": "The imparfait stem of être is:",
-        "options": [
-          "somm-",
-          "ét-",
-          "êt-"
-        ],
+        "options": ["somm-", "ét-", "êt-"],
         "answer": 1,
         "why": "être is the only verb that ignores the nous-form rule."
       },
@@ -155,31 +97,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Passé composé",
-          "Imparfait"
-        ],
+        "head": ["Passé composé", "Imparfait"],
         "rows": [
-          [
-            "A single completed event",
-            "A repeated habit"
-          ],
-          [
-            "A sequence of actions",
-            "A background description"
-          ],
-          [
-            "An interruption",
-            "The action being interrupted"
-          ],
-          [
-            "A change of state",
-            "A state that simply was"
-          ],
-          [
-            "Answers: what happened?",
-            "Answers: what was it like?"
-          ]
+          ["A single completed event", "A repeated habit"],
+          ["A sequence of actions", "A background description"],
+          ["An interruption", "The action being interrupted"],
+          ["A change of state", "A state that simply was"],
+          ["Answers: what happened?", "Answers: what was it like?"]
         ]
       },
       {
@@ -204,27 +128,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Signal words for imparfait",
-          "Signal words for passé composé"
-        ],
+        "head": ["Signal words for imparfait", "Signal words for passé composé"],
         "rows": [
-          [
-            "tous les jours, chaque semaine",
-            "hier, ce matin, ce jour-là"
-          ],
-          [
-            "souvent, toujours, d'habitude",
-            "soudain, tout à coup"
-          ],
-          [
-            "quand j'étais…",
-            "une fois, deux fois"
-          ],
-          [
-            "pendant que",
-            "en 2019, lundi dernier"
-          ]
+          ["tous les jours, chaque semaine", "hier, ce matin, ce jour-là"],
+          ["souvent, toujours, d'habitude", "soudain, tout à coup"],
+          ["quand j'étais…", "une fois, deux fois"],
+          ["pendant que", "en 2019, lundi dernier"]
         ]
       },
       {
@@ -240,10 +149,7 @@
       {
         "type": "mcq",
         "q": "Je ___ la télé quand tu es arrivé.",
-        "options": [
-          "ai regardé",
-          "regardais"
-        ],
+        "options": ["ai regardé", "regardais"],
         "answer": 1,
         "why": "The ongoing action interrupted by another takes the imparfait."
       },
@@ -256,10 +162,7 @@
       {
         "type": "mcq",
         "q": "'J'ai su la vérité' means:",
-        "options": [
-          "I knew the truth",
-          "I found out the truth"
-        ],
+        "options": ["I knew the truth", "I found out the truth"],
         "answer": 1,
         "why": "savoir in the passé composé marks the moment of learning."
       },
@@ -286,37 +189,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Passé composé",
-          "Plus-que-parfait",
-          "Meaning"
-        ],
+        "head": ["Passé composé", "Plus-que-parfait", "Meaning"],
         "rows": [
-          [
-            "j'ai fini",
-            "j'avais fini",
-            "I had finished"
-          ],
-          [
-            "tu as vu",
-            "tu avais vu",
-            "you had seen"
-          ],
-          [
-            "elle est partie",
-            "elle était partie",
-            "she had left"
-          ],
-          [
-            "nous sommes arrivés",
-            "nous étions arrivés",
-            "we had arrived"
-          ],
-          [
-            "je me suis levé",
-            "je m'étais levé",
-            "I had got up"
-          ]
+          ["j'ai fini", "j'avais fini", "I had finished"],
+          ["tu as vu", "tu avais vu", "you had seen"],
+          ["elle est partie", "elle était partie", "she had left"],
+          ["nous sommes arrivés", "nous étions arrivés", "we had arrived"],
+          ["je me suis levé", "je m'étais levé", "I had got up"]
         ]
       },
       {
@@ -363,11 +242,7 @@
       {
         "type": "mcq",
         "q": "The plus-que-parfait uses the auxiliary in the:",
-        "options": [
-          "present",
-          "imparfait",
-          "futur"
-        ],
+        "options": ["present", "imparfait", "futur"],
         "answer": 1,
         "why": "avais/étais — the imparfait of avoir or être."
       },
@@ -394,56 +269,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "Ending",
-          "parler",
-          "finir",
-          "attendre"
-        ],
+        "head": ["Person", "Ending", "parler", "finir", "attendre"],
         "rows": [
-          [
-            "je",
-            "-ai",
-            "je parlerai",
-            "je finirai",
-            "j'attendrai"
-          ],
-          [
-            "tu",
-            "-as",
-            "tu parleras",
-            "tu finiras",
-            "tu attendras"
-          ],
-          [
-            "il/elle/on",
-            "-a",
-            "il parlera",
-            "il finira",
-            "il attendra"
-          ],
-          [
-            "nous",
-            "-ons",
-            "nous parlerons",
-            "nous finirons",
-            "nous attendrons"
-          ],
-          [
-            "vous",
-            "-ez",
-            "vous parlerez",
-            "vous finirez",
-            "vous attendrez"
-          ],
-          [
-            "ils/elles",
-            "-ont",
-            "ils parleront",
-            "ils finiront",
-            "ils attendront"
-          ]
+          ["je", "-ai", "je parlerai", "je finirai", "j'attendrai"],
+          ["tu", "-as", "tu parleras", "tu finiras", "tu attendras"],
+          ["il/elle/on", "-a", "il parlera", "il finira", "il attendra"],
+          ["nous", "-ons", "nous parlerons", "nous finirons", "nous attendrons"],
+          ["vous", "-ez", "vous parlerez", "vous finirez", "vous attendrez"],
+          ["ils/elles", "-ont", "ils parleront", "ils finiront", "ils attendront"]
         ]
       },
       {
@@ -452,61 +285,16 @@
       },
       {
         "type": "table",
-        "head": [
-          "Verb",
-          "Stem",
-          "Verb",
-          "Stem"
-        ],
+        "head": ["Verb", "Stem", "Verb", "Stem"],
         "rows": [
-          [
-            "être",
-            "ser-",
-            "avoir",
-            "aur-"
-          ],
-          [
-            "aller",
-            "ir-",
-            "faire",
-            "fer-"
-          ],
-          [
-            "venir",
-            "viendr-",
-            "tenir",
-            "tiendr-"
-          ],
-          [
-            "pouvoir",
-            "pourr-",
-            "vouloir",
-            "voudr-"
-          ],
-          [
-            "devoir",
-            "devr-",
-            "savoir",
-            "saur-"
-          ],
-          [
-            "voir",
-            "verr-",
-            "envoyer",
-            "enverr-"
-          ],
-          [
-            "recevoir",
-            "recevr-",
-            "falloir",
-            "faudr-"
-          ],
-          [
-            "courir",
-            "courr-",
-            "mourir",
-            "mourr-"
-          ]
+          ["être", "ser-", "avoir", "aur-"],
+          ["aller", "ir-", "faire", "fer-"],
+          ["venir", "viendr-", "tenir", "tiendr-"],
+          ["pouvoir", "pourr-", "vouloir", "voudr-"],
+          ["devoir", "devr-", "savoir", "saur-"],
+          ["voir", "verr-", "envoyer", "enverr-"],
+          ["recevoir", "recevr-", "falloir", "faudr-"],
+          ["courir", "courr-", "mourir", "mourr-"]
         ]
       },
       {
@@ -534,11 +322,7 @@
       {
         "type": "mcq",
         "q": "The future stem of pouvoir is:",
-        "options": [
-          "pouv-",
-          "pourr-",
-          "peuv-"
-        ],
+        "options": ["pouv-", "pourr-", "peuv-"],
         "answer": 1,
         "why": "pourr- with a double r."
       },
@@ -565,85 +349,25 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "parler",
-          "être",
-          "avoir",
-          "aller"
-        ],
+        "head": ["Person", "parler", "être", "avoir", "aller"],
         "rows": [
-          [
-            "je",
-            "parlerais",
-            "serais",
-            "aurais",
-            "irais"
-          ],
-          [
-            "tu",
-            "parlerais",
-            "serais",
-            "aurais",
-            "irais"
-          ],
-          [
-            "il/elle/on",
-            "parlerait",
-            "serait",
-            "aurait",
-            "irait"
-          ],
-          [
-            "nous",
-            "parlerions",
-            "serions",
-            "aurions",
-            "irions"
-          ],
-          [
-            "vous",
-            "parleriez",
-            "seriez",
-            "auriez",
-            "iriez"
-          ],
-          [
-            "ils/elles",
-            "parleraient",
-            "seraient",
-            "auraient",
-            "iraient"
-          ]
+          ["je", "parlerais", "serais", "aurais", "irais"],
+          ["tu", "parlerais", "serais", "aurais", "irais"],
+          ["il/elle/on", "parlerait", "serait", "aurait", "irait"],
+          ["nous", "parlerions", "serions", "aurions", "irions"],
+          ["vous", "parleriez", "seriez", "auriez", "iriez"],
+          ["ils/elles", "parleraient", "seraient", "auraient", "iraient"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Use",
-          "Example"
-        ],
+        "head": ["Use", "Example"],
         "rows": [
-          [
-            "Politeness",
-            "Je voudrais un café. / Pourriez-vous m'aider ?"
-          ],
-          [
-            "Advice",
-            "Tu devrais te reposer."
-          ],
-          [
-            "Hypothesis with si",
-            "Si j'avais le temps, je voyagerais."
-          ],
-          [
-            "Unconfirmed news",
-            "Il y aurait cent blessés selon la police."
-          ],
-          [
-            "Wishes",
-            "J'aimerais bien visiter le Québec."
-          ]
+          ["Politeness", "Je voudrais un café. / Pourriez-vous m'aider ?"],
+          ["Advice", "Tu devrais te reposer."],
+          ["Hypothesis with si", "Si j'avais le temps, je voyagerais."],
+          ["Unconfirmed news", "Il y aurait cent blessés selon la police."],
+          ["Wishes", "J'aimerais bien visiter le Québec."]
         ]
       },
       {
@@ -684,10 +408,7 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "Si j'aurais le temps…",
-          "Si j'avais le temps…"
-        ],
+        "options": ["Si j'aurais le temps…", "Si j'avais le temps…"],
         "answer": 1,
         "why": "si takes the imparfait, never the conditional."
       },
@@ -714,47 +435,15 @@
       },
       {
         "type": "table",
-        "head": [
-          "Pronoun",
-          "Replaces",
-          "Example"
-        ],
+        "head": ["Pronoun", "Replaces", "Example"],
         "rows": [
-          [
-            "me / m'",
-            "me",
-            "Il me voit."
-          ],
-          [
-            "te / t'",
-            "you (informal)",
-            "Je te comprends."
-          ],
-          [
-            "le / l'",
-            "him, it (masculine)",
-            "Le film ? Je le regarde."
-          ],
-          [
-            "la / l'",
-            "her, it (feminine)",
-            "La lettre ? Je la lis."
-          ],
-          [
-            "nous",
-            "us",
-            "Elle nous invite."
-          ],
-          [
-            "vous",
-            "you (formal/plural)",
-            "Je vous remercie."
-          ],
-          [
-            "les",
-            "them",
-            "Les clés ? Je les cherche."
-          ]
+          ["me / m'", "me", "Il me voit."],
+          ["te / t'", "you (informal)", "Je te comprends."],
+          ["le / l'", "him, it (masculine)", "Le film ? Je le regarde."],
+          ["la / l'", "her, it (feminine)", "La lettre ? Je la lis."],
+          ["nous", "us", "Elle nous invite."],
+          ["vous", "you (formal/plural)", "Je vous remercie."],
+          ["les", "them", "Les clés ? Je les cherche."]
         ]
       },
       {
@@ -801,10 +490,7 @@
       {
         "type": "mcq",
         "q": "'I'm going to do it' is:",
-        "options": [
-          "Je le vais faire.",
-          "Je vais le faire."
-        ],
+        "options": ["Je le vais faire.", "Je vais le faire."],
         "answer": 1,
         "why": "The pronoun attaches to the infinitive it belongs to."
       },
@@ -835,42 +521,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Pronoun",
-          "Replaces",
-          "Example"
-        ],
+        "head": ["Pronoun", "Replaces", "Example"],
         "rows": [
-          [
-            "me / m'",
-            "to me",
-            "Il me parle."
-          ],
-          [
-            "te / t'",
-            "to you",
-            "Je te réponds."
-          ],
-          [
-            "lui",
-            "to him OR to her",
-            "Je lui téléphone."
-          ],
-          [
-            "nous",
-            "to us",
-            "Elle nous explique la règle."
-          ],
-          [
-            "vous",
-            "to you",
-            "Je vous envoie le fichier."
-          ],
-          [
-            "leur",
-            "to them",
-            "Je leur ai écrit."
-          ]
+          ["me / m'", "to me", "Il me parle."],
+          ["te / t'", "to you", "Je te réponds."],
+          ["lui", "to him OR to her", "Je lui téléphone."],
+          ["nous", "to us", "Elle nous explique la règle."],
+          ["vous", "to you", "Je vous envoie le fichier."],
+          ["leur", "to them", "Je leur ai écrit."]
         ]
       },
       {
@@ -879,43 +537,16 @@
       },
       {
         "type": "table",
-        "head": [
-          "Verbs that take à + person",
-          "Meaning"
-        ],
+        "head": ["Verbs that take à + person", "Meaning"],
         "rows": [
-          [
-            "parler à",
-            "to speak to"
-          ],
-          [
-            "téléphoner à",
-            "to phone"
-          ],
-          [
-            "répondre à",
-            "to answer"
-          ],
-          [
-            "demander à",
-            "to ask"
-          ],
-          [
-            "donner à",
-            "to give to"
-          ],
-          [
-            "écrire à",
-            "to write to"
-          ],
-          [
-            "dire à",
-            "to tell"
-          ],
-          [
-            "offrir à",
-            "to give (a gift) to"
-          ]
+          ["parler à", "to speak to"],
+          ["téléphoner à", "to phone"],
+          ["répondre à", "to answer"],
+          ["demander à", "to ask"],
+          ["donner à", "to give to"],
+          ["écrire à", "to write to"],
+          ["dire à", "to tell"],
+          ["offrir à", "to give (a gift) to"]
         ]
       },
       {
@@ -939,20 +570,14 @@
       {
         "type": "mcq",
         "q": "'Je l'attends' means:",
-        "options": [
-          "I answer him",
-          "I wait for him"
-        ],
+        "options": ["I answer him", "I wait for him"],
         "answer": 1,
         "why": "attendre is direct in French, so the pronoun is le/la."
       },
       {
         "type": "mcq",
         "q": "Which needs an indirect pronoun?",
-        "options": [
-          "Je vois Paul.",
-          "Je téléphone à Paul."
-        ],
+        "options": ["Je vois Paul.", "Je téléphone à Paul."],
         "answer": 1,
         "why": "téléphoner à → lui."
       }
@@ -973,37 +598,13 @@
       },
       {
         "type": "table",
-        "head": [
-          "Replaces",
-          "Full sentence",
-          "With y"
-        ],
+        "head": ["Replaces", "Full sentence", "With y"],
         "rows": [
-          [
-            "a place",
-            "Je vais à Paris.",
-            "J'y vais."
-          ],
-          [
-            "a place",
-            "Il habite en France.",
-            "Il y habite."
-          ],
-          [
-            "à + thing",
-            "Je pense à mon travail.",
-            "J'y pense."
-          ],
-          [
-            "à + idea",
-            "Tu réponds à la question ?",
-            "Tu y réponds ?"
-          ],
-          [
-            "à + thing",
-            "Je m'intéresse à la politique.",
-            "Je m'y intéresse."
-          ]
+          ["a place", "Je vais à Paris.", "J'y vais."],
+          ["a place", "Il habite en France.", "Il y habite."],
+          ["à + thing", "Je pense à mon travail.", "J'y pense."],
+          ["à + idea", "Tu réponds à la question ?", "Tu y réponds ?"],
+          ["à + thing", "Je m'intéresse à la politique.", "Je m'y intéresse."]
         ]
       },
       {
@@ -1049,10 +650,7 @@
       {
         "type": "mcq",
         "q": "'Je pense à Marie' becomes:",
-        "options": [
-          "J'y pense.",
-          "Je pense à elle."
-        ],
+        "options": ["J'y pense.", "Je pense à elle."],
         "answer": 1,
         "why": "y never replaces a person; use a stressed pronoun instead."
       },
@@ -1079,42 +677,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Replaces",
-          "Full sentence",
-          "With en"
-        ],
+        "head": ["Replaces", "Full sentence", "With en"],
         "rows": [
-          [
-            "du / de la / des + noun",
-            "Je mange du pain.",
-            "J'en mange."
-          ],
-          [
-            "a number + noun",
-            "J'ai deux frères.",
-            "J'en ai deux."
-          ],
-          [
-            "a quantity + noun",
-            "Il boit beaucoup de café.",
-            "Il en boit beaucoup."
-          ],
-          [
-            "de + thing",
-            "Je parle de mon travail.",
-            "J'en parle."
-          ],
-          [
-            "de + place",
-            "Je viens de Paris.",
-            "J'en viens."
-          ],
-          [
-            "after a negation",
-            "Je ne mange pas de viande.",
-            "Je n'en mange pas."
-          ]
+          ["du / de la / des + noun", "Je mange du pain.", "J'en mange."],
+          ["a number + noun", "J'ai deux frères.", "J'en ai deux."],
+          ["a quantity + noun", "Il boit beaucoup de café.", "Il en boit beaucoup."],
+          ["de + thing", "Je parle de mon travail.", "J'en parle."],
+          ["de + place", "Je viens de Paris.", "J'en viens."],
+          ["after a negation", "Je ne mange pas de viande.", "Je n'en mange pas."]
         ]
       },
       {
@@ -1160,11 +730,7 @@
       {
         "type": "mcq",
         "q": "'I have three of them' is:",
-        "options": [
-          "J'en ai.",
-          "J'en ai trois.",
-          "J'ai trois."
-        ],
+        "options": ["J'en ai.", "J'en ai trois.", "J'ai trois."],
         "answer": 1,
         "why": "The number must be repeated after the verb."
       },
@@ -1191,22 +757,8 @@
       },
       {
         "type": "table",
-        "head": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
-        ],
-        "rows": [
-          [
-            "me / te / se / nous / vous",
-            "le / la / les",
-            "lui / leur",
-            "y",
-            "en"
-          ]
-        ]
+        "head": ["1", "2", "3", "4", "5"],
+        "rows": [["me / te / se / nous / vous", "le / la / les", "lui / leur", "y", "en"]]
       },
       {
         "type": "examples",
@@ -1258,10 +810,7 @@
       {
         "type": "mcq",
         "q": "The imperative 'Give it to me!' is:",
-        "options": [
-          "Donne-moi-le !",
-          "Donne-le-moi !"
-        ],
+        "options": ["Donne-moi-le !", "Donne-le-moi !"],
         "answer": 1,
         "why": "In an affirmative imperative, direct object first, and me becomes moi."
       },
@@ -1284,85 +833,28 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Subject",
-          "Stressed",
-          "Example"
-        ],
+        "head": ["Subject", "Stressed", "Example"],
         "rows": [
-          [
-            "je",
-            "moi",
-            "C'est moi."
-          ],
-          [
-            "tu",
-            "toi",
-            "Et toi ?"
-          ],
-          [
-            "il",
-            "lui",
-            "Je pense à lui."
-          ],
-          [
-            "elle",
-            "elle",
-            "Je sors avec elle."
-          ],
-          [
-            "nous",
-            "nous",
-            "Chez nous."
-          ],
-          [
-            "vous",
-            "vous",
-            "Après vous."
-          ],
-          [
-            "ils",
-            "eux",
-            "Je travaille pour eux."
-          ],
-          [
-            "elles",
-            "elles",
-            "Sans elles."
-          ]
+          ["je", "moi", "C'est moi."],
+          ["tu", "toi", "Et toi ?"],
+          ["il", "lui", "Je pense à lui."],
+          ["elle", "elle", "Je sors avec elle."],
+          ["nous", "nous", "Chez nous."],
+          ["vous", "vous", "Après vous."],
+          ["ils", "eux", "Je travaille pour eux."],
+          ["elles", "elles", "Sans elles."]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Use",
-          "Example"
-        ],
+        "head": ["Use", "Example"],
         "rows": [
-          [
-            "After a preposition",
-            "Je viens avec toi."
-          ],
-          [
-            "After c'est",
-            "C'est lui qui a téléphoné."
-          ],
-          [
-            "For emphasis",
-            "Moi, je pense que non."
-          ],
-          [
-            "Standing alone",
-            "— Qui veut du café ? — Moi !"
-          ],
-          [
-            "In comparisons",
-            "Il est plus grand que moi."
-          ],
-          [
-            "With aussi / non plus",
-            "Moi aussi. / Moi non plus."
-          ]
+          ["After a preposition", "Je viens avec toi."],
+          ["After c'est", "C'est lui qui a téléphoné."],
+          ["For emphasis", "Moi, je pense que non."],
+          ["Standing alone", "— Qui veut du café ? — Moi !"],
+          ["In comparisons", "Il est plus grand que moi."],
+          ["With aussi / non plus", "Moi aussi. / Moi non plus."]
         ]
       },
       {
@@ -1390,10 +882,7 @@
       {
         "type": "mcq",
         "q": "— Je n'aime pas le café. — ___",
-        "options": [
-          "Moi aussi.",
-          "Moi non plus."
-        ],
+        "options": ["Moi aussi.", "Moi non plus."],
         "answer": 1,
         "why": "Agreeing with a negative statement uses non plus."
       },
@@ -1420,25 +909,10 @@
       },
       {
         "type": "table",
-        "head": [
-          "Pronoun",
-          "Role",
-          "Test",
-          "Example"
-        ],
+        "head": ["Pronoun", "Role", "Test", "Example"],
         "rows": [
-          [
-            "qui",
-            "subject",
-            "a verb comes straight after",
-            "L'homme qui parle est mon patron."
-          ],
-          [
-            "que",
-            "object",
-            "a subject comes after",
-            "L'homme que je vois est mon patron."
-          ]
+          ["qui", "subject", "a verb comes straight after", "L'homme qui parle est mon patron."],
+          ["que", "object", "a subject comes after", "L'homme que je vois est mon patron."]
         ]
       },
       {
@@ -1490,20 +964,14 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "La personne que parle est Marie.",
-          "La personne qui parle est Marie."
-        ],
+        "options": ["La personne que parle est Marie.", "La personne qui parle est Marie."],
         "answer": 1,
         "why": "parle is a verb → qui."
       },
       {
         "type": "mcq",
         "q": "'The book I read' in French:",
-        "options": [
-          "Le livre j'ai lu",
-          "Le livre que j'ai lu"
-        ],
+        "options": ["Le livre j'ai lu", "Le livre que j'ai lu"],
         "answer": 1,
         "why": "French cannot omit the relative pronoun."
       }
@@ -1524,32 +992,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Pronoun",
-          "Replaces",
-          "Example"
-        ],
+        "head": ["Pronoun", "Replaces", "Example"],
         "rows": [
-          [
-            "où (place)",
-            "in/at which",
-            "La ville où j'habite est petite."
-          ],
-          [
-            "où (time)",
-            "when",
-            "Le jour où nous sommes partis, il pleuvait."
-          ],
-          [
-            "dont",
-            "de + noun",
-            "Le livre dont je parle est excellent."
-          ],
-          [
-            "dont (possession)",
-            "whose",
-            "L'homme dont la voiture est rouge."
-          ]
+          ["où (place)", "in/at which", "La ville où j'habite est petite."],
+          ["où (time)", "when", "Le jour où nous sommes partis, il pleuvait."],
+          ["dont", "de + noun", "Le livre dont je parle est excellent."],
+          ["dont (possession)", "whose", "L'homme dont la voiture est rouge."]
         ]
       },
       {
@@ -1597,10 +1045,7 @@
       {
         "type": "mcq",
         "q": "'The book I need' is:",
-        "options": [
-          "Le livre que j'ai besoin",
-          "Le livre dont j'ai besoin"
-        ],
+        "options": ["Le livre que j'ai besoin", "Le livre dont j'ai besoin"],
         "answer": 1,
         "why": "avoir besoin de requires dont."
       },
@@ -1623,27 +1068,11 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Type",
-          "Structure",
-          "Example"
-        ],
+        "head": ["Type", "Structure", "Example"],
         "rows": [
-          [
-            "Superiority",
-            "plus + adjective + que",
-            "Il est plus grand que moi."
-          ],
-          [
-            "Inferiority",
-            "moins + adjective + que",
-            "C'est moins cher que l'autre."
-          ],
-          [
-            "Equality",
-            "aussi + adjective + que",
-            "Elle est aussi rapide que lui."
-          ]
+          ["Superiority", "plus + adjective + que", "Il est plus grand que moi."],
+          ["Inferiority", "moins + adjective + que", "C'est moins cher que l'autre."],
+          ["Equality", "aussi + adjective + que", "Elle est aussi rapide que lui."]
         ]
       },
       {
@@ -1656,27 +1085,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Comparing",
-          "Structure",
-          "Example"
-        ],
+        "head": ["Comparing", "Structure", "Example"],
         "rows": [
-          [
-            "Nouns",
-            "plus / moins / autant de + noun + que",
-            "J'ai plus de travail que toi."
-          ],
-          [
-            "Verbs",
-            "verb + plus / moins / autant que",
-            "Je travaille plus que lui."
-          ],
-          [
-            "Adverbs",
-            "plus / moins / aussi + adverb + que",
-            "Il parle plus vite que moi."
-          ]
+          ["Nouns", "plus / moins / autant de + noun + que", "J'ai plus de travail que toi."],
+          ["Verbs", "verb + plus / moins / autant que", "Je travaille plus que lui."],
+          ["Adverbs", "plus / moins / aussi + adverb + que", "Il parle plus vite que moi."]
         ]
       },
       {
@@ -1723,10 +1136,7 @@
       {
         "type": "mcq",
         "q": "'She sings better than me' is:",
-        "options": [
-          "Elle chante plus bien que moi.",
-          "Elle chante mieux que moi."
-        ],
+        "options": ["Elle chante plus bien que moi.", "Elle chante mieux que moi."],
         "answer": 1,
         "why": "bien → mieux, describing the verb."
       },
@@ -1753,27 +1163,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Structure",
-          "Example"
-        ],
+        "head": ["Structure", "Example"],
         "rows": [
-          [
-            "le / la / les + plus + adjective",
-            "C'est le plus grand musée de la ville."
-          ],
-          [
-            "le / la / les + moins + adjective",
-            "C'est la moins chère des options."
-          ],
-          [
-            "le plus / le moins + adverb",
-            "C'est lui qui parle le plus vite."
-          ],
-          [
-            "verb + le plus / le moins",
-            "C'est le plat que j'aime le plus."
-          ]
+          ["le / la / les + plus + adjective", "C'est le plus grand musée de la ville."],
+          ["le / la / les + moins + adjective", "C'est la moins chère des options."],
+          ["le plus / le moins + adverb", "C'est lui qui parle le plus vite."],
+          ["verb + le plus / le moins", "C'est le plat que j'aime le plus."]
         ]
       },
       {
@@ -1825,10 +1220,7 @@
       {
         "type": "mcq",
         "q": "'The best restaurant in town' uses which preposition?",
-        "options": [
-          "dans la ville",
-          "de la ville"
-        ],
+        "options": ["dans la ville", "de la ville"],
         "answer": 1,
         "why": "French uses de where English uses 'in' after a superlative."
       },
@@ -1851,37 +1243,13 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Adjective (m)",
-          "Feminine",
-          "Adverb"
-        ],
+        "head": ["Adjective (m)", "Feminine", "Adverb"],
         "rows": [
-          [
-            "lent",
-            "lente",
-            "lentement"
-          ],
-          [
-            "heureux",
-            "heureuse",
-            "heureusement"
-          ],
-          [
-            "doux",
-            "douce",
-            "doucement"
-          ],
-          [
-            "normal",
-            "normale",
-            "normalement"
-          ],
-          [
-            "actif",
-            "active",
-            "activement"
-          ]
+          ["lent", "lente", "lentement"],
+          ["heureux", "heureuse", "heureusement"],
+          ["doux", "douce", "doucement"],
+          ["normal", "normale", "normalement"],
+          ["actif", "active", "activement"]
         ]
       },
       {
@@ -1890,27 +1258,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Adjective ending",
-          "Adverb ending",
-          "Example"
-        ],
+        "head": ["Adjective ending", "Adverb ending", "Example"],
         "rows": [
-          [
-            "-ant",
-            "-amment",
-            "courant → couramment"
-          ],
-          [
-            "-ent",
-            "-emment",
-            "évident → évidemment"
-          ],
-          [
-            "vowel",
-            "+ -ment",
-            "vrai → vraiment"
-          ]
+          ["-ant", "-amment", "courant → couramment"],
+          ["-ent", "-emment", "évident → évidemment"],
+          ["vowel", "+ -ment", "vrai → vraiment"]
         ]
       },
       {
@@ -1942,10 +1294,7 @@
       {
         "type": "mcq",
         "q": "Where does 'bien' go in the passé composé?",
-        "options": [
-          "J'ai dormi bien.",
-          "J'ai bien dormi."
-        ],
+        "options": ["J'ai dormi bien.", "J'ai bien dormi."],
         "answer": 1,
         "why": "Short adverbs sit between the auxiliary and the participle."
       },
@@ -1968,43 +1317,13 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Expression",
-          "Meaning",
-          "Tense used",
-          "Example"
-        ],
+        "head": ["Expression", "Meaning", "Tense used", "Example"],
         "rows": [
-          [
-            "depuis",
-            "since / for (still true)",
-            "present",
-            "J'habite ici depuis quatre ans."
-          ],
-          [
-            "pendant",
-            "for (finished period)",
-            "any",
-            "J'ai travaillé là pendant deux ans."
-          ],
-          [
-            "il y a",
-            "ago",
-            "past",
-            "Je suis arrivé il y a quatre ans."
-          ],
-          [
-            "dans",
-            "in (future)",
-            "future",
-            "Je pars dans deux heures."
-          ],
-          [
-            "en",
-            "in (time taken)",
-            "any",
-            "J'ai fini en trente minutes."
-          ]
+          ["depuis", "since / for (still true)", "present", "J'habite ici depuis quatre ans."],
+          ["pendant", "for (finished period)", "any", "J'ai travaillé là pendant deux ans."],
+          ["il y a", "ago", "past", "Je suis arrivé il y a quatre ans."],
+          ["dans", "in (future)", "future", "Je pars dans deux heures."],
+          ["en", "in (time taken)", "any", "J'ai fini en trente minutes."]
         ]
       },
       {
@@ -2055,11 +1374,7 @@
       {
         "type": "mcq",
         "q": "Which tense goes with depuis?",
-        "options": [
-          "passé composé",
-          "present",
-          "futur"
-        ],
+        "options": ["passé composé", "present", "futur"],
         "answer": 1,
         "why": "French keeps the present for something still true."
       },
@@ -2072,10 +1387,7 @@
       {
         "type": "mcq",
         "q": "'I'll be back in ten minutes' is:",
-        "options": [
-          "Je reviens en dix minutes.",
-          "Je reviens dans dix minutes."
-        ],
+        "options": ["Je reviens en dix minutes.", "Je reviens dans dix minutes."],
         "answer": 1,
         "why": "dans points to a future moment."
       }
@@ -2092,12 +1404,7 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Type",
-          "si + …",
-          "Main clause",
-          "Example"
-        ],
+        "head": ["Type", "si + …", "Main clause", "Example"],
         "rows": [
           [
             "1 — real possibility",
@@ -2203,121 +1510,37 @@
       },
       {
         "type": "table",
-        "head": [
-          "Person",
-          "parler",
-          "finir",
-          "prendre"
-        ],
+        "head": ["Person", "parler", "finir", "prendre"],
         "rows": [
-          [
-            "que je",
-            "parle",
-            "finisse",
-            "prenne"
-          ],
-          [
-            "que tu",
-            "parles",
-            "finisses",
-            "prennes"
-          ],
-          [
-            "qu'il/elle",
-            "parle",
-            "finisse",
-            "prenne"
-          ],
-          [
-            "que nous",
-            "parlions",
-            "finissions",
-            "prenions"
-          ],
-          [
-            "que vous",
-            "parliez",
-            "finissiez",
-            "preniez"
-          ],
-          [
-            "qu'ils/elles",
-            "parlent",
-            "finissent",
-            "prennent"
-          ]
+          ["que je", "parle", "finisse", "prenne"],
+          ["que tu", "parles", "finisses", "prennes"],
+          ["qu'il/elle", "parle", "finisse", "prenne"],
+          ["que nous", "parlions", "finissions", "prenions"],
+          ["que vous", "parliez", "finissiez", "preniez"],
+          ["qu'ils/elles", "parlent", "finissent", "prennent"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Irregular",
-          "que je …",
-          "Irregular",
-          "que je …"
-        ],
+        "head": ["Irregular", "que je …", "Irregular", "que je …"],
         "rows": [
-          [
-            "être",
-            "sois",
-            "avoir",
-            "aie"
-          ],
-          [
-            "aller",
-            "aille",
-            "faire",
-            "fasse"
-          ],
-          [
-            "pouvoir",
-            "puisse",
-            "savoir",
-            "sache"
-          ],
-          [
-            "vouloir",
-            "veuille",
-            "falloir",
-            "qu'il faille"
-          ]
+          ["être", "sois", "avoir", "aie"],
+          ["aller", "aille", "faire", "fasse"],
+          ["pouvoir", "puisse", "savoir", "sache"],
+          ["vouloir", "veuille", "falloir", "qu'il faille"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Trigger",
-          "Example"
-        ],
+        "head": ["Trigger", "Example"],
         "rows": [
-          [
-            "il faut que",
-            "Il faut que je parte."
-          ],
-          [
-            "je veux que",
-            "Je veux que tu viennes."
-          ],
-          [
-            "il est important que",
-            "Il est important que vous compreniez."
-          ],
-          [
-            "je suis content que",
-            "Je suis content que tu sois là."
-          ],
-          [
-            "bien que",
-            "Bien qu'il soit tard, je continue."
-          ],
-          [
-            "avant que",
-            "Avant que tu partes, signe ici."
-          ],
-          [
-            "pour que",
-            "Je répète pour que vous compreniez."
-          ]
+          ["il faut que", "Il faut que je parte."],
+          ["je veux que", "Je veux que tu viennes."],
+          ["il est important que", "Il est important que vous compreniez."],
+          ["je suis content que", "Je suis content que tu sois là."],
+          ["bien que", "Bien qu'il soit tard, je continue."],
+          ["avant que", "Avant que tu partes, signe ici."],
+          ["pour que", "Je répète pour que vous compreniez."]
         ]
       },
       {
@@ -2341,21 +1564,14 @@
       {
         "type": "mcq",
         "q": "Which does NOT take the subjunctive?",
-        "options": [
-          "il faut que",
-          "j'espère que",
-          "bien que"
-        ],
+        "options": ["il faut que", "j'espère que", "bien que"],
         "answer": 1,
         "why": "espérer que takes the indicative."
       },
       {
         "type": "mcq",
         "q": "'I want to leave' is:",
-        "options": [
-          "Je veux que je parte.",
-          "Je veux partir."
-        ],
+        "options": ["Je veux que je parte.", "Je veux partir."],
         "answer": 1,
         "why": "Same subject in both halves → infinitive, no que."
       }
@@ -2372,52 +1588,16 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Negation",
-          "Meaning",
-          "Example"
-        ],
+        "head": ["Negation", "Meaning", "Example"],
         "rows": [
-          [
-            "ne … jamais",
-            "never",
-            "Je ne fume jamais."
-          ],
-          [
-            "ne … rien",
-            "nothing",
-            "Je ne vois rien."
-          ],
-          [
-            "ne … personne",
-            "nobody",
-            "Je ne connais personne ici."
-          ],
-          [
-            "ne … plus",
-            "no longer, not any more",
-            "Il n'habite plus ici."
-          ],
-          [
-            "ne … pas encore",
-            "not yet",
-            "Je n'ai pas encore mangé."
-          ],
-          [
-            "ne … que",
-            "only",
-            "Je n'ai que dix euros."
-          ],
-          [
-            "ne … ni … ni",
-            "neither … nor",
-            "Je ne bois ni thé ni café."
-          ],
-          [
-            "ne … aucun(e)",
-            "not a single",
-            "Je n'ai aucune idée."
-          ]
+          ["ne … jamais", "never", "Je ne fume jamais."],
+          ["ne … rien", "nothing", "Je ne vois rien."],
+          ["ne … personne", "nobody", "Je ne connais personne ici."],
+          ["ne … plus", "no longer, not any more", "Il n'habite plus ici."],
+          ["ne … pas encore", "not yet", "Je n'ai pas encore mangé."],
+          ["ne … que", "only", "Je n'ai que dix euros."],
+          ["ne … ni … ni", "neither … nor", "Je ne bois ni thé ni café."],
+          ["ne … aucun(e)", "not a single", "Je n'ai aucune idée."]
         ]
       },
       {
@@ -2467,10 +1647,7 @@
       {
         "type": "mcq",
         "q": "'I only have ten euros' is:",
-        "options": [
-          "Je n'ai pas dix euros.",
-          "Je n'ai que dix euros."
-        ],
+        "options": ["Je n'ai pas dix euros.", "Je n'ai que dix euros."],
         "answer": 1,
         "why": "ne … que expresses 'only'."
       },
@@ -2493,22 +1670,10 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "",
-          "Masculine",
-          "Feminine"
-        ],
+        "head": ["", "Masculine", "Feminine"],
         "rows": [
-          [
-            "Singular",
-            "celui",
-            "celle"
-          ],
-          [
-            "Plural",
-            "ceux",
-            "celles"
-          ]
+          ["Singular", "celui", "celle"],
+          ["Plural", "ceux", "celles"]
         ]
       },
       {
@@ -2517,27 +1682,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Followed by",
-          "Example",
-          "Meaning"
-        ],
+        "head": ["Followed by", "Example", "Meaning"],
         "rows": [
-          [
-            "de",
-            "Mon vélo et celui de mon frère.",
-            "mine and my brother's"
-          ],
-          [
-            "qui / que",
-            "Celui qui parle est le directeur.",
-            "the one who is speaking"
-          ],
-          [
-            "-ci / -là",
-            "Je préfère celui-là.",
-            "I prefer that one"
-          ]
+          ["de", "Mon vélo et celui de mon frère.", "mine and my brother's"],
+          ["qui / que", "Celui qui parle est le directeur.", "the one who is speaking"],
+          ["-ci / -là", "Je préfère celui-là.", "I prefer that one"]
         ]
       },
       {
@@ -2583,11 +1732,7 @@
       {
         "type": "mcq",
         "q": "Which is impossible?",
-        "options": [
-          "Je préfère celui-ci.",
-          "Je préfère celui.",
-          "Je préfère celui de Paul."
-        ],
+        "options": ["Je préfère celui-ci.", "Je préfère celui.", "Je préfère celui de Paul."],
         "answer": 1,
         "why": "A demonstrative pronoun cannot stand alone."
       },
@@ -2610,56 +1755,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Owner",
-          "m. sing.",
-          "f. sing.",
-          "m. pl.",
-          "f. pl."
-        ],
+        "head": ["Owner", "m. sing.", "f. sing.", "m. pl.", "f. pl."],
         "rows": [
-          [
-            "mine",
-            "le mien",
-            "la mienne",
-            "les miens",
-            "les miennes"
-          ],
-          [
-            "yours (tu)",
-            "le tien",
-            "la tienne",
-            "les tiens",
-            "les tiennes"
-          ],
-          [
-            "his / hers",
-            "le sien",
-            "la sienne",
-            "les siens",
-            "les siennes"
-          ],
-          [
-            "ours",
-            "le nôtre",
-            "la nôtre",
-            "les nôtres",
-            "les nôtres"
-          ],
-          [
-            "yours (vous)",
-            "le vôtre",
-            "la vôtre",
-            "les vôtres",
-            "les vôtres"
-          ],
-          [
-            "theirs",
-            "le leur",
-            "la leur",
-            "les leurs",
-            "les leurs"
-          ]
+          ["mine", "le mien", "la mienne", "les miens", "les miennes"],
+          ["yours (tu)", "le tien", "la tienne", "les tiens", "les tiennes"],
+          ["his / hers", "le sien", "la sienne", "les siens", "les siennes"],
+          ["ours", "le nôtre", "la nôtre", "les nôtres", "les nôtres"],
+          ["yours (vous)", "le vôtre", "la vôtre", "les vôtres", "les vôtres"],
+          ["theirs", "le leur", "la leur", "les leurs", "les leurs"]
         ]
       },
       {
@@ -2709,10 +1812,7 @@
       {
         "type": "mcq",
         "q": "'This book is mine' most naturally is:",
-        "options": [
-          "Ce livre est le mien.",
-          "Ce livre est à moi."
-        ],
+        "options": ["Ce livre est le mien.", "Ce livre est à moi."],
         "answer": 1,
         "why": "Both are correct, but être à + stressed pronoun is far commoner in speech."
       },
@@ -2735,17 +1835,9 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Structure",
-          "Meaning",
-          "Example"
-        ],
+        "head": ["Structure", "Meaning", "Example"],
         "rows": [
-          [
-            "venir de + infinitive",
-            "to have just done",
-            "Je viens de manger."
-          ],
+          ["venir de + infinitive", "to have just done", "Je viens de manger."],
           [
             "être en train de + infinitive",
             "to be in the middle of doing",
@@ -2804,11 +1896,7 @@
       {
         "type": "mcq",
         "q": "'I am eating' is normally:",
-        "options": [
-          "Je suis mangeant.",
-          "Je mange.",
-          "Je suis en train de manger."
-        ],
+        "options": ["Je suis mangeant.", "Je mange.", "Je suis en train de manger."],
         "answer": 1,
         "why": "The simple present covers the continuous; the third option is correct but emphatic."
       },
@@ -2835,67 +1923,23 @@
       },
       {
         "type": "table",
-        "head": [
-          "Verb",
-          "nous form",
-          "Gerund"
-        ],
+        "head": ["Verb", "nous form", "Gerund"],
         "rows": [
-          [
-            "manger",
-            "nous mangeons",
-            "en mangeant"
-          ],
-          [
-            "finir",
-            "nous finissons",
-            "en finissant"
-          ],
-          [
-            "prendre",
-            "nous prenons",
-            "en prenant"
-          ],
-          [
-            "être",
-            "—",
-            "en étant (irregular)"
-          ],
-          [
-            "avoir",
-            "—",
-            "en ayant (irregular)"
-          ],
-          [
-            "savoir",
-            "—",
-            "en sachant (irregular)"
-          ]
+          ["manger", "nous mangeons", "en mangeant"],
+          ["finir", "nous finissons", "en finissant"],
+          ["prendre", "nous prenons", "en prenant"],
+          ["être", "—", "en étant (irregular)"],
+          ["avoir", "—", "en ayant (irregular)"],
+          ["savoir", "—", "en sachant (irregular)"]
         ]
       },
       {
         "type": "table",
-        "head": [
-          "Use",
-          "Example",
-          "Meaning"
-        ],
+        "head": ["Use", "Example", "Meaning"],
         "rows": [
-          [
-            "Simultaneous actions",
-            "Il lit en mangeant.",
-            "He reads while eating."
-          ],
-          [
-            "Manner or means",
-            "J'ai appris en pratiquant.",
-            "I learnt by practising."
-          ],
-          [
-            "Condition",
-            "En travaillant plus, tu réussiras.",
-            "If you work more, you'll succeed."
-          ]
+          ["Simultaneous actions", "Il lit en mangeant.", "He reads while eating."],
+          ["Manner or means", "J'ai appris en pratiquant.", "I learnt by practising."],
+          ["Condition", "En travaillant plus, tu réussiras.", "If you work more, you'll succeed."]
         ]
       },
       {
@@ -2923,11 +1967,7 @@
       {
         "type": "mcq",
         "q": "'Before leaving' is:",
-        "options": [
-          "avant partant",
-          "avant de partir",
-          "en avant partir"
-        ],
+        "options": ["avant partant", "avant de partir", "en avant partir"],
         "answer": 1,
         "why": "Only en takes the -ant form; other prepositions take the infinitive."
       },
@@ -2954,42 +1994,14 @@
       },
       {
         "type": "table",
-        "head": [
-          "Original",
-          "Connector",
-          "Reported"
-        ],
+        "head": ["Original", "Connector", "Reported"],
         "rows": [
-          [
-            "Statement",
-            "que",
-            "Il dit qu'il est fatigué."
-          ],
-          [
-            "Yes/no question",
-            "si",
-            "Il demande si je viens."
-          ],
-          [
-            "Question word",
-            "keep the word",
-            "Il demande où j'habite."
-          ],
-          [
-            "Qu'est-ce que",
-            "ce que",
-            "Il demande ce que je fais."
-          ],
-          [
-            "Qu'est-ce qui",
-            "ce qui",
-            "Il demande ce qui se passe."
-          ],
-          [
-            "Imperative",
-            "de + infinitive",
-            "Il me dit de partir."
-          ]
+          ["Statement", "que", "Il dit qu'il est fatigué."],
+          ["Yes/no question", "si", "Il demande si je viens."],
+          ["Question word", "keep the word", "Il demande où j'habite."],
+          ["Qu'est-ce que", "ce que", "Il demande ce que je fais."],
+          ["Qu'est-ce qui", "ce qui", "Il demande ce qui se passe."],
+          ["Imperative", "de + infinitive", "Il me dit de partir."]
         ]
       },
       {
@@ -2998,27 +2010,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Direct",
-          "Reported after a past verb"
-        ],
+        "head": ["Direct", "Reported after a past verb"],
         "rows": [
-          [
-            "présent",
-            "imparfait"
-          ],
-          [
-            "passé composé",
-            "plus-que-parfait"
-          ],
-          [
-            "futur simple",
-            "conditionnel présent"
-          ],
-          [
-            "imparfait",
-            "imparfait (no change)"
-          ]
+          ["présent", "imparfait"],
+          ["passé composé", "plus-que-parfait"],
+          ["futur simple", "conditionnel présent"],
+          ["imparfait", "imparfait (no change)"]
         ]
       },
       {
@@ -3059,10 +2056,7 @@
       {
         "type": "mcq",
         "q": "« Qu'est-ce que tu fais ? » reported becomes:",
-        "options": [
-          "Il demande qu'est-ce que je fais.",
-          "Il demande ce que je fais."
-        ],
+        "options": ["Il demande qu'est-ce que je fais.", "Il demande ce que je fais."],
         "answer": 1,
         "why": "qu'est-ce que becomes ce que."
       },
@@ -3089,32 +2083,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "Tense",
-          "Active",
-          "Passive"
-        ],
+        "head": ["Tense", "Active", "Passive"],
         "rows": [
-          [
-            "present",
-            "On construit la maison.",
-            "La maison est construite."
-          ],
-          [
-            "passé composé",
-            "On a construit la maison.",
-            "La maison a été construite."
-          ],
-          [
-            "imparfait",
-            "On construisait la maison.",
-            "La maison était construite."
-          ],
-          [
-            "futur",
-            "On construira la maison.",
-            "La maison sera construite."
-          ]
+          ["present", "On construit la maison.", "La maison est construite."],
+          ["passé composé", "On a construit la maison.", "La maison a été construite."],
+          ["imparfait", "On construisait la maison.", "La maison était construite."],
+          ["futur", "On construira la maison.", "La maison sera construite."]
         ]
       },
       {
@@ -3123,27 +2097,12 @@
       },
       {
         "type": "table",
-        "head": [
-          "English passive",
-          "Natural French"
-        ],
+        "head": ["English passive", "Natural French"],
         "rows": [
-          [
-            "French is spoken here.",
-            "Ici, on parle français."
-          ],
-          [
-            "That isn't said.",
-            "Ça ne se dit pas."
-          ],
-          [
-            "The shop was closed at six.",
-            "On a fermé le magasin à six heures."
-          ],
-          [
-            "I was told that…",
-            "On m'a dit que…"
-          ]
+          ["French is spoken here.", "Ici, on parle français."],
+          ["That isn't said.", "Ça ne se dit pas."],
+          ["The shop was closed at six.", "On a fermé le magasin à six heures."],
+          ["I was told that…", "On m'a dit que…"]
         ]
       },
       {
@@ -3187,20 +2146,14 @@
       {
         "type": "mcq",
         "q": "The most natural French for 'French is spoken here' is:",
-        "options": [
-          "Le français est parlé ici.",
-          "Ici, on parle français."
-        ],
+        "options": ["Le français est parlé ici.", "Ici, on parle français."],
         "answer": 1,
         "why": "French prefers on to an agentless passive."
       },
       {
         "type": "mcq",
         "q": "'I was told that…' becomes:",
-        "options": [
-          "J'ai été dit que…",
-          "On m'a dit que…"
-        ],
+        "options": ["J'ai été dit que…", "On m'a dit que…"],
         "answer": 1,
         "why": "Indirect objects cannot become passive subjects in French."
       }
@@ -3217,52 +2170,16 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Expression",
-          "Meaning",
-          "Followed by"
-        ],
+        "head": ["Expression", "Meaning", "Followed by"],
         "rows": [
-          [
-            "il faut",
-            "it is necessary",
-            "infinitive or que + subjunctive"
-          ],
-          [
-            "il y a",
-            "there is / are",
-            "a noun"
-          ],
-          [
-            "il est important de",
-            "it is important to",
-            "infinitive"
-          ],
-          [
-            "il est possible que",
-            "it is possible that",
-            "que + subjunctive"
-          ],
-          [
-            "il vaut mieux",
-            "it is better to",
-            "infinitive or que + subjunctive"
-          ],
-          [
-            "il s'agit de",
-            "it is about",
-            "a noun or infinitive"
-          ],
-          [
-            "il reste",
-            "there remains",
-            "a noun"
-          ],
-          [
-            "il paraît que",
-            "apparently",
-            "que + indicative"
-          ]
+          ["il faut", "it is necessary", "infinitive or que + subjunctive"],
+          ["il y a", "there is / are", "a noun"],
+          ["il est important de", "it is important to", "infinitive"],
+          ["il est possible que", "it is possible that", "que + subjunctive"],
+          ["il vaut mieux", "it is better to", "infinitive or que + subjunctive"],
+          ["il s'agit de", "it is about", "a noun or infinitive"],
+          ["il reste", "there remains", "a noun"],
+          ["il paraît que", "apparently", "que + indicative"]
         ]
       },
       {
@@ -3318,10 +2235,7 @@
       {
         "type": "mcq",
         "q": "Which is correct?",
-        "options": [
-          "Ce livre s'agit de la guerre.",
-          "Dans ce livre, il s'agit de la guerre."
-        ],
+        "options": ["Ce livre s'agit de la guerre.", "Dans ce livre, il s'agit de la guerre."],
         "answer": 1,
         "why": "il s'agit de is strictly impersonal."
       },
@@ -3344,49 +2258,14 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Place type",
-          "To / in",
-          "From",
-          "Example"
-        ],
+        "head": ["Place type", "To / in", "From", "Example"],
         "rows": [
-          [
-            "Feminine country (ends in -e)",
-            "en",
-            "de",
-            "en France, de France"
-          ],
-          [
-            "Masculine country",
-            "au",
-            "du",
-            "au Canada, du Japon"
-          ],
-          [
-            "Plural country",
-            "aux",
-            "des",
-            "aux États-Unis, des Pays-Bas"
-          ],
-          [
-            "Masculine starting with a vowel",
-            "en",
-            "d'",
-            "en Iran, d'Israël"
-          ],
-          [
-            "City",
-            "à",
-            "de",
-            "à Paris, de Montréal"
-          ],
-          [
-            "Island (small)",
-            "à",
-            "de",
-            "à Cuba, de Malte"
-          ]
+          ["Feminine country (ends in -e)", "en", "de", "en France, de France"],
+          ["Masculine country", "au", "du", "au Canada, du Japon"],
+          ["Plural country", "aux", "des", "aux États-Unis, des Pays-Bas"],
+          ["Masculine starting with a vowel", "en", "d'", "en Iran, d'Israël"],
+          ["City", "à", "de", "à Paris, de Montréal"],
+          ["Island (small)", "à", "de", "à Cuba, de Malte"]
         ]
       },
       {
@@ -3395,27 +2274,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Transport",
-          "Preposition",
-          "Logic"
-        ],
+        "head": ["Transport", "Preposition", "Logic"],
         "rows": [
-          [
-            "en voiture, en train, en avion, en bus",
-            "en",
-            "you sit inside it"
-          ],
-          [
-            "à pied, à vélo, à moto, à cheval",
-            "à",
-            "you sit on it, or use your legs"
-          ],
-          [
-            "dans le bus, dans le train",
-            "dans",
-            "referring to one specific vehicle"
-          ]
+          ["en voiture, en train, en avion, en bus", "en", "you sit inside it"],
+          ["à pied, à vélo, à moto, à cheval", "à", "you sit on it, or use your legs"],
+          ["dans le bus, dans le train", "dans", "referring to one specific vehicle"]
         ]
       },
       {
@@ -3458,10 +2321,7 @@
       {
         "type": "mcq",
         "q": "'I go by bike' is:",
-        "options": [
-          "en vélo",
-          "à vélo"
-        ],
+        "options": ["en vélo", "à vélo"],
         "answer": 1,
         "why": "You sit on a bike, so à."
       },
@@ -3484,47 +2344,19 @@
     "blocks": [
       {
         "type": "table",
-        "head": [
-          "Function",
-          "Connectors",
-          "Example"
-        ],
+        "head": ["Function", "Connectors", "Example"],
         "rows": [
-          [
-            "Sequencing",
-            "d'abord, ensuite, puis, enfin",
-            "D'abord, je me présente."
-          ],
-          [
-            "Adding",
-            "de plus, en plus, aussi, également",
-            "De plus, c'est moins cher."
-          ],
-          [
-            "Contrasting",
-            "mais, cependant, pourtant, par contre",
-            "Cependant, il y a des défis."
-          ],
-          [
-            "Giving reasons",
-            "parce que, car, puisque, comme",
-            "Comme il pleut, je reste ici."
-          ],
+          ["Sequencing", "d'abord, ensuite, puis, enfin", "D'abord, je me présente."],
+          ["Adding", "de plus, en plus, aussi, également", "De plus, c'est moins cher."],
+          ["Contrasting", "mais, cependant, pourtant, par contre", "Cependant, il y a des défis."],
+          ["Giving reasons", "parce que, car, puisque, comme", "Comme il pleut, je reste ici."],
           [
             "Giving results",
             "donc, alors, c'est pourquoi",
             "Il pleut, donc je prends un parapluie."
           ],
-          [
-            "Giving examples",
-            "par exemple, notamment",
-            "Par exemple, je joue au basket."
-          ],
-          [
-            "Concluding",
-            "en conclusion, pour finir, bref",
-            "Bref, c'était une bonne journée."
-          ],
+          ["Giving examples", "par exemple, notamment", "Par exemple, je joue au basket."],
+          ["Concluding", "en conclusion, pour finir, bref", "Bref, c'était une bonne journée."],
           [
             "Expressing opinion",
             "à mon avis, je pense que, selon moi",
@@ -3570,10 +2402,7 @@
       {
         "type": "mcq",
         "q": "Which can begin an answer to 'Pourquoi ?'",
-        "options": [
-          "Car",
-          "Parce que"
-        ],
+        "options": ["Car", "Parce que"],
         "answer": 1,
         "why": "car cannot start a sentence in reply; parce que can."
       },
@@ -3606,55 +2435,15 @@
       },
       {
         "type": "table",
-        "head": [
-          "Situation",
-          "Informal",
-          "Standard",
-          "Formal"
-        ],
+        "head": ["Situation", "Informal", "Standard", "Formal"],
         "rows": [
-          [
-            "Greeting",
-            "Salut !",
-            "Bonjour.",
-            "Bonjour Madame."
-          ],
-          [
-            "Asking",
-            "Tu peux… ?",
-            "Est-ce que vous pouvez… ?",
-            "Pourriez-vous… ?"
-          ],
-          [
-            "Wanting",
-            "Je veux…",
-            "Je voudrais…",
-            "J'aimerais…"
-          ],
-          [
-            "Question",
-            "Tu viens ?",
-            "Est-ce que tu viens ?",
-            "Venez-vous ?"
-          ],
-          [
-            "Negation",
-            "J'sais pas.",
-            "Je ne sais pas.",
-            "Je l'ignore."
-          ],
-          [
-            "Yes",
-            "Ouais.",
-            "Oui.",
-            "Tout à fait."
-          ],
-          [
-            "Goodbye",
-            "Salut, à plus !",
-            "Au revoir.",
-            "Je vous souhaite une bonne journée."
-          ]
+          ["Greeting", "Salut !", "Bonjour.", "Bonjour Madame."],
+          ["Asking", "Tu peux… ?", "Est-ce que vous pouvez… ?", "Pourriez-vous… ?"],
+          ["Wanting", "Je veux…", "Je voudrais…", "J'aimerais…"],
+          ["Question", "Tu viens ?", "Est-ce que tu viens ?", "Venez-vous ?"],
+          ["Negation", "J'sais pas.", "Je ne sais pas.", "Je l'ignore."],
+          ["Yes", "Ouais.", "Oui.", "Tout à fait."],
+          ["Goodbye", "Salut, à plus !", "Au revoir.", "Je vous souhaite une bonne journée."]
         ]
       },
       {
@@ -3667,27 +2456,11 @@
       },
       {
         "type": "table",
-        "head": [
-          "Email register",
-          "Opening",
-          "Closing"
-        ],
+        "head": ["Email register", "Opening", "Closing"],
         "rows": [
-          [
-            "Friend",
-            "Salut Marc,",
-            "À bientôt !"
-          ],
-          [
-            "Colleague",
-            "Bonjour Sophie,",
-            "Bonne journée,"
-          ],
-          [
-            "Stranger / official",
-            "Madame, Monsieur,",
-            "Cordialement,"
-          ]
+          ["Friend", "Salut Marc,", "À bientôt !"],
+          ["Colleague", "Bonjour Sophie,", "Bonne journée,"],
+          ["Stranger / official", "Madame, Monsieur,", "Cordialement,"]
         ]
       },
       {
@@ -3699,21 +2472,14 @@
       {
         "type": "mcq",
         "q": "Most formal way to ask someone to repeat:",
-        "options": [
-          "Répète ?",
-          "Tu peux répéter ?",
-          "Pourriez-vous répéter, s'il vous plaît ?"
-        ],
+        "options": ["Répète ?", "Tu peux répéter ?", "Pourriez-vous répéter, s'il vous plaît ?"],
         "answer": 2,
         "why": "The conditional plus vous is the formal register."
       },
       {
         "type": "mcq",
         "q": "'J'sais pas' is:",
-        "options": [
-          "a grammatical error",
-          "informal spoken French"
-        ],
+        "options": ["a grammatical error", "informal spoken French"],
         "answer": 1,
         "why": "Dropping ne and compressing je is normal in speech."
       },
@@ -3726,10 +2492,7 @@
       {
         "type": "mcq",
         "q": "You have just met your new manager. You use:",
-        "options": [
-          "tu",
-          "vous"
-        ],
+        "options": ["tu", "vous"],
         "answer": 1,
         "why": "Start with vous and wait to be invited to switch."
       }

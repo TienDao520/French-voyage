@@ -21,7 +21,7 @@ const Settings = lazy(() => import('./pages/Settings.jsx'));
 function App() {
   return (
     // While a lazy-loaded page is downloading, show this fallback.
-    <Suspense fallback={<p style={{ padding: '1.5rem' }}>Loading…</p>}>
+    <Suspense fallback={<p className="container py-5 text-muted-2">Loading…</p>}>
       <Routes>
         {/* All child routes share the Layout component */}
         <Route path="/" element={<Layout />}>
