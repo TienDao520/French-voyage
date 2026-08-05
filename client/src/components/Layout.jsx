@@ -1,5 +1,6 @@
 import { NavLink, Outlet, Link } from 'react-router-dom';
 import { useState } from 'react';
+import { useSettings } from '../context/SettingsContext.jsx';
 
 const links = [
   { to: '/', label: 'Home', end: true },
@@ -15,15 +16,12 @@ const links = [
 ];
 
 function Layout() {
-  const [dark, setDark] = useState(false);
-  const [open, setOpen] = useState(false);
+  const { settings, set } = useSettings();
+  const dark =
+    settings.theme === 'dark' ||
+    (settings.theme === 'auto' && window.matchMedia('(prefers-color-scheme: dark)').matches);
 
-  function toggleTheme() {
-    const next = !dark;
-    setDark(next);
-    // theme.scss watches this attribute; flipping it swaps every --fv-* token.
-    document.documentElement.dataset.theme = next ? 'dark' : 'light';
-  }
+  const [open, setOpen] = useState(false);
 
   // Skip-link handler: don't change the URL (HashRouter owns the hash);
   // just move keyboard focus straight to the main content region.
@@ -48,7 +46,9 @@ function Layout() {
           {/* Only exists below the lg breakpoint */}
           <button
             className="btn btn-sm btn-outline-secondary d-lg-none ms-auto"
-            onClick={() => setOpen((o) => !o)}
+            onClick={() =>
+              setOpen((o) => !o)
+            } /**functional update form of setState: every click flips the value  */
             aria-expanded={open}
             aria-controls="main-nav"
           >
@@ -60,7 +60,10 @@ function Layout() {
             className={`nav flex-column flex-lg-row mb-0 ${open ? 'd-flex' : 'd-none'} d-lg-flex w-100 w-lg-auto`}
           >
             {links.map((link) => (
-              <li className="nav-item" key={link.to}>
+              /** React needs a unique key for every item in a list */ <li
+                className="nav-item"
+                key={link.to}
+              >
                 <NavLink
                   className="nav-link"
                   to={link.to}
@@ -75,7 +78,7 @@ function Layout() {
 
           <button
             className="btn btn-sm btn-outline-secondary ms-auto ms-lg-0 flex-shrink-0"
-            onClick={toggleTheme}
+            onClick={() => set({ theme: dark ? 'light' : 'dark' })}
             aria-label={dark ? 'Switch to light mode' : 'Switch to dark mode'}
           >
             {dark ? '☀' : '☾'}
