@@ -1,5 +1,6 @@
 import { NavLink, Outlet, Link } from 'react-router-dom';
 import { useState } from 'react';
+import { stats } from '../lib/content.js';
 import { useSettings } from '../context/SettingsContext.jsx';
 
 const links = [
@@ -95,7 +96,10 @@ function Layout() {
         <hr className="rule" />
         <div className="d-flex flex-wrap gap-3 justify-content-between align-items-center small text-muted-2">
           {/* Hardcoded until step 11's content loader supplies live stats */}
-          <span>French Voyage — 62 grammar lessons, 669 vocabulary cards, 80 verbs.</span>
+          <span>
+            French Voyage — {stats.grammar} grammar lessons, {stats.vocabulary} vocabulary cards,{' '}
+            {stats.verbs} verbs.
+          </span>
         </div>
       </footer>
     </>

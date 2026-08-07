@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
 
 import { storage, EMPTY_STATE } from '../lib/storage.js';
+import { newCard, grade, isoDay } from '../lib/srs.js';
 
 const ProgressContext = createContext(null);
 
@@ -75,7 +76,17 @@ export function ProgressProvider({ children }) {
           };
         }),
 
-      // reviewCard arrives with the SRS engine in step 10.
+      // Grade one card: update its schedule and tick today's history count.
+      reviewCard: (cardId, g) =>
+        mutate((s) => {
+          const card = s.cards[cardId] || newCard(cardId);
+          const day = isoDay();
+          return {
+            ...s,
+            cards: { ...s.cards, [cardId]: grade(card, g) },
+            history: { ...s.history, [day]: (s.history[day] ?? 0) + 1 },
+          };
+        }),
 
       resetAll: () => mutate(() => ({ ...EMPTY_STATE })),
 
