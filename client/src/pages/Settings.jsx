@@ -3,7 +3,7 @@ import { useProgress } from '../context/ProgressContext.jsx';
 
 function Settings() {
   const { settings, set, reset } = useSettings();
-  const { state, resetAll } = useProgress();
+  const { state, resetAll, mode } = useProgress();
 
   return (
     <div className="stack" style={{ maxWidth: 480 }}>
@@ -32,7 +32,9 @@ function Settings() {
         Show English translations
       </label>
 
-      <p className="en mb-0">Cards studied so far: {Object.keys(state.cards).length}</p>
+      <p className="en mb-0">
+        Cards studied so far: {Object.keys(state.cards).length} · storage: {mode}
+      </p>
 
       <div className="d-flex gap-2">
         <button className="btn btn-outline-secondary btn-sm" onClick={reset}>

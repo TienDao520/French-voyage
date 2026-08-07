@@ -1,6 +1,7 @@
 import { createContext, useContext, useEffect, useMemo, useState } from 'react';
 
 const SettingsContext = createContext(null);
+const KEY = 'fv:settings';
 
 const DEFAULTS = {
   theme: 'auto', // auto | light | dark
@@ -10,9 +11,26 @@ const DEFAULTS = {
   sessionSize: 30,
 };
 
+function read() {
+  try {
+    return { ...DEFAULTS, ...JSON.parse(localStorage.getItem(KEY) || '{}') };
+  } catch {
+    return { ...DEFAULTS };
+  }
+}
+
 export function SettingsProvider({ children }) {
-  // In-memory only for now — step 09 teaches this state to survive a refresh.
-  const [settings, setSettings] = useState(DEFAULTS);
+  // Passing the function itself — not read() — is a lazy initializer:
+  // React calls it once, on the first render only.
+  const [settings, setSettings] = useState(read);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem(KEY, JSON.stringify(settings));
+    } catch {
+      // Private browsing may forbid writes — settings just won't survive the tab.
+    }
+  }, [settings]);
 
   // Apply the theme choice to <html data-theme="...">, and while the choice
   // is 'auto', follow the operating system's preference live.

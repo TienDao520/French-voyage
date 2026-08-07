@@ -1,25 +1,50 @@
-import { createContext, useContext, useMemo, useState } from 'react';
+import { createContext, useContext, useEffect, useMemo, useRef, useState } from 'react';
+
+import { storage, EMPTY_STATE } from '../lib/storage.js';
 
 const ProgressContext = createContext(null);
 
-// Everything the learner has done. This shape moves into lib/storage in
-// step 09, when it learns to survive a refresh.
-export const EMPTY_STATE = {
-  cards: {}, // per-flashcard SRS state, keyed by card id (engine: step 10)
-  lessons: {}, // grammar lesson results, keyed by lesson id
-  quizzes: {}, // quiz results, keyed by quiz id
-  history: {}, // reviews per day, keyed by ISO date
-};
-
 export function ProgressProvider({ children }) {
   const [state, setState] = useState(EMPTY_STATE);
+  const [loading, setLoading] = useState(true);
+  const dirty = useRef(false);
+
+  // Load once on mount. `alive` guards against a late result arriving after
+  // unmount (or after StrictMode's dev-only double-mount discards the first).
+  useEffect(() => {
+    let alive = true;
+    storage.load().then((loaded) => {
+      if (alive) {
+        setState(loaded);
+        setLoading(false);
+      }
+    });
+    return () => {
+      alive = false;
+    };
+  }, []);
+
+  // Debounced save — studying produces bursts of tiny writes; wait for a
+  // 400 ms quiet moment, then write once. The cleanup cancels the pending
+  // timer whenever state changes again: that cancellation IS the debounce.
+  useEffect(() => {
+    if (loading || !dirty.current) return undefined;
+    const id = setTimeout(() => storage.save(state), 400);
+    return () => clearTimeout(id);
+  }, [state, loading]);
+
+  // Every mutation passes through here: mark unsaved work, then update.
+  function mutate(fn) {
+    dirty.current = true;
+    setState(fn);
+  }
 
   const value = useMemo(
     () => ({
       state,
 
       recordLesson: (lessonId, { correct, total }) =>
-        setState((s) => ({
+        mutate((s) => ({
           ...s,
           lessons: {
             ...s.lessons,
@@ -33,7 +58,7 @@ export function ProgressProvider({ children }) {
         })),
 
       recordQuiz: (quizId, { correct, total }) =>
-        setState((s) => {
+        mutate((s) => {
           const prev = s.quizzes[quizId] || { runs: 0, bestPct: 0, lastPct: 0 };
           const pct = total ? Math.round((correct / total) * 100) : 0;
           return {
@@ -52,9 +77,12 @@ export function ProgressProvider({ children }) {
 
       // reviewCard arrives with the SRS engine in step 10.
 
-      resetAll: () => setState({ ...EMPTY_STATE }),
+      resetAll: () => mutate(() => ({ ...EMPTY_STATE })),
+
+      loading,
+      mode: storage.mode,
     }),
-    [state],
+    [state, loading],
   );
 
   return <ProgressContext.Provider value={value}>{children}</ProgressContext.Provider>;
